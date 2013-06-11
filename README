@@ -1,11 +1,16 @@
-++ CRAB3-GlideinWMS - MetaPackage ++
+CRAB3-GlideinWMS - MetaPackage
+==============================
 
 This repository will make a VM with the relevant CRAB3-GWMS source
 trees checked out, as well as the necessary dependencies. Useful if you're
 like me and manage to spill water on your laptop, but still want to
-develop
+develop.
 
-++ To start ++
+It's also a handy place to stick common CRAB3-GWMS tickets, CI configs
+and example scripts (so things aren't spread out everywhere)
+
+To Start
+--------
 
   1. Install VirtualBox (virtualbox.org) and Vagrant (vagrantup.com) to
      your machine.
