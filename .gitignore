@@ -35,5 +35,8 @@ nosetests.xml
 .project
 .pydevproject
 
+
+# random stuff
+.vagrant/
 repos/
 tmp/

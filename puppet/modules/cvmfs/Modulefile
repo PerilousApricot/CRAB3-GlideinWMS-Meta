@@ -1,0 +1,12 @@
+name 'PerilousApricot-cvmfs'
+version '1.0'
+
+author 'Andrew Melo'
+license 'Apache2'
+project_page 'http://www.example42.com'
+source 'https://github.com/PerilousApricot/puppet-cvmfs'
+summary 'Puppet module for cvmfs'
+description 'This module installs and manages cvmfs. Check README for details.'
+dependency 'example42/puppi', '>=2.0.0'
+dependency 'example42/firewall', '>=2.0.0'
+dependency 'example42/monitor', '>=2.0.0'

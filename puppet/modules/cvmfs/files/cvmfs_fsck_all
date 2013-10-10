@@ -1,0 +1,71 @@
+#!/bin/bash
+
+# Run cvmfs_fsck on all cvmfs caches
+
+### LOCKING ###
+# https://gist.github.com/przemoc/571091
+# Copyright (C) 2009 Przemyslaw Pawelczyk <przemoc@gmail.com>
+# License: GNU General Public License v2, v3
+LOCKFILE="/var/lock/`basename $0`"
+LOCKFD=99
+
+# PRIVATE
+_lock() { flock -$1 $LOCKFD; }
+_no_more_locking() { _lock u; _lock xn && rm -f $LOCKFILE; }
+_prepare_locking() { eval "exec $LOCKFD>\"$LOCKFILE\""; trap _no_more_locking EXIT; }
+
+# ON START
+_prepare_locking
+
+# PUBLIC
+exlock_now() { _lock xn; } # obtain an exclusive lock immediately or fail
+exlock() { _lock x; } # obtain an exclusive lock
+shlock() { _lock s; } # obtain a shared lock
+unlock() { _lock u; } # drop a lock
+### END LOCKING ###
+
+log() { logger -t cvmfs_fsck -s $@; }
+
+# Sleep up to 5 hours
+sleep $[ ( $RANDOM % 300 ) + 1 ]m
+
+# Only run one at a time
+exlock_now || exit 1
+
+# Source CVMFS configuration
+. /etc/cvmfs/default.conf
+. /etc/cvmfs/default.local
+
+CLEAR_CACHE=0
+
+# foreach CVMFS cache directory
+for i in `find ${CVMFS_CACHE_BASE} -name txn` ; do
+	DIR=`dirname $i`
+
+	log "Starting on ${DIR}"
+
+	# Check CVMFS cache
+	nice -n19 ionice -c 3 cvmfs_fsck -p "${DIR}" &> /dev/null
+	RET=$?
+
+	log "Completed on ${DIR} with exit $?"
+
+	# If the fsck showed errors and it's mounted, clear the VM cache
+	if [ $RET -ne 0 ] && [ -a ${DIR}/cvmfs_io  ] ; then
+		CLEAR_CACHE=1
+	fi
+
+	# Verify SQLite (does not work for cvmfs 2.1)
+	#sqlite3 "${DIR}/cvmfscatalog.cache" "PRAGMA integrity_check;" &> /dev/null
+	#if [ $? -ne 0 ]; then
+	#	log "Deleting damaged SQLite database at ${DIR}"
+	#	rm "${DIR}/cvmfscatalog.cache"
+	#fi
+done
+
+# If cvmfs_fsck found a damaged file in a mounted FS, clear the VM cache
+if [ $CLEAR_CACHE -ne 0 ]; then
+	log "Clearing VM cache"
+	echo 2 > /proc/sys/vm/drop_caches
+fi
+
