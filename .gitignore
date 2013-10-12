@@ -38,5 +38,9 @@ nosetests.xml
 
 # random stuff
 .vagrant/
-repos/
+repos/CAFTaskWorker
+repos/CAFUtilities
+repos/CRABServer
+repos/CRABClient
+repos/WMCore
 tmp/
