@@ -1,7 +1,6 @@
  <site-local-config>
- <site name="T2_US_Nebraska">
+ <site name="T3_US_Vanderbilt_EC2">
     <event-data>
-      <catalog url="trivialcatalog_file://etc/cvmfs/SITECONF/PhEDEx/storage.xml?protocol=direct"/>
       <catalog url="trivialcatalog_file://etc/cvmfs/SITECONF/PhEDEx/storage.xml?protocol=xrootd"/>
     </event-data>
     <source-config>
@@ -17,8 +16,9 @@
       <command value="srmv2-lcg" />
       <!--<option value="-debug=true" />-->
       <catalog url="trivialcatalog_file://etc/cvmfs/SITECONF/PhEDEx/storage.xml?protocol=srmv2"/>
-      <se-name value="srm.unl.edu" />
-    </local-stage-out>
+      <se-name value="brazil.accre.vanderbilt.edu" />
+  </local-stage-out>
+  <!-- should put one of these on the other side of the pond, probs -->
     <fallback-stage-out>
       <se-name value="srm-dcache.rcac.purdue.edu"/>
       <lfn-prefix value="srm://srm-dcache.rcac.purdue.edu:8443/srm/v2/server?SFN=/mnt/hadoop/"/>

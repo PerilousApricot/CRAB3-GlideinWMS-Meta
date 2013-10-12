@@ -1,39 +1,14 @@
 <storage-mapping>
-  
-  <!-- LFN mappings... -->
-  <!-- Direct protocol rules -->
-  <lfn-to-pfn protocol="direct" destination-match=".*" path-match=".*/LoadTest07_Nebraska_(.*)_.*_.*" result="/mnt/hadoop/user/uscms01/pnfs/unl\.edu/data4/cms/store/phedex_monarctest/Nebraska/LoadTest07_Nebraska_$1"/>
-  <lfn-to-pfn protocol="direct" destination-match=".*" path-match="/+store/(.*)" result="/mnt/hadoop/user/uscms01/pnfs/unl.edu/data4/cms/store/$1"/>
 
-  <!-- Xrootd fallback rules -->
+  <!-- Xrootd only -->
   <lfn-to-pfn protocol="xrootd" destination-match=".*" path-match="/+store/(.*)" result="root://xrootd.unl.edu//store/$1"/>
-
-  <!-- Hadoop protocol rules-->
-  <!-- The "hadoop" protocol line is necessary for PA stageout -->
-  <lfn-to-pfn protocol="hadoop" destination-match=".*" path-match="/+store/(.*)" result="/user/uscms01/pnfs/unl.edu/data4/cms/store/$1"/>
 
   <!-- SRM protocol rules. -->
   <!-- LoadTest rules; first, Nebraska LT, then all other T1s -->
-  <lfn-to-pfn protocol="srmv2"  destination-match=".*" chain="direct" path-match=".*/LoadTest07_Nebraska_(.*)_.*_.*" result="srm://dcache07.unl.edu:8443/srm/v2/server?SFN=$1"/>
-  <!-- GridFTP-only tests with FNAL -->
-  <!--<lfn-to-pfn protocol="srmv2"  destination-match=".*" path-match="/store/PhEDEx_LoadTest07/LoadTest07_Debug_FNAL/Nebraska/.*/(.*)"  result="gsiftp://red-gridftp.unl.edu/user/uscms01/LoadTestDownload/$1"/> -->
-  <lfn-to-pfn protocol="srmv2"  destination-match=".*" path-match="/store/PhEDEx_LoadTest07/LoadTest07_Debug_.*/Nebraska/.*/(.*)" result="srm://dcache07.unl.edu:8443/srm/v2/server?SFN=/mnt/hadoop/user/uscms01/LoadTestDownload/$1"/>
-  <!-- SE SAM test rules for dcache07.unl.edu.  srm.unl.edu is taken care of by the more generic rule below for /store/unmerged/SAM.* -->
-  <lfn-to-pfn protocol="srmv2"  destination-match=".*" chain="direct" path-match="(.*/+store/unmerged/SAM/testSRM/SAM-dcache07.unl.edu.*)" result="srm://dcache07.unl.edu:8443/srm/v2/server?SFN=$1"/>
-  <lfn-to-pfn protocol="srmv2"  destination-match=".*" chain="direct" path-match="(.*/+store/unmerged/SAM/testSRM/SAM-red-srm1.unl.edu.*)" result="srm://red-srm1.unl.edu:8443/srm/v2/server?SFN=$1"/>
-  <!-- SAM test rules for srm.unl.edu; for stageout tests  -->
-  <lfn-to-pfn protocol="srmv2"  destination-match=".*" chain="direct" path-match="(.*/+store/.*user/test/SAM-srm.unl.edu.*)" result="srm://srm.unl.edu:8443/srm/v2/server?SFN=$1"/> <!-- maps /store/user and /store/temp/user -->
-  <lfn-to-pfn protocol="srmv2"  destination-match=".*" chain="direct" path-match="(.*/store/unmerged/testLFN)"               result="srm://srm.unl.edu:8443/srm/v2/server?SFN=$1"/>
-  <lfn-to-pfn protocol="srmv2"  destination-match=".*" chain="direct" path-match="(.*/store/unmerged/SAM.*)"                 result="srm://srm.unl.edu:8443/srm/v2/server?SFN=$1"/>
-  <lfn-to-pfn protocol="srmv2"  destination-match=".*" chain="direct" path-match="(.*/store/mc/SAM.*)"                       result="srm://srm.unl.edu:8443/srm/v2/server?SFN=$1"/>
- <!-- This fdt rule is used by the phedex fdt agent.  Add chain="direct"
-         if you need to add the posix mount path -->
-<lfn-to-pfn protocol="fdt" destination-match=".*" chain="direct" path-match="(.*)" result="fdt://red-gridftp11.unl.edu:54321/$1"/>
-
-  <lfn-to-pfn protocol="srmv2"  destination-match=".*" chain="direct" path-match="(.*)" result="srm://dcache07.unl.edu:8443/srm/v2/server?SFN=$1"/>
+  <lfn-to-pfn protocol="srmv2"  destination-match=".*" path-match=".*/LoadTest07_Nebraska_(.*)_.*_.*" result="srm://brazil.accre.vanderbilt.edu:6288/srm/v2/server?SFN=$1"/>
+j
   <!-- Reverse mappings... -->
-  <pfn-to-lfn protocol="hadoop" destination-match=".*" path-match="/user/uscms01/pnfs/unl.edu/data4/cms/(.*)" result="/$1"/>
-  <pfn-to-lfn protocol="direct" destination-match=".*" path-match="/mnt/hadoop/user/uscms01/pnfs/unl\.edu/data4/cms/(.*)" result="/$1"/>
+  <pfn-to-lfn protocol="xrootd" destination-match=".*" path-match=".*(/store/.*)" result="/$1"/>
   <pfn-to-lfn protocol="srmv2"  destination-match=".*" chain="direct" path-match=".*\?SFN=(.*)" result="$1"/>
 
 </storage-mapping>

@@ -1,27 +1,27 @@
-# Class: cvmfs::params
+# Class: cms-httpg-base::params
 #
-# This class defines default parameters used by the main module class cvmfs
+# This class defines default parameters used by the main module class cms-httpg-base
 # Operating Systems differences in names and paths are addressed here
 #
 # == Variables
 #
-# Refer to cvmfs class for the variables defined here.
+# Refer to cms-httpg-base class for the variables defined here.
 #
 # == Usage
 #
 # This class is not intended to be used directly.
 # It may be imported or inherited by other classes
 #
-class cvmfs::params {
+class cms-httpg-base::params {
 
   ### Application related parameters
 
   $package = $::operatingsystem ? {
-    default => 'cvmfs',
+    default => 'cms-httpg-base',
   }
 
   $service = $::operatingsystem ? {
-    default => 'cvmfs',
+    default => 'cms-httpg-base',
   }
 
   $service_status = $::operatingsystem ? {
@@ -29,7 +29,7 @@ class cvmfs::params {
   }
 
   $process = $::operatingsystem ? {
-    default => 'cvmfs',
+    default => 'cms-httpg-base',
   }
 
   $process_args = $::operatingsystem ? {
@@ -37,15 +37,15 @@ class cvmfs::params {
   }
 
   $process_user = $::operatingsystem ? {
-    default => 'cvmfs',
+    default => 'cms-httpg-base',
   }
 
   $config_dir = $::operatingsystem ? {
-    default => '/etc/cvmfs',
+    default => '/etc/cms-httpg-base',
   }
 
   $config_file = $::operatingsystem ? {
-    default => '/etc/cvmfs/default.local',
+    default => '/etc/cms-httpg-base/cms-httpg-base.conf',
   }
 
   $config_file_mode = $::operatingsystem ? {
@@ -61,24 +61,24 @@ class cvmfs::params {
   }
 
   $config_file_init = $::operatingsystem ? {
-    /(?i:Debian|Ubuntu|Mint)/ => '/etc/default/cvmfs',
-    default                   => '/etc/sysconfig/cvmfs',
+    /(?i:Debian|Ubuntu|Mint)/ => '/etc/default/cms-httpg-base',
+    default                   => '/etc/sysconfig/cms-httpg-base',
   }
 
   $pid_file = $::operatingsystem ? {
-    default => '/var/run/cvmfs.pid',
+    default => '/var/run/cms-httpg-base.pid',
   }
 
   $data_dir = $::operatingsystem ? {
-    default => '/etc/cvmfs',
+    default => '/etc/cms-httpg-base',
   }
 
   $log_dir = $::operatingsystem ? {
-    default => '/var/log/cvmfs',
+    default => '/var/log/cms-httpg-base',
   }
 
   $log_file = $::operatingsystem ? {
-    default => '/var/log/cvmfs/cvmfs.log',
+    default => '/var/log/cms-httpg-base/cms-httpg-base.log',
   }
 
   $port = '42'
@@ -92,7 +92,7 @@ class cvmfs::params {
   $template = ''
   $options = ''
   $service_autorestart = true
-  $version = 'latest'
+  $version = 'present'
   $absent = false
   $disable = false
   $disableboot = false
@@ -111,7 +111,4 @@ class cvmfs::params {
   $audit_only = false
   $noops = false
 
-  ### my configs
-  $user =  "cvmfs"
-  $group = "cvmfs"
 }

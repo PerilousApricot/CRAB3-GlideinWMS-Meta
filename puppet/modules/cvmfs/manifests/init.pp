@@ -335,7 +335,7 @@ class cvmfs (
 
 # we run cvmfs as a dedicated user
             group { "cvmfs":
-                name => "group",
+                name => "${cvmfs::group}",
                      ensure => present,
                      system => true,
             }
@@ -351,10 +351,10 @@ class cvmfs (
                      shell => '/sbin/nologin',
             }
             package { $cvmfs::package:
-                ensure  => $cvmfs::manage_package,
-                        noop    => $cvmfs::bool_noops,
-                        notify  => Service["autofs"],
-                        require => User["cvmfs"]
+                    ensure  => latest, #$cvmfs::manage_package,
+                    noop    => $cvmfs::bool_noops,
+                    notify  => Service["autofs"],
+                    require => User["cvmfs"]
             }
 
 
