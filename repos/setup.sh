@@ -2,6 +2,7 @@ export CRAB3_VERSION=DEV-$(git rev-parse HEAD)
 export CRAB3_BASEPATH=`dirname ${BASH_SOURCE[0]}`
 export CRAB3_BASEPATH=`readlink -e $CRAB3_BASEPATH`
 # FIXME: Need to decide on CRAB or CRAB3 for env vars
+
 export CRAB_DEV_BASE=$CRAB3_BASEPATH
 export PATH=$CRAB3_BASEPATH/CRABClient/bin:$PATH
 export PYTHONPATH=$CRAB3_BASEPATH/lib/python:$PYTHONPATH
