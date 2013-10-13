@@ -12,6 +12,7 @@ solution to having 5 repositories is to add a 6th.
 
 To Start within a VM
 --------
+Within the VM installation, this repository will show up under /vagrant
 
   1. Install VirtualBox (virtualbox.org) and Vagrant (vagrantup.com) to
      your machine.
@@ -39,3 +40,32 @@ To Start outside a VM
   4. Hack the repositories under repos/
   5. ???
   6. Profit!
+
+Running CRAB3
+-------------
+
+Once you have the client installed, you can do the following to quickstart
+using the client:
+
+```bash
+<repo path>/examples/bootstrap-cmssw-project.sh
+```
+
+This will make a blank CMSSW location, copy some example configurations,
+pull down needed additional dependencies and give you a shell script to
+source when you next log back in. From there, the `crab3` command will work
+properly.
+
+```
+[brazil] $ vagrant ssh
+Last login: Sun Oct 13 09:15:16 2013 from 10.0.2.2
+$ . source-crab3-env.sh 
+CRAB3 + CMSSW environment sourced
+$ crab3 -h
+Usage: crab [options] COMMAND [command-options] [args]
+
+<snip>
+
+For more information on how to run CRAB-3 please follow this link: 
+ https://twiki.cern.ch/twiki/bin/view/CMS/RunningCRAB3
+```
