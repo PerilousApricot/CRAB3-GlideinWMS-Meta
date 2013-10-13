@@ -38,9 +38,11 @@ nosetests.xml
 
 # random stuff
 .vagrant/
+.librarian/
 repos/CAFTaskWorker
 repos/CAFUtilities
 repos/CRABServer
 repos/CRABClient
 repos/WMCore
+repos/CRAB3-externals.zip
 tmp/
