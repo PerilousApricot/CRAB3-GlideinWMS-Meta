@@ -30,7 +30,8 @@ echo "Installing CMS-required system packages"
 # FIXME: This is hardcoded, figure out how to pull from the driver
 # http://cmsrep.cern.ch/cmssw/comp.pre/slc5_amd64_gcc461-driver.txt
 yum install -y glibc coreutils bash tcsh zsh perl tcl tk readline openssl ncurses e2fsprogs krb5-libs freetype compat-readline5 ncurses-libs perl-libs perl-ExtUtils-Embed fontconfig compat-libstdc++-33 libidn libX11 libXmu libSM libICE libXcursor libXext libXrandr libXft mesa-libGLU mesa-libGL e2fsprogs-libs libXi libXinerama libXft libXrender libXpm libcom_err
-
+echo "And helpful other packages"
+yum install -y git vim
 # FIXME: This is needed for some reason because of:
 #error: Failed dependencies:
 #        perl(Test::Harness) is needed by external+mod_perl2+2.0.7-1-1.x86_64
