@@ -17,3 +17,14 @@ if [ "x$CONDOR_CONFIG" = "x" ] && [ ! -e /etc/condor/condor_config ] && [ ! -e $
 then
   export CONDOR_CONFIG=$CRAB3_BASEPATH/lib/fake_condor_config
 fi
+
+# Annoyingly, CMSSW breaks git which, uh, we kinda need:
+#$ git
+#git: /cvmfs/cms.cern.ch/slc5_amd64_gcc462/cms/cmssw/CMSSW_5_3_11/external/slc5_amd64_gcc462/lib/libz.so.1: version `ZLIB_1.2.0' not found (required by git)
+#$ echo $?
+#1
+git >/dev/null 2>&1
+if [ $? -eq 1 ]; then
+    # sucks...
+    alias git='env -u LD_LIBRARY_PATH git'
+fi
