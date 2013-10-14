@@ -10,7 +10,7 @@ else
 fi
 
 ssh ${OPTIONS} localhost mkdir -p /home/vagrant/.ssh
-for KEY in ~/.ssh/*.pub; do
+for KEY in ~/.ssh/id_*; do
     if [[ -f $KEY ]]; then
         echo "Moving $KEY into VM"
         scp ${OPTIONS} $KEY localhost:/home/vagrant/.ssh/$(basename $KEY)
