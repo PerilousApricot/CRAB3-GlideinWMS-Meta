@@ -11,3 +11,4 @@ echo "   credentials in GitHub for this to work)"
 [[ -d repos/CAFUtilities ]] || git clone -b dagman git@github.com:bbockelm/CAFUtilities.git repos/CAFUtilities
 [[ -d repos/CAFTaskWorker ]] || git clone -b dagman git@github.com:bbockelm/CAFTaskWorker.git repos/CAFTaskWorker
 [[ -d repos/WMCore ]] || git clone -b crab3 git@github.com:bbockelm/WMCore.git repos/WMCore
+[[ -d repos/AsyncStageout ]] || git clone -b master https://github.com/dmwm/AsyncStageout.git

@@ -44,5 +44,6 @@ repos/CAFUtilities
 repos/CRABServer
 repos/CRABClient
 repos/WMCore
+repos/AsyncStageout
 repos/CRAB3-externals.zip
 tmp/

@@ -3,6 +3,7 @@ export CRAB3_BASEPATH=`dirname ${BASH_SOURCE[0]}`
 export CRAB3_BASEPATH=`readlink -e $CRAB3_BASEPATH`
 # FIXME: Need to decide on CRAB or CRAB3 for env vars
 export CRAB_DEV_BASE=$CRAB3_BASEPATH
+export CRAB3_CHECKOUT=$CRAB3_BASEPATH
 if [[ ! -e $CRAB3_BASEPATH/CRAB3-externals.zip ]]; then
     pushd $CRAB3_BASEPATH
     export CRAB_OVERRIDE_SOURCE="$CRAB3_BASEPATH"
@@ -11,7 +12,8 @@ if [[ ! -e $CRAB3_BASEPATH/CRAB3-externals.zip ]]; then
     popd
 fi
 export PATH=$CRAB3_BASEPATH/CRABClient/bin:$PATH
-export PYTHONPATH=$CRAB3_BASEPATH/lib/python:$CRAB3_BASEPATH/CRAB3-externals.zip:$PYTHONPATH:$CRAB3_BASEPATH/WMCore/src/python:$CRAB3_BASEPATH/CRABServer/src/python:$CRAB3_BASEPATH/CRABClient/src/python:$CRAB3_BASEPATH/CAFTaskWorker/src/python:$CRAB3_BASEPATH/CAFUtilities/src/python
+export PYTHONPATH=$CRAB3_BASEPATH/lib/python:$CRAB3_BASEPATH/CRAB3-externals.zip:$PYTHONPATH:$CRAB3_BASEPATH/WMCore/src/python:$CRAB3_BASEPATH/CRABServer/src/python:$CRAB3_BASEPATH/CRABClient/src/python:$CRAB3_BASEPATH/CAFTaskWorker/src/python:$CRAB3_BASEPATH/CAFUtilities/src/python:$CRAB3_BASEPATH/WMCore/test/python:$CRAB3_BASEPATH/CRABServer/test/python:$CRAB3_BASEPATH/CRABClient/test/python:$CRAB3_BASEPATH/CAFTaskWorker/test/python:$CRAB3_BASEPATH/CAFUtilities/test/python:$CRAB3_BASEPATH/AsyncStageout/src/python:$CRAB3_BASEPATH/AsyncStageout/test/python
+
 export LD_LIBRARY_PATH=$CRAB3_BASEPATH/lib:$CRAB3_BASEPATH/lib/condor:$LD_LIBRARY_PATH
 if [ "x$CONDOR_CONFIG" = "x" ] && [ ! -e /etc/condor/condor_config ] && [ ! -e $HOME/.condor/condor_config ];
 then
