@@ -1,0 +1,2 @@
+{ "cms-httpg-frontend::repo" : "-r comp=comp.pre.meloam",
+  "cms-httpg-frontend::rpm_host" : "brazil.accre.vanderbilt.edu:8081" }

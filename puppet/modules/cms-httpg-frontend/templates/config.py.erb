@@ -1,0 +1,61 @@
+from WMCore.Configuration import Configuration
+import re
+import socket
+
+myhost = socket.getfqdn().lower()
+
+conf = Configuration()
+main = conf.section_('main')
+srv = main.section_('server')
+srv.thread_pool = 5
+main.application = 'crabserver'
+main.port = 8270
+main.index = 'data'
+
+main.authz_defaults = { 'role': None, 'group': None, 'site': None }
+main.section_('tools').section_('cms_auth').key_file = "%s/auth/wmcore-auth/header-auth-key" % __file__.rsplit('/', 3)[0]
+
+app = conf.section_('crabserver')
+app.admin = 'cms-service-webtools@cern.ch'
+app.description = 'CRABServer RESTFull API'
+app.title = 'CRABRESTFull'
+
+views = conf.section_('views')
+
+data = views.section_('data')
+data.object = 'CRABInterface.RESTBaseAPI.RESTBaseAPI'
+data.phedexurl = 'https://cmsweb.cern.ch/phedex/datasvc/xml/prod/'
+data.dbsurl = 'http://cmsdbsprod.cern.ch/cms_dbs_prod_global/servlet/DBSServlet'
+data.defaultBlacklist = ['T0_CH_CERN']
+data.serverhostcert = "%s/auth/crabserver/dmwm-service-cert.pem" % __file__.rsplit('/', 3)[0]
+data.serverhostkey = "%s/auth/crabserver/dmwm-service-key.pem" % __file__.rsplit('/', 3)[0]
+#data.serverhostcert = "/data/current/auth/crabserver/hostcert.pem"
+#data.serverhostkey = "/data/current/auth/crabserver/hostkey.pem"
+data.credpath = '%s/state/crabserver/proxy/' % __file__.rsplit('/', 4)[0]
+data.db = 'CRABServerAuth.dbconfig'
+data.workflowManager = 'HTCondorDataWorkflow'
+#data.workflowManager = 'PandaDataWorkflow'
+
+#data.extconfigurl = 'http://git.cern.ch/pubweb/?p=CAFServicesConfig.git;a=blob_plain;f=cmsweb-rest-config.json'
+data.extconfigurl = 'https://gist.github.com/mmascher/7085331/raw/'
+data.mode = "cmsweb-dev"
+data.asourl = "https://cmsweb-dev.cern.ch/couchdb/asynctransfer"
+
+TaskWorker = data.section_("TaskWorker")
+TaskWorker.htcondorPool = 'glidein-collector.t2.ucsd.edu'
+TaskWorker.htcondorSchedds = ['crab3test@submit-5.t2.ucsd.edu']
+
+
+data.credpath = '%s/state/crabserver/proxy/' % __file__.rsplit('/', 4)[0]
+data.db = 'CRABServerAuth.dbconfig'
+data.workflowManager = 'HTCondorDataWorkflow'
+data.extconfigurl = 'https://raw.github.com/bbockelm/CAFServicesConfig/master/cmsweb-rest-config.json'
+data.mode = "cmsweb-dev"
+data.asourl = "https://cmsweb-dev.cern.ch/couchdb/asynctransfer"
+data.loggingFile = '/data/logs/crabserver/crabserver.log'
+data.loggingLevel = 10
+
+TaskWorker = data.section_("TaskWorker")
+TaskWorker.htcondorPool = 'glidein-collector.t2.ucsd.edu'
+TaskWorker.htcondorSchedds = ['crab3test@submit-5.t2.ucsd.edu']
+

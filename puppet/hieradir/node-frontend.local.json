@@ -1,0 +1,11 @@
+{ "cms-httpg-frontend::needed_software" : "admin frontend crabserver@3.3.0.pre18-comp asyncstageout@1.0.0pre4",
+  "cms-httpg-frontend::disable_mkvomsmap_cron" : 1,
+  "cms-httpg-frontend::disable_mkauthmap_cron" : 1,
+  "cms-httpg-frontend::vomsmap_source" : "puppet:///modules/cms-httpg-frontend/default-voms-gridmap.txt",
+  "cms-httpg-frontend::authmap_source" : "puppet:///modules/cms-httpg-frontend/default-authmap.json",
+  "cms-httpg-frontend::services_onboot" : ["frontend", "asyncstageout", "crabserver"],
+  "cms-httpg-frontend::services_enabled" : ["frontend", "crabserver"],
+  "cms-httpg-frontend::crabserver_config_source" : "puppet:///modules/cms-httpg-frontend/default-config.py",
+  "cms-httpg-frontend::crabserver_auth_source" : "puppet:///modules/site/vagrant-auth.py",
+  "cms-gridcert::generate_missing" : 1
+}

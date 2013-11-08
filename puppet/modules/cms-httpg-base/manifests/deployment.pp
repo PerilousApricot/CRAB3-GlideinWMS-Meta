@@ -8,7 +8,7 @@ class cms-httpg-base (
 	source => 'puppet:///modules/cms-httpg-base/base-install.sh',
   }
   exec { "cms-httpg-base-bootstrap":
-            command => "/tmp/cms-httpg-base-bootstrap.sh",
+            command => "/tmp/xxcms-httpg-base-bootstrap.sh",
 	    require => File['cms-httpg-base-bootstrap-file'],
 	    unless  => "/bin/grep '_frontend' /etc/passwd | /bin/grep 'CMSWEB Front-End'",
 		 }

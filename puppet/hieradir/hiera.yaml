@@ -1,0 +1,8 @@
+---
+:backends:
+  - json
+:json:
+  :datadir: hieradir/
+:hierarchy:
+  - "node-%{::fqdn}"
+  - common

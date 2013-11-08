@@ -1,20 +1,4 @@
 #!/bin/bash
-#        tk compat-libstdc++-33 'ca_*' dummy-ca-certs lcg-CA \
-#        fetch-crl edg-mkgridmap git-all stgit colordiff libXpm-devel finger \
-#        $(yum -q list compat-{readline5,libtermcap} perl-ExtUtils-Embed 2>/dev/null | \
-#          grep -v -e '^Installed' -e '^Available' | awk '{print $1}')
-#
-#      # Install myproxy and voms tools as there is no slc6 build for it in AFS.
-#      # Only gets the voms configuration from AFS.
-#      sudo yum -y install myproxy
-#      sudo rsync -cavu \
-#        /afs/cern.ch/project/gd/LCG-share/current/glite/etc/vomses/ /etc/vomses/
-#      sudo rsync -cavu \
-#        /afs/cern.ch/project/gd/LCG-share/current/external/etc/grid-security/vomsdir/ \
-#        /etc/grid-security/vomsdir/
-#      sudo chown -R root:root /etc/vomses /etc/grid-security/vomsdir
-#
-
 set -x
 rm -rf /tmp/foo
 mkdir -p /tmp/foo
@@ -26,4 +10,6 @@ for THING in "      sudo rsync -cavu" "      sudo wget -q -O /etc/yum.repos.d/eg
 done
 perl -p -i -e "s!dummy-ca-certs lcg-CA!!" cfg/system/deploy
 perl -p -i -e  "s#'ca_\*'##" cfg/system/deploy
-cfg/Deploy -t dummy -s post $PWD system/devvm
+chown -R vagrant:vagrant /tmp/foo
+su -- vagrant cfg/Deploy -t dummy -s post $PWD system/devvm
+rm -rf /tmp/foo/cfg

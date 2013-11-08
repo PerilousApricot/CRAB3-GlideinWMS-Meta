@@ -1,0 +1,2486 @@
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=aapopov/CN=705378/CN=Andrey Popov" cms
+"/C=UK/O=eScience/OU=Bristol/L=IS/CN=thomas williams" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Bari/CN=Nicola De Filippis" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cmsgrid/CN=430796/CN=Robot: CMS Grid account owner" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=aperloff/CN=702705/CN=Alexx Perloff" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=beaudett/CN=618694/CN=Florian Beaudette" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=pandolf/CN=668948/CN=Francesco Pandolfi" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=pzhao/CN=753227/CN=Pingchuan Zhao" cms
+"/C=TW/O=AP/OU=GRID/CN=Bibhuti Parida 158514" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Sarah Beranek" cms
+"/DC=org/DC=doegrids/OU=People/CN=Aron Soha 649393" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=conolan/CN=748605/CN=Colin Nolan" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=friccita/CN=719269/CN=Francesca Ricci-Tam" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cbeiraod/CN=719371/CN=Cristovao Beirao Da Cruz E Silva" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=bhawan/CN=735416/CN=Bhawandeep Bhawandeep" cms
+"/DC=org/DC=doegrids/OU=People/CN=Michael Squires 229540" cms
+"/DC=org/DC=doegrids/OU=Services/CN=uscmspilot39/glidein-1.t2.ucsd.edu" cms
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Dillon Skeehan 1539" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=vasken/CN=443466/CN=Vasken Hagopian" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ats/CN=656209/CN=Alin Titus Serban" cms
+"/DC=org/DC=doegrids/OU=People/CN=Chih-Hao Huang 216308" cms
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Igor Sfiligoi" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=wwols/CN=696851/CN=Weronika Wiktoria Wolszczak" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ifuric/CN=488323/CN=Ivan Kresimir Furic" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=demine/CN=639804/CN=Pavel Demin" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=wmcbraye/CN=744331/CN=William Jacob Mcbrayer" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=borrell/CN=376869/CN=Laura Borrello" cms
+"/DC=org/DC=terena/DC=tcs/C=FI/O=University of Helsinki/CN=Tomas Linden tlinden@helsinki.fi" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=valdo/CN=676222/CN=Valdas Rapsevicius" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=IPHC/CN=Benjamin Fuks" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=zablocki/CN=645237/CN=Jakub Zablocki" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=depasse/CN=386932/CN=Pierre Depasse" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mmhl/CN=706552/CN=Michael Luk" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=agiamman/CN=513171/CN=Andrea Giammanco" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=rovere/CN=653292/CN=Marco Rovere" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mschen/CN=654884/CN=Mingshui Chen" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cmsapf01/CN=606831/CN=Robot: CMS Apf 01" cms
+"/DC=IN/DC=GARUDAINDIA/O=C-DAC/OU=CTSF/CN=Kuntal Mondal (kuntal.mondal@cern.ch)" cms
+"/C=DE/O=GermanGrid/OU=uni-hamburg/CN=Markus Seidel" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba" cms
+"/C=BE/O=BEGRID/OU=IIHE/OU=ULB/CN=Patrizia Barria" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Bologna/CN=Gianni Masetti" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=joshmt/CN=681445/CN=Joshua Thompson" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=khahn/CN=561662/CN=Kristian Hahn" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cmsapf02/CN=606831/CN=Robot: CMS Apf 02" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cirkovic/CN=707709/CN=Predrag Cirkovic" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=rurua/CN=427846/CN=Lali Rurua" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sboutle/CN=681704/CN=Sarah Boutle" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mmachet/CN=727411/CN=Martina Machet" cms
+"/C=PK/O=NCP/OU=EHEP/CN=Ashfaq Ahmad" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mmozer/CN=665072/CN=Matthias Ulrich Mozer" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=pkonst/CN=592300/CN=Preslav Borislavov Konstantinov" cms
+"/C=DE/O=GermanGrid/OU=KIT/CN=Fabian Hoffmann" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=benitezj/CN=703388/CN=Jose Feliciano Benitez" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jkunkle/CN=678387/CN=Joshua Milo Kunkle" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ecarrera/CN=661494/CN=Edgar Fernando Carrera Jarrin" cms
+"/DC=org/DC=doegrids/OU=Services/CN=uscmspilot19/glidein-1.t2.ucsd.edu" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=pkonst/CN=592300/CN=Preslav Konstantinov" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jslee/CN=670874/CN=Jongseok Lee" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Otto Hindrichs" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Matthias Endres" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=nmccoll/CN=696897/CN=Nickolas Mc Coll" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jhgoh/CN=668086/CN=Junghwan Goh" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sandhya/CN=677772/CN=Sandhya Jain" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ozdemir/CN=657311/CN=Kadri Ozdemir" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=bloom/CN=474417/CN=Kenneth Bloom" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Padova/CN=Martino Margoni" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=benjamin/CN=693367/CN=Benjamin Radburn-Smith" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=lmartini/CN=677335/CN=Luca Martini" cms
+"/C=DE/O=GermanGrid/OU=Uni Karlsruhe/CN=Daniel Troendle" cms
+"/C=DE/O=GermanGrid/OU=KIT/CN=Alexis Descroix" cms
+"/DC=ch/DC=cern/OU=computers/CN=poc3test.cern.ch" cms
+"/DC=es/DC=irisgrid/O=ciemat/CN=oscar.gonzalez" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=misiura/CN=681443/CN=Maciej Misiura" cms
+"/C=DE/O=GermanGrid/OU=DESY/CN=Artur Lobanov" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=wcarvalh/CN=672948/CN=Wagner De Paula Carvalho" cms
+"/C=DE/O=GermanGrid/OU=KIT/CN=Thomas Hauth" cms
+"/DC=org/DC=doegrids/OU=Services/CN=cmssrv113.fnal.gov" cms
+"/C=BE/O=BEGRID/OU=ELEM/OU=VUB/CN=Isabelle De Bruyn" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=bbetchar/CN=671708/CN=Burt Betchart" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jneveu/CN=731991/CN=Jeremy Neveu" cms
+"/DC=org/DC=doegrids/OU=Services/CN=uscmspilot42/glidein-1.t2.ucsd.edu" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=IPNL/CN=Sebastien Viret" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dosterma/CN=742838/CN=David Osterman" cms
+"/DC=org/DC=doegrids/OU=People/CN=Juan Eduardo Ramirez Vargas 789131" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=donega/CN=567213/CN=Mauro Donega" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=bdahmes/CN=666280/CN=Bryan Dahmes" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=vabdulla/CN=718536/CN=Abdulla Abdulsalam Valiyavalappil Kizhakkepura" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mstoye/CN=582736/CN=Markus Stoye" cms
+"/C=BE/O=BEGRID/OU=Ugent/CN=Michael Sigamani" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=tdaniels/CN=675881/CN=Thomas Erik Danielson" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jkarancs/CN=711349/CN=Janos Karancsi" cms
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=Services/CN=wmagenttesting/cms-xen39.fnal.gov" cms
+"/C=TW/O=AP/OU=GRID/CN=Sanjeev Kumar 124032" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=argiro/CN=452939/CN=Stefano Argiro" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=goodell/CN=708606/CN=Joseph Goodell" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=chamizo/CN=381373/CN=Maria Chamizo Llatas" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=bclare/CN=382719/CN=Bob Clare" cms
+"/DC=org/DC=doegrids/OU=People/CN=Ajit Kumar Mohapatra 867118" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=prebello/CN=672856/CN=Patricia Rebello Teles" cms
+"/C=GR/O=HellasGrid/OU=uoi.gr/CN=Panagiotis Kokkas" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=marone/CN=658454/CN=Matteo Marone" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Lars Reusch" cms
+"/DC=org/DC=doegrids/OU=People/CN=Matthew Ervin Chasco 451428" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mnorthup/CN=747391/CN=Michael Northup" cms
+"/DC=org/DC=doegrids/OU=People/CN=Brendan Diamond 264205" cms
+"/C=GR/O=HellasGrid/OU=demokritos.gr/CN=Eleni Ntomari" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ajohnson/CN=709397/CN=Andrew Austin Johnson" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dittmer/CN=710319/CN=Susan Dittmer" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ganzhur/CN=393973/CN=Serguei Ganjour" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jdost/CN=732648/CN=Jeffrey Michael Dost" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=biino/CN=375188/CN=Cristina Biino" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=arizzi/CN=609688/CN=Andrea Rizzi" cms
+"/O=GermanGrid/OU=Uni Karlsruhe/CN=Klaus Rabbertz" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=olivito/CN=663475/CN=Dominick John Olivito" cms
+"/C=RU/O=RDIG/OU=users/OU=sinp.msu.ru/CN=Lev Kheyn" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dragoiu/CN=670947/CN=Cosmin Dragoiu" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dstrom/CN=682239/CN=Derek Axel Strom" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=lykken/CN=549668/CN=Joseph David Lykken" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=djkong/CN=570803/CN=Dae Jung Kong" cms
+"/DC=org/DC=doegrids/OU=People/CN=Alexander Erling Gude 99674" cms
+"/DC=org/DC=doegrids/OU=Services/CN=uscmspilot38/glidein-1.t2.ucsd.edu" cms
+"/DC=org/DC=doegrids/OU=Services/CN=uscmspilot27/glidein-1.t2.ucsd.edu" cms
+"/DC=org/DC=doegrids/OU=People/CN=Shih-Chuan Kao 209168" cms
+"/DC=ch/DC=cern/OU=computers/CN=dashb-ai-511.cern.ch" cms
+"/C=DE/O=GermanGrid/OU=KIT/CN=Christian Luedtke" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Fisica Milano Bicocca/CN=Alessio Ghezzi" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ahahmad/CN=749148/CN=Ahmad.lotfy Ahmad" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=safarzad/CN=655255/CN=Batool Safarzadeh Samani" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=drberry/CN=678439/CN=Douglas Ryan Berry" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=digiovan/CN=616995/CN=Gian Piero Di Giovanni" cms
+"/O=GermanGrid/OU=RWTH/CN=Jan Steggemann" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=kubota/CN=646123/CN=Yuichi Kubota" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=chiochia/CN=485233/CN=Vincenzo Chiochia" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=wyslouch/CN=441933/CN=Bolek Wyslouch" cms
+"/DC=org/DC=doegrids/OU=People/CN=Tutanon Sinthuprasith 409482" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ilaflott/CN=749663/CN=Ian Laflotte" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=tenchini/CN=435252/CN=Roberto Tenchini" cms
+"/DC=org/DC=doegrids/OU=People/CN=vasundhara chetluru 783010" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=aoliver/CN=734523/CN=Aiken Mathias Oliver" cms
+"/DC=org/DC=doegrids/OU=People/CN=Sushil Singh Chauhan 210285" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=asanchez/CN=642173/CN=Alberto Sanchez Hernandez" cms
+"/DC=IN/DC=GARUDAINDIA/O=C-DAC/OU=CTSF/CN=Dipanwita Dutta (dutta.dipa@gmail.com)" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=antoniov/CN=650283/CN=Antonio Vilela Pereira" cms
+"/C=DE/O=GermanGrid/OU=KIT/CN=Max Fischer" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=gkandemi/CN=752435/CN=Gokhan Kandemir" cms
+"/C=RS/O=AEGIS/OU=Institute Vinca/CN=Predrag Cirkovic" cms
+"/DC=org/DC=doegrids/OU=People/CN=Jose Lazo-Flores 340097" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=gutsche/CN=582680/CN=Oliver Gutsche" cms
+"/C=BE/O=BEGRID/OU=Dept Fysica EDF/OU=UA/CN=Jasper Lauwers" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=zhangjin/CN=693369/CN=Jinzhong Zhang" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=gail/CN=399086/CN=Gail Hanson" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ifisk/CN=392022/CN=Ian Fisk" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Andreas Gueth" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mvarma/CN=696020/CN=Mukund Madhav Varma" cms
+"/DC=org/DC=doegrids/OU=People/CN=Carlos Alberto Malca Reyes 920041" cms
+"/C=UK/O=eScience/OU=Bristol/L=IS/CN=chris lucas" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Markus Radziej" cms
+"/C=BE/O=BEGRID/OU=PHYS/OU=UCL/CN=Jerome de Favereau de Jeneret" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=casal/CN=708466/CN=Bruno Casal Larana" cms
+"/C=DE/O=GermanGrid/OU=KIT/CN=Ralf Ulrich" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jruizvar/CN=721659/CN=Jose Cupertino Ruiz Vargas" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=yuehfenl/CN=695655/CN=Yueh-Feng Liu" cms
+"/C=UK/O=eScience/OU=Imperial/L=Physics/CN=paul dauncey" cms
+"/DC=org/DC=doegrids/OU=People/CN=Charles Ferraioli 469003" cms
+"/DC=org/DC=doegrids/OU=People/CN=Aaron Goodman Levine 354816" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=pcastain/CN=742976/CN=Pierre Castaing" cms
+"/C=DE/O=GermanGrid/OU=KIT/CN=Joram Berger" cms
+"/C=DE/O=GermanGrid/OU=KIT/CN=Hauke Woehrmann" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=benwu/CN=749198/CN=Zhenbin Wu" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Arnd Meyer" cms
+"/C=CN/O=HEP/O=PKU/OU=PHYS/CN=Guo Yifei" cms
+"/DC=org/DC=doegrids/OU=Services/CN=testpilot01/glidein-1.t2.ucsd.edu" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=CNAF/CN=Sonia Taneja" cms
+"/C=DE/O=GermanGrid/OU=uni-hamburg/CN=Holger Enderle" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=pfeiffer/CN=422405/CN=Andreas Pfeiffer" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Yvonne Kuessel" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=IPNL/CN=Olivier Bondu" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=LLR/CN=Alexandre Zabi" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=lmastrol/CN=733863/CN=Luca Mastrolorenzo" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=asantra/CN=742542/CN=Arka Santra" cms
+"/DC=org/DC=doegrids/OU=People/CN=Kwok Ming Chan 245978" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=bacchett/CN=371823/CN=Nicola Bacchetta" cms
+"/DC=org/DC=doegrids/OU=People/CN=Sachiko Toda 420927" cms
+"/C=CN/O=HEP/O=IHEP/OU=PHYS/CN=Muhammad Ahmad" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jlagram/CN=614547/CN=Jean-Laurent Agram" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=chmartin/CN=678846/CN=Christopher Blake Martin" cms
+"/DC=org/DC=doegrids/OU=People/CN=Jordan Tucker 732282" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=efajardo/CN=722781/CN=Edgar Fajardo Hernandez" cms
+"/DC=org/DC=doegrids/OU=People/CN=Alexx Perloff 26098" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=gzevi/CN=657647/CN=Giovanni Zevi Della Porta" cms
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=John Weigand 144" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=tkaraman/CN=677009/CN=Turker Karaman" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Robert Fischer" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=lannon/CN=490792/CN=Kevin Patrick Lannon" cms
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=Services/CN=cmspilotjob/cmssrv161.fnal.gov" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=davidlt/CN=696462/CN=David Abdurachmanov" cms
+"/DC=org/DC=doegrids/OU=People/CN=Michael Thomas 725374" cms
+"/C=BE/O=BEGRID/OU=IIHE/OU=ULB/CN=Aidan Randle-Conde" cms
+"/C=DE/O=GermanGrid/OU=uni-hamburg/CN=Daniel Gonzalez" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=spak/CN=738058/CN=Sang Il Pak" cms
+"/C=UK/O=eScience/OU=Bristol/L=IS/CN=robin aggleton" cms
+"/C=TW/O=AP/OU=GRID/CN=Gouranga Kole 105330" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=vandreev/CN=370497/CN=Valery Andreev" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dhuizeng/CN=740867/CN=Daniel David Huizenga" cms
+"/DC=org/DC=doegrids/OU=People/CN=Kevin Nash 550127" cms
+"/DC=org/DC=doegrids/OU=Services/CN=uscmspilot05/glidein-1.t2.ucsd.edu" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=wouf/CN=704629/CN=Andrey Belyaev" cms
+"/DC=org/DC=doegrids/OU=People/CN=Joseph Lykken 568057" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=paulini/CN=420986/CN=Manfred Paulini" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ealvesco/CN=728967/CN=Eduardo Alves Coelho" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sismail/CN=743391/CN=Saa Idi Bin Ismail" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sudeshna/CN=471331/CN=Sudeshna Banerjee" cms
+"/C=BE/O=BEGRID/OU=ELEM/OU=VUB/CN=Devroede Olivier" cms
+"/DC=ch/DC=cern/OU=computers/CN=pdmvservice/pdmvserv-test.cern.ch" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jchavesb/CN=725682/CN=Jorge Enrique Chaves Barreto" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=aschneid/CN=738285/CN=Austin William Schneider" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=fiorendi/CN=714759/CN=Sara Fiorendi" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=richard/CN=731929/CN=Richard Alexander Barbieri" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ewolfe/CN=739620/CN=Evan Michael Wolfe" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=frezaeih/CN=739904/CN=Ferdos Rezaei Hosseinabadi" cms
+"/CN=Yuan CHAO 164311/OU=GRID/O=NTU/C=TW" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jlfaure/CN=390970/CN=Jean-Louis Faure" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=fsaeed/CN=623633/CN=Fawad Saeed" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=chawon/CN=674432/CN=Cha Won Park" cms
+"/DC=ch/DC=cern/OU=computers/CN=wmagent/vocms96.cern.ch" cms
+"/C=UK/O=eScience/OU=Imperial/L=Physics/CN=andrew gilbert" cms
+"/C=TW/O=AP/OU=GRID/CN=Bhawandeep . 196178" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sakuma/CN=715502/CN=Tai Sakuma" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=topakli/CN=639833/CN=Huseyin Topakli" cms
+"/C=RU/O=RDIG/OU=users/OU=itep.ru/CN=Natalia Lychkovskaya" cms
+"/DC=org/DC=doegrids/OU=Services/CN=t3pilot01/uaf-2.t2.ucsd.edu" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=benedet/CN=582280/CN=Daniele Benedetti" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mdecross/CN=750569/CN=Matthew Phillip De Cross" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ssevova/CN=740365/CN=Stanislava Sevova" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=skalafut/CN=739762/CN=Sean Kalafut" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=IPNL/CN=lyogrid09.in2p3.fr" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=rgandraj/CN=728383/CN=Reddy Pratap Gandrajula" cms
+"/DC=org/DC=doegrids/OU=People/CN=Wagner de Paula Carvalho 534149" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=anorkus/CN=735696/CN=Antanas Norkus" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=carlos/CN=384866/CN=Jose Carlos Rasteiro Da Silva" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=madfish/CN=695799/CN=Matthew Ira Fisher" cms
+"/DC=org/DC=doegrids/OU=People/CN=Erik Gough 104001" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=LLR/CN=Stanislav Lisniak" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=semiray/CN=677023/CN=Semiray Girgis" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=isildak/CN=676887/CN=Bora Isildak" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=fronga/CN=482262/CN=Frederic Ronga" cms
+"/DC=org/DC=doegrids/OU=People/CN=Aristotle Calamba 765753" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jgearhar/CN=724319/CN=Joshua William Gearhart" cms
+"/C=DE/O=GermanGrid/OU=KIT/CN=Shawn Williamson" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=vagori/CN=729632/CN=Valentina Gori" cms
+"/DC=bg/DC=acad/O=people/O=UNI-SOFIA/OU=PHYS/CN=Georgi S. Georgiev" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=akhatiwa/CN=747640/CN=Ajeeta Khatiwada" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=lovedeep/CN=676555/CN=Lovedeep Kaur Saini" cms
+"/DC=org/DC=doegrids/OU=People/CN=Jie Chen 244785" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sheldon/CN=644877/CN=Paul Sheldon" cms
+"/C=DE/O=GermanGrid/OU=KIT/CN=Frank-Peter Schilling" cms
+"/DC=org/DC=doegrids/OU=People/CN=Juliette Alimena 32142" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=adelanno/CN=724138/CN=Andres Guillermo Delannoy Sotomayor" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=andreeva/CN=370498/CN=Julia Andreeva" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=duncan/CN=514049/CN=Duncan Carlsmith" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=msahin/CN=710102/CN=Mehmet Ozgur Sahin" cms
+"/C=DE/O=GermanGrid/OU=DESY/CN=Thomas Schoerner-Sadenius" cms
+"/C=PT/O=LIPCA/O=LIP/OU=Lisboa/CN=Pietro Vischia" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dnash/CN=671365/CN=David Nash" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=matevz/CN=475546/CN=Matevz Tadel" cms
+"/C=RU/O=RDIG/OU=users/OU=jinr.ru/CN=Mikhail Gavrilenko" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=giassi/CN=395416/CN=Alessandro Giassi" cms
+"/C=BE/O=BEGRID/OU=UA/CN=sunil bansal" cms
+"/C=CN/O=HEP/O=PKU/OU=PHYS/CN=Zhaoru Zhang" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=qixu/CN=744329/CN=Qiao Xu" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cimmino/CN=617012/CN=Anna Cimmino" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mahmad/CN=675747/CN=Muhammad Ahmad" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=fcolombo/CN=719295/CN=Fabio Colombo" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jcole/CN=577588/CN=Joanne Cole" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=uplegger/CN=662771/CN=Lorenzo Uplegger" cms
+"/DC=org/DC=doegrids/OU=Services/CN=uscmspilot49/glidein-1.t2.ucsd.edu" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=wildish/CN=441223/CN=Tony Wildish" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=krajczar/CN=658192/CN=Krisztian Krajczar" cms
+"/C=DE/O=GermanGrid/OU=KIT/CN=Fabio Colombo" cms
+"/DC=org/DC=doegrids/OU=People/CN=Vasundhara Chetluru 395141" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=lbaeni/CN=686481/CN=Lukas Baeni" cms
+"/C=DE/O=GermanGrid/OU=uni-hamburg/CN=Mareike Meyer" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=fiori/CN=664352/CN=Francesco Fiori" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=vorobiev/CN=439823/CN=Igor Vorobiev" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=piedra/CN=557175/CN=Jonatan Piedra Gomez" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=innocent/CN=377744/CN=Vincenzo Innocente" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dmoran/CN=668215/CN=Dermot Anthony Moran" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=LLR/CN=Christophe Ochando" cms
+"/DC=org/DC=doegrids/OU=People/CN=Hasan Ogul 669533" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=rredjimi/CN=644870/CN=Laria Redjimi Boulahouache" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=vmurzin/CN=664089/CN=Viktor Murzin" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=smalik/CN=682191/CN=Sarah Malik" cms
+"/DC=org/DC=doegrids/OU=Services/CN=uscmspilot26/glidein-1.t2.ucsd.edu" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=munal/CN=739219/CN=Mesut Unal" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=tapas/CN=665744/CN=Tapas Sarangi/CN=proxy" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=andrea/CN=753163/CN=Andrea Delgado" cms
+"/C=BE/O=BEGRID/OU=IIHE/OU=ULB/CN=Luca Pernie" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=askew/CN=652859/CN=Andrew Warren Askew" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=abenagli/CN=658356/CN=Andrea Davide Benaglia" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jbutt/CN=668605/CN=Jamila Bashir Butt" cms
+"/DC=org/DC=doegrids/OU=People/CN=Sunil Somalwar 347134" cms
+"/C=UK/O=eScience/OU=Imperial/L=Physics/CN=jad marrouche" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=deniz/CN=628292/CN=Deniz Sunar Cerci" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mrenna/CN=490567/CN=Steve Mrenna" cms
+"/DC=org/DC=doegrids/OU=People/CN=Leonard Apanasevich 886619" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=kflowers/CN=672460/CN=Kristen Flowers" cms
+"/DC=org/DC=doegrids/OU=People/CN=Thiago Rafael Fernandez Perez Tomei 907266" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dmason/CN=664436/CN=David Alexander Mason" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dmorse/CN=678438/CN=David Michael Morse" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=hartl/CN=668996/CN=Christian Hartl" cms
+"/C=PT/O=LIPCA/O=LIP/OU=Lisboa/CN=Federico Nguyen" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=degano/CN=708506/CN=Alessandro Degano" cms
+"/C=TW/O=AP/OU=GRID/CN=Bibhuprasad Mahakud 493894" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=obaron/CN=750028/CN=Owen Baron" cms
+"/C=TR/O=TRGrid/OU=Necmettin Erbakan/CN=Kadir Ocalan" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=IPNL/CN=Anne-Laure Pequegnot" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=azzurri/CN=371782/CN=Paolo Azzurri" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=marenton/CN=500719/CN=Michael Arenton" cms
+"/DC=ch/DC=cern/OU=computers/CN=wmagent/vocms230.cern.ch" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=kwb/CN=373736/CN=Ken Bell" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=acelik/CN=747146/CN=Ali Celik" cms
+"/DC=org/DC=doegrids/OU=People/CN=Will Flanagan 659105" cms
+"/DC=org/DC=doegrids/OU=People/CN=Serguei Fedorov 983106" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=wclarida/CN=666899/CN=Warren James Clarida" cms
+"/DC=org/DC=doegrids/OU=People/CN=Chuanzhe Lin 134300" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mkomm/CN=709764/CN=Matthias Komm" cms
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=Services/CN=wmagent/cmssrv98.fnal.gov" cms
+"/DC=org/DC=doegrids/OU=People/CN=Julia Gonski 695585" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=tadams/CN=663402/CN=Todd Adams" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sdogra/CN=672781/CN=Sunil Manohar Dogra" cms
+"/DC=org/DC=doegrids/OU=People/CN=Douglas Johnson 412945" cms
+"/C=BE/O=BEGRID/OU=PHYS/OU=UCL/CN=Brieuc Francois" cms
+"/C=UK/O=eScience/OU=Imperial/L=Physics/CN=patrick dunne" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=myucel/CN=704963/CN=Mete Yucel" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=malik/CN=567054/CN=Sudhir Malik" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jmans/CN=501282/CN=Jeremy Mans" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=hyusupov/CN=727363/CN=Hammid Yusupov" cms
+"/C=UK/O=eScience/OU=Bristol/L=IS/CN=jeson jacob" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=querten/CN=670015/CN=Loic Quertenmont" cms
+"/C=DE/O=GermanGrid/OU=KIT/CN=Hans-Juergen Simonis" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=meshra/CN=743181/CN=Moustafa Eshra" cms
+"/DC=es/DC=irisgrid/O=ciemat/CN=mcruz-fouz" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ytakahas/CN=659637/CN=Yuta Takahashi" cms
+"/DC=org/DC=doegrids/OU=Services/CN=uscmspilot35/glidein-1.t2.ucsd.edu" cms
+"/C=TW/O=AP/OU=GRID/CN=Debashis Saha 123174" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=taehoon/CN=741766/CN=Taehoon Kim" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=monicava/CN=525261/CN=Monica Vazquez Acosta" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cmedlock/CN=748503/CN=Catherine Aiko Medlock" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=yuanchao/CN=596728/CN=Yuan Chao" cms
+"/DC=es/DC=irisgrid/O=ciemat/CN=juanpablo-fernandez" cms
+"/C=TW/O=AP/OU=GRID/CN=Amandeep Kaur Kalsi 129089" cms
+"/DC=org/DC=doegrids/OU=People/CN=DaeHee Han 768004" cms
+"/DC=org/DC=doegrids/OU=People/CN=Andre Sznajder 581041" cms
+"/DC=ch/DC=cern/OU=computers/CN=pdmvserv/cms-pdmv-stats.cern.ch" cms
+"/DC=org/DC=doegrids/OU=People/CN=Richard R. Thompson 101591" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=meschi/CN=475723/CN=Emilio Meschi" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mojoe137/CN=705695/CN=Pat Kenny" cms
+"/DC=org/DC=doegrids/OU=Services/CN=uscmspilot06/glidein-1.t2.ucsd.edu" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=spadhi/CN=634969/CN=Sanjay Padhi" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=youngjo/CN=667486/CN=Young-Kwon Jo" cms
+"/DC=ch/DC=cern/OU=computers/CN=tier0/vocms15.cern.ch" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=hebda/CN=693198/CN=Philip Hebda" cms
+"/DC=org/DC=doegrids/OU=People/CN=Pratima Jindal 522031" cms
+"/DC=org/DC=doegrids/OU=People/CN=Robert Ciesielski 476904" cms
+"/C=DE/O=GermanGrid/OU=uni-hamburg/CN=Annika Vanhoefer" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=kkousour/CN=556052/CN=Konstantinos Kousouris" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=strossma/CN=669693/CN=William Strossman" cms
+"/C=PL/O=GRID/O=ICM/CN=Artur Kalinowski" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=malberti/CN=616806/CN=Martina Malberti" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=petrakou/CN=477567/CN=Eleni Petrakou" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=walterjr/CN=707831/CN=Walter Alda Junior" cms
+"/C=RU/O=RDIG/OU=users/OU=jinr.ru/CN=Siarhei Shulha" cms
+"/C=DE/O=GermanGrid/OU=KIT/CN=Hannes Mildner" cms
+"/C=BR/O=ANSP/OU=ANSPGrid CA/OU=People/CN=john david" cms
+"/DC=org/DC=terena/DC=tcs/C=IT/O=Istituto Nazionale di Fisica Nucleare/CN=Roberto DellOrso dellorso@infn.it" cms
+"/C=DE/O=GermanGrid/OU=uni-hamburg/CN=Thomas Peiffer" cms
+"/C=DE/O=GermanGrid/OU=uni-hamburg/CN=Kristin Heine" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ptan/CN=646857/CN=Ping Tan" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=IPNL/CN=Denis Pugnere" cms
+"/C=MX/O=UNAMgrid/OU=DGSCA UNAM CU/CN=Severiano Carpinteyro Bernardino" cms
+"/C=BE/O=BEGRID/OU=Ugent/CN=Silvia Costantini" cms
+"/C=BE/O=BEGRID/OU=ELEM/OU=VUB/CN=Olivier Devroede" cms
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Stephan Lammel 1792" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=spiridon/CN=433243/CN=Alexander Spiridonov" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=kkanishc/CN=676321/CN=Konstantin Kanishchev" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=tambe/CN=707042/CN=Norbert Tambe Ebai" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=toropin/CN=436310/CN=Alexandre Toropin" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=akayis/CN=404412/CN=Aysel Kayis Topaksu" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Padova/CN=Ignazio Lazzizzera" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ewv/CN=644876/CN=Eric Wayne Vaandering" cms
+"/DC=org/DC=doegrids/OU=People/CN=Kevin Lannon 483263" cms
+"/DC=org/DC=doegrids/OU=People/CN=Andrew Askew 570640" cms
+"/DC=org/DC=doegrids/OU=People/CN=Wuming Luo 286954" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=musella/CN=635729/CN=Pasquale Musella" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mohammed/CN=692353/CN=Mohammed Mahmoud Mohammed" cms
+"/DC=org/DC=doegrids/OU=People/CN=Max Goncharov 504643" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=arun/CN=707713/CN=Arun Kumar" cms
+"/C=DE/O=GermanGrid/OU=KIT/CN=Philipp Mogg" cms
+"/C=DE/O=GermanGrid/OU=KIT/CN=Hauke Held" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=zafar/CN=623635/CN=Adeel Adeel-Ur-Rehman" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Paul Papacz" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=spagnolo/CN=433083/CN=Paolo Spagnolo" cms
+"/DC=org/DC=doegrids/OU=People/CN=Justin Pilot 434524" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=deguio/CN=658126/CN=Federico De Guio" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Fisica Milano Bicocca/CN=Arabella Martelli" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=xquan/CN=699348/CN=Xiaohang Quan" cms
+"/DC=org/DC=ugrid/O=people/O=KIPT/OU=kipt.kharkov.ua/CN=Dmytro Soroka" cms
+"/DC=org/DC=doegrids/OU=People/CN=Kamuran Dilsiz 144588" cms
+"/O=GermanGrid/OU=DESY/CN=Alan Campbell" cms
+"/DC=org/DC=doegrids/OU=People/CN=Jaime Arturo Gomez 988674" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=kgunthot/CN=678200/CN=Kranti Gunthoti" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mario/CN=631445/CN=Mario Kadastik" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=LLR/CN=David Sabes" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=kkotov/CN=631201/CN=Khristian Kotov" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Vladimir Cherepanov" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Catania/CN=Gigi Cappello" cms
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Eduardo Azevedo Revoredo 586" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Padova/CN=Paolo Ronchese" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cpena/CN=708097/CN=Cristian Ignacio Pena Herrera" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Padova/CN=Paolo Checchia" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=bhardwaj/CN=541403/CN=Ashutosh Bhardwaj" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=kwolf/CN=678481/CN=Wolfgang Kiesenhofer" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=shreyber/CN=641904/CN=Irina Shreyber" cms
+"/C=DE/O=GermanGrid/OU=DESY/CN=Armin Burgmeier" cms
+"/DC=org/DC=doegrids/OU=People/CN=Michael Hildreth 269336" cms
+"/C=UK/O=eScience/OU=Brunel/L=CC/CN=nik berry" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=LNL/CN=Massimo Biasotto" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=bhatnag/CN=576356/CN=Vipin Bhatnagar" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=amaltaro/CN=718748/CN=Alan Malta Rodrigues" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jung/CN=403749/CN=Hannes Jung" cms
+"/C=DE/O=GermanGrid/OU=DESY/CN=Jan Kieseler" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=IPNL/CN=Julien Chasserat" cms
+"/C=MX/O=UNAMgrid/OU=DGSCA UNAM CU/CN=Javier Andres Orduz Ducuara" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=IPHC/CN=phedex/sbgvoboxcms.in2p3.fr" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jmilos/CN=574556/CN=Jovan Milosevic" cms
+"/DC=org/DC=doegrids/OU=People/CN=Aram Avetisyan 589519" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=decosa/CN=683660/CN=Annapaola De Cosa" cms
+"/DC=org/DC=doegrids/OU=People/CN=Christopher Cowden 581153" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=manzoni/CN=714758/CN=Riccardo Manzoni" cms
+"/DC=org/DC=doegrids/OU=People/CN=Phillip R. Dudero 72758" cms
+"/DC=es/DC=irisgrid/O=ifca/CN=Alicia.Calderon.Tazon" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Martin Christoph Glagla" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cmsapf15/CN=606831/CN=Robot: CMS Apf 15" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Fisica Milano Bicocca/CN=Pietro Govoni" cms
+"/DC=org/DC=doegrids/OU=People/CN=Andrew Kubik 945511" cms
+"/DC=org/DC=doegrids/OU=People/CN=Ilya Kravchenko 408600" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=predragm/CN=608248/CN=Predrag Milenovic" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=nguyenh/CN=671854/CN=Harold Nguyen" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=IPHC/CN=Pierre Van Hove" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sultanov/CN=433010/CN=Gueorgui Soultanov" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=kdilsiz/CN=732768/CN=Kamuran Dilsiz" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=fay/CN=391098/CN=Jean Fay" cms
+"/DC=gov/DC=fnal/O=Fermilab/OU=People/CN=Seangchan Ryu/CN=UID:sryu" cms
+"/DC=org/DC=doegrids/OU=People/CN=Daniel Riley 273198" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=fantasia/CN=695900/CN=Cory Fantasia" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=lacroix/CN=612504/CN=Florent Sylvain Lacroix" cms
+"/DC=ch/DC=cern/OU=computers/CN=c3p1.cern.ch" cms
+"/C=CO/O=Uniandes CA/O=Uniandes/OU=DTI/CN=Andres Holguin Coral" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=etiras/CN=713104/CN=Emrah Tiras" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Perugia/CN=Hassen Riahi" cms
+"/DC=org/DC=doegrids/OU=People/CN=Christian Veelken 173900" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=lhuertas/CN=732390/CN=Lina Milena Huertas Guativa" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=silveira/CN=705497/CN=Gustavo Gil Da Silveira" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=LLR/CN=Philippe Busson" cms
+"/DC=org/DC=doegrids/OU=Services/CN=uscmspilot43/glidein-1.t2.ucsd.edu" cms
+"/C=RU/O=RDIG/OU=users/OU=kipt.kharkov.ua/CN=Dmitrij Soroka" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jwohlwen/CN=749754/CN=Jeremy Wohlwend" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=LNF/CN=davide piccolo" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jihwan/CN=735380/CN=Jihwan Song" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=namin/CN=746430/CN=Nick J Amin" cms
+"/DC=org/DC=doegrids/OU=People/CN=Bill Strossman 488593" cms
+"/DC=org/DC=doegrids/OU=People/CN=James R Letts 352856" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=yturgut/CN=747346/CN=Yigit Turgut" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=pturner/CN=725848/CN=Paul Jonathan Turner" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=yoshin/CN=742847/CN=Young Ho Shin" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Till Arndt" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=drozdets/CN=608264/CN=Alexey Drozdetskiy" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=bagliesi/CN=371992/CN=Giuseppe Bagliesi" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Torino/CN=Ernesto Migliore" cms
+"/C=BE/O=BEGRID/OU=UA/CN=Tom Cornelis" cms
+"/DC=org/DC=doegrids/OU=People/CN=Jim Freeman 97307" cms
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Terrence Martin 126" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=lath/CN=407889/CN=Amitabh Lath" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=lucieg/CN=675314/CN=Lucie Gauthier" cms
+"/C=BE/O=BEGRID/OU=ELEM/OU=VUB/CN=Petra Van Mulders" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=LLR/CN=Lamia Benhabib" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=heilman/CN=694557/CN=Jesse Alan Heilman" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=vuko/CN=378129/CN=Vuko Brigljevic" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=gennai/CN=523541/CN=Simone Gennai" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=khurana/CN=706548/CN=Raman Khurana" cms
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Lucien M Cremaldi 1125" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=alkaloge/CN=654885/CN=Alexis Kalogeropoulos" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=tumasyan/CN=673689/CN=Armen Tumasyan" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=qili/CN=730168/CN=Qiang Li" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=chanon/CN=670319/CN=Nicolas Pierre Chanon" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=malgeril/CN=411861/CN=Luca Malgeri" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=averkhee/CN=730480/CN=Alexander Verkheev" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=rcoelhol/CN=754088/CN=Rafael Coelho Lopes De Sa" cms
+"/C=TW/O=NTU/OU=GRID/CN=i-hung chiu 111207" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=yasser/CN=657269/CN=Yasser Assran" cms
+"/DC=IN/DC=GARUDAINDIA/O=C-DAC/OU=CTSF/CN=Vineet Kumar (vineet.salar@gmail.com)" cms
+"/C=TR/O=TRGrid/OU=TUBITAK-ULAKBIM/CN=Emrah Akkoyun" cms
+"/DC=org/DC=doegrids/OU=People/CN=Nick Bertrand 25750" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=anikiten/CN=418422/CN=Alexandre Nikitenko" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=neu/CN=678187/CN=Christopher Neu" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jbutler/CN=527378/CN=Joel Butler" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ruchi/CN=701798/CN=Ruchi Gupta" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=amoraes/CN=588896/CN=Arthur Marques Moraes" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=messineo/CN=414759/CN=Alberto Messineo" cms
+"/DC=ch/DC=cern/OU=computers/CN=cmspilotjob/vocms143.cern.ch" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=xshi/CN=672986/CN=Xin Shi" cms
+"/DC=es/DC=irisgrid/O=ifca/CN=Isidro-Gonzalez-Caballero" cms
+"/DC=org/DC=doegrids/OU=People/CN=Graham Wallace Wilson 554064" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ochaze/CN=723020/CN=Olivier Chaze" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Padova/CN=franco simonetto" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=honi/CN=743789/CN=Hong Ni" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=moralesm/CN=725145/CN=Jorge Daniel Morales Mendoza" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Napoli/CN=Luca Lista" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=psilva/CN=594419/CN=Pedro Vieira De Castro Ferreira Da Silva" cms
+"/DC=org/DC=doegrids/OU=Services/CN=uscmspilot31/glidein-1.t2.ucsd.edu" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=criccard/CN=426125/CN=Cristina Riccardi" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=IPHC/CN=Denis Gele" cms
+"/DC=org/DC=doegrids/OU=People/CN=David Kolchmeyer 432248" cms
+"/C=BE/OU=BEGRID/O=BELNET/CN=Olivier Devroede" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Padova/CN=Sara Vanini" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=barvic/CN=615980/CN=Victor Barashko" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Felix Hoehle" cms
+"/DC=cern/DC=ch/OU=Users/CN=David Sanders 429108" cms
+"/C=UK/O=eScience/OU=Imperial/L=Physics/CN=daniela bauer" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=CC-IN2P3/CN=David Bouvet" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ssanders/CN=633398/CN=Stephen James Sanders" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=wesmail/CN=750067/CN=Waleed Esmail" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ptraczyk/CN=632300/CN=Piotr Traczyk" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=iross/CN=671979/CN=Ian Ackerman Ross" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=uzunian/CN=419857/CN=Andrei Uzunyan" cms
+"/DC=org/DC=doegrids/OU=People/CN=Alex Garabedian 84736" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=soha/CN=633117/CN=Aron Soha" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Daniel Teyssier" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=pzywicki/CN=726441/CN=Patrick Zywicki" cms
+"/C=BE/O=BEGRID/OU=ELEM/OU=VUB/CN=Isis Van Parijs" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=venturi/CN=438692/CN=Andrea Venturi" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Perugia/CN=Daniele Spiga" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sikler/CN=431784/CN=Ferenc Sikler" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=neeti/CN=420485/CN=Neeti Parashar" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=joadams/CN=732059/CN=Jordon Rowe Adams" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Claudia Pistone" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jgomez2/CN=694658/CN=Jaime Arturo Gomez" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=pshukla/CN=615313/CN=Prashant Shukla" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cranelli/CN=741771/CN=Christopher Ryan Anelli" cms
+"/C=DE/O=GermanGrid/OU=DESY/CN=Albert Knutsson" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=vadler/CN=671614/CN=Volker Adler" cms
+"/DC=org/DC=doegrids/OU=People/CN=Sho Maruyama 685998" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=stosi/CN=682025/CN=Silvano Tosi" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jcallaha/CN=751377/CN=Jake Matthew Callahan" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=castello/CN=661681/CN=Roberto Castello" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=veelken/CN=525696/CN=Christian Veelken" cms
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Anthony Tiradani 91" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=chill/CN=616673/CN=Chris Hill" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=burkett/CN=640964/CN=Kevin Burkett" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=eduard/CN=645257/CN=Eduard De La Cruz Burelo" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ferrif/CN=607220/CN=Federico Ferri" cms
+"/C=BE/O=BEGRID/OU=FYNU/OU=UCL/CN=Pavel Demin" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=CNAF/CN=Saverio Virgilio" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=iaydjiev/CN=401685/CN=Plamen Stoianov Iaydjiev" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=bylsma/CN=500164/CN=Benjamin Glenn Bylsma" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=abrinke1/CN=706972/CN=Andrew Brinkerhoff" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=degrutto/CN=669401/CN=Michele De Gruttola" cms
+"/C=DE/O=GermanGrid/OU=DESY/CN=Eleni Ntomari" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=kbunkow/CN=582653/CN=Karol Bunkowski" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=bianchi/CN=676790/CN=Lorenzo Bianchini" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cjenkins/CN=652958/CN=Charles Merrill Jenkins" cms
+"/C=RU/O=RDIG/OU=users/OU=jinr.ru/CN=Elena Tikhonenko" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cmsapf24/CN=606831/CN=Robot: CMS Apf 24" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cberger/CN=753042/CN=Casey Berger" cms
+"/C=DE/O=GermanGrid/OU=DESY/CN=Dirk Kruecker" cms
+"/DC=org/DC=doegrids/OU=People/CN=Anthony Rose 7522" cms
+"/C=DE/O=GermanGrid/OU=KIT/CN=Christian Boeser" cms
+"/DC=org/DC=doegrids/OU=People/CN=Kevin Burkett 892504" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=pastrone/CN=420801/CN=Nadia Pastrone" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jlee/CN=661342/CN=Jason Lee" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=scodella/CN=654392/CN=Luca Scodellaro" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=vao/CN=696983/CN=Vadim Oreshkin" cms
+"/C=BE/O=BEGRID/OU=IIHE/OU=ULB/CN=Alexandre LEONARD" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=nogima/CN=563170/CN=Helio Nogima" cms
+"/CN=Matthias Kasemann/OU=DESY/" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Pisa/CN=Silvio Donato" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=LLR/CN=Jean-Baptiste Sauvan" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=yunju/CN=694105/CN=Yun-Ju Lu" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=stiegerb/CN=669359/CN=Benjamin Stieger" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mmascher/CN=720897/CN=Marco Mascheroni" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=aciocci/CN=382618/CN=Agnese Ciocci" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=bora/CN=664980/CN=Bora Akgun" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ptohos/CN=424351/CN=Fotios Ptochos" cms
+"/DC=ch/DC=cern/OU=computers/CN=mattia-dev01.cern.ch" cms
+"/DC=ch/DC=cern/OU=computers/CN=wmagent/vocms114.cern.ch" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ursl/CN=609983/CN=Urs Langenegger" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=stseng/CN=739060/CN=Shih-Yen Tseng" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jorda/CN=674762/CN=Clara Jorda Lope" cms
+"/DC=org/DC=doegrids/OU=People/CN=Suleyman Durgut 37636" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Perugia/CN=Attilio Santocchia" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=eperez/CN=421571/CN=Emmanuelle Perez" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=chmclean/CN=726677/CN=Christine Angela Mc Lean" cms
+"/DC=org/DC=doegrids/OU=Services/CN=uscmspilot07/glidein-1.t2.ucsd.edu" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=lisag/CN=567850/CN=Lisa Ann Giacchetti" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=vlassov/CN=439543/CN=Evgueni Vlassov" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ykim/CN=741767/CN=Youngnam Kim" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=bityukov/CN=375441/CN=Serguei Bityukov" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=markowit/CN=412665/CN=Pete Markowitz" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=gartung/CN=617727/CN=Patrick Gartung" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Deboarh Duchardt" cms
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Alberto Sanchez-Hernandez" cms
+"/DC=org/DC=doegrids/OU=People/CN=Jack Fowler 1528" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Jan-Frederik Schulte" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=duggan/CN=638695/CN=Daniel Duggan" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cbernet/CN=540281/CN=Colin Bernet" cms
+"/DC=org/DC=doegrids/OU=People/CN=Justin Lee Hugon 49041" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sacosta/CN=454761/CN=Salvatore Costa" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=rebeca/CN=664945/CN=Rebeca Gonzalez Suarez" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jandrea/CN=630053/CN=Jeremy Andrea" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=maitm/CN=631447/CN=Mait Muentel" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Napoli/CN=Sabino Meola" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=narain/CN=652901/CN=Meenakshi Narain" cms
+"/DC=org/DC=doegrids/OU=Services/CN=uscmspilot29/glidein-1.t2.ucsd.edu" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=amassiro/CN=669328/CN=Andrea Massironi" cms
+"/DC=org/DC=doegrids/OU=People/CN=Andrew David Cameron York 651805" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=odysei/CN=696595/CN=Aurelijus Rinkevicius" cms
+"/C=DE/O=GermanGrid/OU=KIT/CN=Rene Caspart" cms
+"/C=GR/O=HellasGrid/OU=uoi.gr/CN=Evangelos Paradas" cms
+"/C=UK/O=eScience/OU=CLRC/L=RAL/CN=sam harper" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=hua/CN=747144/CN=Hua Wei" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=amraktad/CN=634258/CN=Alja Mrak Tadel" cms
+"/C=DE/O=GermanGrid/OU=uni-hamburg/CN=Teresa Lenz" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=michals/CN=434575/CN=Michal Szleper" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=gvonsem/CN=691955/CN=Gerrit Van Onsem" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=gurrola/CN=673373/CN=Alfredo Gurrola" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=qwang/CN=738800/CN=Quan Wang" cms
+"/DC=org/DC=doegrids/OU=People/CN=Jason Keller 951760" cms
+"/DC=ch/DC=cern/OU=Users/CN=Alexx Perloff" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sethzenz/CN=611344/CN=Seth Zenz" cms
+"/C=DE/O=GermanGrid/OU=uni-hamburg/CN=Rebekka Hoeing" cms
+"/DC=org/DC=doegrids/OU=People/CN=Jacob Linacre 755824" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cferko/CN=736385/CN=Christian Anthony Ferko" cms
+"/DC=org/DC=doegrids/OU=People/CN=Igor Vodopiyanov 820486" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mullin/CN=710088/CN=Sam Mullin" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mgrippo/CN=721669/CN=Maria Teresa Grippo" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=kkaadze/CN=664469/CN=Keti Kaadze" cms
+"/C=RU/O=RDIG/OU=users/OU=sinp.msu.ru/CN=Alexander Proskuryakov" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=LLR/CN=Stephanie Baffioni" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Fisica Milano Bicocca/CN=Badder Marzocchi" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Torino/CN=Roberto Sacchi" cms
+"/DC=es/DC=irisgrid/O=ciemat/CN=adrian.quintario.ciemat.es" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cawest/CN=709677/CN=Christopher West" cms
+"/DC=org/DC=doegrids/OU=People/CN=Roy Joaquin Montalvo 88243" cms
+"/C=CN/O=HEP/O=IHEP/OU=PHYS/CN=huaqiao zhang" cms
+"/DC=org/DC=doegrids/OU=People/CN=Lingshan Xu 525078" cms
+"/DC=org/DC=ugrid/O=people/O=UGRID/CN=Valeriy Kizka" cms
+"/DC=org/DC=doegrids/OU=People/CN=Rachel A. Wilken 372141" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=fgolf/CN=677018/CN=Frank Golf" cms
+"/DC=org/DC=doegrids/OU=People/CN=Aram Avetisyan 652419" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dmareska/CN=752720/CN=Darren James Mareskas-Palcek" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Bari/CN=Vincenzo Spinoso" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ctao/CN=727958/CN=Chiao-Yu Tao" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=smai/CN=727545/CN=Shu-Hao Mai" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jlrodrig/CN=597866/CN=Jorge Luis Rodriguez" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=abdullin/CN=369064/CN=Salavat Abdoulline" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Bologna/CN=Alessandra Fanfani" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Roma 1/CN=Daniele del Re" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dbortole/CN=376893/CN=Daniela Bortoletto" cms
+"/C=BE/O=BEGRID/OU=ELEM/OU=VUB/CN=Python Quentin" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ymao/CN=667516/CN=Yaxian Mao" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Bari/CN=Marcello Maggi" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ksung/CN=671305/CN=Kevin Kai Hong Sung" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=kyolee/CN=745396/CN=Songkyo Lee" cms
+"/C=UK/O=eScience/OU=CLRC/L=RAL/CN=matthew kirk" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=vodib/CN=477356/CN=Igor Vodopiyanov" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=werdmann/CN=554553/CN=Wolfram Erdmann" cms
+"/DC=ch/DC=cern/OU=Users/CN=pimia/CN=Ram Krishna Sharma" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=nfilipov/CN=742977/CN=Nicolas Filipovic" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=prado/CN=385928/CN=Wanda Prado Da Silva" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sordini/CN=678376/CN=Viola Sordini" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=bmichlin/CN=740656/CN=Benjamin Ari Michlin" cms
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Dave Dykstra 508" cms
+"/DC=org/DC=doegrids/OU=People/CN=Christopher Palmer 115007" cms
+"/DC=org/DC=doegrids/OU=People/CN=Stefan Piperov 893153" cms
+"/DC=org/DC=doegrids/OU=People/CN=Khakimjan T. Butanov 44414" cms
+"/DC=org/DC=doegrids/OU=Services/CN=uscmspilot24/glidein-1.t2.ucsd.edu" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=plujan/CN=694584/CN=Paul Lujan" cms
+"/C=DE/O=GermanGrid/OU=uni-hamburg/CN=Rainer Peter Feller" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=oozcelik/CN=735834/CN=Ozlem Ozcelik" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ahernand/CN=718787/CN=Alberto Hernandez Almada" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=rredjimi/CN=644870/CN=Radia Redjimi Boulahouache" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=doudko/CN=558353/CN=Lev Dudko" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=LLR/CN=Mykhailo Dalchenko" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=odryha/CN=704365/CN=Olga Driga" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jcastle/CN=727239/CN=James Robert Castle" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=saparede/CN=748775/CN=Santiago Rafael Paredes Saenz" cms
+"/DC=es/DC=irisgrid/O=ifca/CN=Jordi-Duarte-Campderros" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Firenze/CN=Vitaliano Ciulli" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jaehyeok/CN=704526/CN=Jae Hyeok Yoo" cms
+"/C=UK/O=eScience/OU=Imperial/L=Physics/CN=nick wardle" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Bologna/CN=Claudio Grandi" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=diego/CN=695658/CN=Diego Da Silva Gomes" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=spiga/CN=606831/CN=Daniele Spiga" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=msun/CN=750878/CN=Menglei Sun" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mpetek/CN=676136/CN=Marko Petek" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=vzhukova/CN=664218/CN=Victoria Zhukova" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mcorneil/CN=753039/CN=Michael David Corneille" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=santanas/CN=617105/CN=Francesco Santanastasio" cms
+"/DC=org/DC=doegrids/OU=People/CN=Frank Wuerthwein 699373" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=aysen/CN=698573/CN=Aysen Tatarinov" cms
+"/DC=org/DC=doegrids/OU=People/CN=Ian Ross 259455" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=liis/CN=663550/CN=Liis Rebane" cms
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Christopher A. George 1210" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=benussi/CN=374094/CN=Luigi Benussi" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=fanzago/CN=610896/CN=Federica Fanzago" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Trento/CN=Ignazio Lazzizzera" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mileva/CN=682538/CN=Roumyana Mileva Hadjiiska" cms
+"/C=UK/O=eScience/OU=Imperial/L=Physics/CN=adam huffman" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=srappocc/CN=669995/CN=Salvatore Rappoccio" cms
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Majid Arabgol 1040" cms
+"/DC=org/DC=doegrids/OU=People/CN=Darin Carl Baumgartel 460322" cms
+"/C=BE/O=BEGRID/OU=IIHE/OU=ULB/CN=Thomas Reis" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=lecriste/CN=716292/CN=Leonardo Cristella" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cchang/CN=739059/CN=Chiu-Ping Chang" cms
+"/DC=org/DC=doegrids/OU=People/CN=Mike Hutcheson 781825" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cmsapf19/CN=606831/CN=Robot: CMS Apf 19" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=achernik/CN=736769/CN=Alexander Chernik" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=akub19/CN=662939/CN=Andrew Michael Kubik" cms
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Alan Sill 4" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=kinnunen/CN=404964/CN=Ritva Kinnunen" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cdietz/CN=711284/CN=Charles Hermann Dietz" cms
+"/C=CN/O=HEP/O=IHEP/OU=PHYS/CN=Jianguo Bian" cms
+"/C=BE/O=BEGRID/OU=IIHE/OU=ULB/CN=Arnaud Gay" cms
+"/DC=org/DC=doegrids/OU=People/CN=David Anthony Petyt 280136" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=bornheim/CN=376844/CN=Adolf Bornheim" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=aibrahim/CN=750066/CN=Ahmed Ibrahim" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=buchmann/CN=676410/CN=Marco Andrea Buchmann" cms
+"/DC=es/DC=irisgrid/O=ifca/CN=Ana.Yaiza.Rodriguez.Marrero" cms
+"/C=BE/O=BEGRID/OU=IIHE/OU=ULB/CN=Thomas Lenzi" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=yjcho/CN=710291/CN=Yongjin Cho" cms
+"/DC=org/DC=doegrids/OU=People/CN=Shalhout Shalhout 478156" cms
+"/DC=org/DC=doegrids/OU=Services/CN=uscmspilot50/glidein-1.t2.ucsd.edu" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=easilar/CN=722995/CN=Ece Asilar" cms
+"/DC=org/DC=doegrids/OU=People/CN=Ruth Pordes 666996" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=winer/CN=441459/CN=Brian Lee Winer" cms
+"/DC=IN/DC=GARUDAINDIA/O=C-DAC/OU=CTSF/CN=Sourav Dey (sourav.dey@cern.ch)" cms
+"/C=CN/O=HEP/O=IHEP/OU=CC/CN=Jiawei Fan" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Mark Olschewski" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=aaubin/CN=737786/CN=Alexandre Aubin" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=abuccill/CN=750441/CN=Andrew Buccilli" cms
+"/C=GR/O=HellasGrid/OU=uoi.gr/CN=Ioannis Evangelou" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=pjacomeh/CN=739854/CN=Pablo Santiago Jacome Herbozo" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Napoli/CN=francesco fabozzi" cms
+"/C=CN/O=HEP/O=PKU/OU=PHYS/CN=Mengmeng Wang" cms
+"/C=DE/O=GermanGrid/OU=uni-hamburg/CN=Daniel Troendle" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=maggim/CN=411516/CN=Marcello Maggi" cms
+"/DC=org/DC=doegrids/OU=Services/CN=uscmspilot41/glidein-1.t2.ucsd.edu" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=yimin/CN=742748/CN=Yimin Wang" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=IPNL/CN=Stephane Perries" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=CNAF/CN=Andrea Cristofori" cms
+"/C=CN/O=HEP/OU=PHYS/O=PKU/CN=Linlin Zhang" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Perugia/CN=Francesco Romeo" cms
+"/C=DE/O=GermanGrid/OU=DESY/CN=Tyler Dorland" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=yuhow/CN=683549/CN=You-Hao Chang" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=amccrea/CN=737994/CN=Alison Mc Crea" cms
+"/C=TH/O=NECTEC/OU=GOC/CN=Suriya U-ruekolan" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=efe/CN=641895/CN=Efe Yazgan" cms
+"/DC=es/DC=irisgrid/O=ciemat/CN=isabel.josa" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dmendezl/CN=745878/CN=David Gonzalo Mendez Lopez" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=kchatter/CN=732094/CN=Kalyanmoy Chatterjee" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=isandova/CN=739763/CN=Irving Daniel Sandoval Gonzalez" cms
+"/DC=org/DC=doegrids/OU=People/CN=David Sanders 710330" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=snowball/CN=697458/CN=Matthew Snowball" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=tutanon/CN=705528/CN=Tutanon Sinthuprasith" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=drank/CN=720943/CN=Douglas Rank" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Firenze/CN=Simone Paoletti" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dmoon/CN=622950/CN=Dong Ho Moon" cms
+"/DC=org/DC=doegrids/OU=People/CN=Irakli Chakaberia 172033" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Perugia/CN=Leonello Servoli" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=gesmith/CN=722858/CN=Geoffrey Smith" cms
+"/DC=org/DC=doegrids/OU=People/CN=Hongxuan Liu 601927" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jngadiub/CN=692305/CN=Jennifer Ngadiuba" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=slaunwhj/CN=693097/CN=Jason Michael Slaunwhite" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=IPHC/CN=Yannick Patois" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=seema/CN=628829/CN=Seema Sharma" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=kaulmer/CN=673550/CN=Keith Ulmer" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Oliver Pooth" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=hkalakhe/CN=672982/CN=Himali Kalakhety" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jfreeman/CN=392975/CN=Jim Freeman" cms
+"/C=CN/O=HEP/OU=PHYS/O=PKU/CN=zou wei" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=pkurt/CN=639829/CN=Pelin Kurt" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=rhughes/CN=723000/CN=Richard Edward Hughes" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cbeluffi/CN=700456/CN=Camille Beluffi" cms
+"/DC=org/DC=doegrids/OU=People/CN=Nathaniel Pastika 115257" cms
+"/DC=org/DC=doegrids/OU=People/CN=Stephane Cooperstein 949578" cms
+"/C=DE/O=GermanGrid/OU=KIT/CN=Fred-Markus Stober" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=odevroed/CN=493356/CN=Olivier Devroede" cms
+"/DC=org/DC=doegrids/OU=People/CN=Maksat Haytmyradov 370957" cms
+"/DC=org/DC=doegrids/OU=People/CN=Daniel Duggan 99968" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=gaz/CN=702170/CN=Alessandro Gaz" cms
+"/DC=org/DC=doegrids/OU=Services/CN=uscmspilot25/glidein-1.t2.ucsd.edu" cms
+"/DC=org/DC=doegrids/OU=People/CN=Kai Yi 90730" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cgeorge/CN=711927/CN=Christopher George" cms
+"/C=UK/O=eScience/OU=Bristol/L=IS/CN=winnie lacesso" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=LNL/CN=Sergio Fantinel" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=carlin/CN=380254/CN=Roberto Carlin" cms
+"/O=GRID-FR/C=FR/O=CEA/OU=IRFU/CN=Thibaut Hennequin" cms
+"/C=DE/O=GermanGrid/OU=DESY/CN=Alexander Spiridonov" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=soulimov/CN=433007/CN=Valentin Sulimov" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=salee/CN=696042/CN=Sangeun Lee" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jen_a/CN=684888/CN=Jennifer Kathryn Adelman-Mc Carthy" cms
+"/DC=org/DC=doegrids/OU=Services/CN=uscmspilot16/glidein-1.t2.ucsd.edu" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=muzaffar/CN=545661/CN=Shahzad Malik Muzaffar" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=makbiyik/CN=729054/CN=Melike Akbiyik" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=LLR/CN=Michal Bluj" cms
+"/DC=org/DC=doegrids/OU=People/CN=Yu Fu 155233" cms
+"/C=DE/O=GermanGrid/OU=KIT/CN=Steffen Roecker" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Padova/CN=Alberto Zucchetta" cms
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=Services/CN=cmst1-mon/cmssrv03.fnal.gov" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=knash/CN=726521/CN=Kevin Connor Nash" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cmsapf12/CN=606831/CN=Robot: CMS Apf 12" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=yanjuntu/CN=692855/CN=Yanjun Tu" cms
+"/DC=org/DC=doegrids/OU=People/CN=Elif Asli Albayrak 560229" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=snihur/CN=694458/CN=Robert Snihur" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=higgs313/CN=694558/CN=Caglar Zorbilmez" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=kfjack/CN=612432/CN=Kai-Feng Chen" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=eulisse/CN=607460/CN=Giulio Eulisse" cms
+"/C=DE/O=GermanGrid/OU=KIT/CN=Patricia Lobelle" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=novak/CN=672023/CN=Julia Ann Gray" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Dennis Klingebiel" cms
+"/DC=org/DC=doegrids/OU=People/CN=David Mason 216744" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=andreevv/CN=673557/CN=Vladimir Andreev" cms
+"/DC=org/DC=doegrids/OU=People/CN=Andrew Hart 866068" cms
+"/C=TR/O=TRGrid/OU=Anadolu/CN=Halil Gamsizkan" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=stoynev/CN=597450/CN=Stoyan Emilov Stoynev" cms
+"/C=DE/O=GermanGrid/OU=KIT/CN=Florian Weiser" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=rioutine/CN=605737/CN=Roman Ryutin" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=semrat/CN=715309/CN=Semra Turkcapar" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Trento/CN=Konstantin Kanishchev" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mendez/CN=490587/CN=Hector Mendez" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=alcaraz/CN=369666/CN=Juan Alcaraz Maestre" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=chiyi/CN=692938/CN=Kai-Yi Kao" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jzabel/CN=696494/CN=James Zabel" cms
+"/C=BE/O=BEGRID/OU=Ugent/CN=alberto ocampo" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=gdebrecz/CN=546241/CN=Gergely Debreczeni" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=eliza/CN=676332/CN=Eliza Melo Da Costa" cms
+"/DC=es/DC=irisgrid/O=ciemat/CN=mcruz.fouz" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=zuranski/CN=669588/CN=Andrzej Zuranski" cms
+"/DC=org/DC=doegrids/OU=Services/CN=uscmspilot09/glidein-1.t2.ucsd.edu" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=bbockelm/CN=659869/CN=Brian Paul Bockelman" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=IPHC/CN=Christophe Goetzmann" cms
+"/C=DE/O=GermanGrid/OU=DESY/CN=Samantha Dooling" cms
+"/C=BR/O=ANSP/OU=ANSPGrid CA/OU=People/CN=Cesar Augusto Bernardes" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Padova/CN=Ezio Torassa" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Trieste/CN=Fabio Cossutti" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=volper/CN=678243/CN=Roberta Volpe" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=clint/CN=743396/CN=Clint Allan Richardson" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ameyer/CN=665299/CN=Andreas Meyer" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Milano Bicocca/CN=Sandra Malvezzi" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dking/CN=752274/CN=David A King" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dhare/CN=622351/CN=Daryl Hare" cms
+"/C=TH/O=NECTEC/OU=GOC/CN=Anupong Banjongkan" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mulhearn/CN=729503/CN=Michael J Mulhearn" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=rgerosa/CN=719415/CN=Raffaele Angelo Gerosa" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=IPNL/CN=Elvire Bouvier" cms
+"/C=DE/O=GermanGrid/OU=uni-hamburg/CN=Jochen Ott" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=CC-IN2P3/CN=Sebastien Gadrat" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=rateixei/CN=703482/CN=Rafael Teixeira De Lima" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sgaravat/CN=431395/CN=Massimo Sgaravatto" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Pisa/CN=Simone COscetti" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=padley/CN=474571/CN=Paul Padley" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sani/CN=559914/CN=Matteo Sani" cms
+"/C=BE/O=BEGRID/OU=IIHE/OU=ULB/CN=Gregory Hammad" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=kasmi/CN=646459/CN=Azeddine Kasmi" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sakoay/CN=656492/CN=Sue Ann Koay" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jcuevasb/CN=725144/CN=Juan Carlos Cuevas Bautista" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=stkaczyk/CN=436044/CN=Slawomir Marek Tkaczyk" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=talamoig/CN=697822/CN=Ivano Giuseppe Talamo" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Christian Autermann" cms
+"/C=UK/O=eScience/OU=Bristol/L=IS/CN=lukasz kreczko" cms
+"/C=DE/O=GermanGrid/OU=uni-hamburg/CN=Alexander Schmidt" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Yusuf Erdogan" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=klawhorn/CN=748947/CN=Kelsey Elizabeth Lawhorn" cms
+"/C=BE/O=BEGRID/OU=Ugent/CN=Deniz Poyraz" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=tapper/CN=659680/CN=Alex Tapper" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sdas/CN=659769/CN=Souvik Das" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sdutta/CN=389392/CN=Suchandra Dutta" cms
+"/C=DE/O=GermanGrid/OU=DESY/CN=Henning Kirschenmann" cms
+"/DC=ch/DC=cern/OU=computers/CN=wmagent/vocms85.cern.ch" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=shoh/CN=748746/CN=Siew Yan Hoh" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=eerola/CN=389633/CN=Paula Eerola" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=hsaka/CN=697240/CN=Halil Saka" cms
+"/DC=org/DC=doegrids/OU=People/CN=Aiken Oliver 622865" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=petrillo/CN=639841/CN=Gianluca Petrillo" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=shrutz86/CN=696435/CN=Shruti Panwalkar" cms
+"/C=DE/O=GermanGrid/OU=KIT/CN=Stefan Wayand" cms
+"/C=RU/O=RDIG/OU=users/OU=jinr.ru/CN=Valery Mitsyn" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=emazzoni/CN=446887/CN=Enrico Mazzoni" cms
+"/DC=org/DC=doegrids/OU=People/CN=Jorge Chaves 792500" cms
+"/C=DE/O=GermanGrid/OU=uni-hamburg/CN=Malte Hoffmann" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=veres/CN=452924/CN=Gabor Veres" cms
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=John A. Sandy 927" cms
+"/C=DE/O=GermanGrid/OU=uni-hamburg/CN=Emanuele Usai" cms
+"/C=DE/O=GermanGrid/OU=KIT/CN=Klaus Rabbertz" cms
+"/O=GermanGrid/OU=DESY/CN=Benjamin Lutz" cms
+"/C=RU/O=RDIG/OU=users/OU=sinp.msu.ru/CN=Olga Kodolova" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Perugia/CN=Aniello Spiezia" cms
+"/DC=org/DC=doegrids/OU=People/CN=Mikhail Makouski 429045" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ebarlas/CN=729052/CN=Esra Barlas" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=psquilla/CN=617450/CN=Paola Squillacioti" cms
+"/DC=org/DC=doegrids/OU=People/CN=Jaehyeok Yoo 749410" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=wangzh/CN=666968/CN=Zheng Wang" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=fgior8/CN=662088/CN=Ferdinando Giordano" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=davec/CN=382975/CN=Dave Cockerill" cms
+"/C=DE/O=GermanGrid/OU=DESY/CN=Somnath Choudhury" cms
+"/DC=org/DC=doegrids/OU=People/CN=Jennifer Chu 324739" cms
+"/C=TW/O=AS/OU=GRID/CN=Hung Te Lee 193601" cms
+"/O=GermanGrid/OU=DESY/CN=Christian Sander" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dballest/CN=735415/CN=Diego Alfonso Ballesteros Villamizar" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jartieda/CN=748354/CN=John Poul Artieda Romero" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dkolchme/CN=734920/CN=David Klein Kolchmeyer" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=astepenn/CN=734228/CN=Anton Stepennov" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dugad/CN=447858/CN=Shashi Dugad" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=barbagli/CN=372471/CN=Giuseppe Barbagli" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cvuosalo/CN=708697/CN=Carl Vuosalo" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=adamw/CN=369199/CN=Wolfgang Adam" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=agapitos/CN=669162/CN=Antonios Agapitos" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=anegorov/CN=748197/CN=Anatolii Egorov" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=hatake/CN=661802/CN=Kenichi Hatakeyama" cms
+"/DC=org/DC=doegrids/OU=People/CN=Monika Grothe 790953" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=hdyoo/CN=679810/CN=Hwi Dong Yoo" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dafehlin/CN=672030/CN=Dave Fehling Jr" cms
+"/DC=org/DC=doegrids/OU=Services/CN=uscmspilot45/glidein-1.t2.ucsd.edu" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=acastro/CN=380802/CN=Andrea Castro" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=matze/CN=695852/CN=Matthias Wolf" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=vardan/CN=667227/CN=Vardan Khachatryan" cms
+"/C=CN/O=HEP/O=PKU/OU=PHYS/CN=kejing kang" cms
+"/DC=IN/DC=GARUDAINDIA/O=C-DAC/OU=CTSF/CN=Ashim Roy (ashim.roy@cern.ch)" cms
+"/DC=ch/DC=cern/OU=computers/CN=cmswmagent/vocms202.cern.ch" cms
+"/C=CN/O=HEP/O=IHEP/OU=PHYS/CN=Shihai Zhu" cms
+"/C=DE/O=GermanGrid/OU=DESY/CN=Francesco Costanza" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=wangdy/CN=664696/CN=Dayong Wang" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=rgarg/CN=748855/CN=Rocky Bala Garg" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=funk/CN=393423/CN=Wolfgang Funk" cms
+"/DC=org/DC=doegrids/OU=People/CN=Robert Snihur 365033" cms
+"/C=DE/O=GermanGrid/OU=KIT/CN=Daniel Troendle" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mcinquil/CN=660800/CN=Mattia Cinquilli" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Valery Zhukov" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mmdali/CN=748804/CN=Mohd Adli Bin Md Ali" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Simon Knutzen" cms
+"/DC=org/DC=doegrids/OU=People/CN=Peter Thomassen 444413" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=tmartins/CN=716951/CN=Thiago Dos Reis Martins" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Martin Weber" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Adrian Perieanu" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=yarba/CN=401666/CN=Julia Yarba" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Joschka Lingemann" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ille/CN=401799/CN=Bernard Ille" cms
+"/DC=ch/DC=cern/OU=computers/CN=wmagent/vocms13.cern.ch" cms
+"/DC=org/DC=doegrids/OU=People/CN=Sanjay Ravi Ratan Arora 689935" cms
+"/DC=ch/DC=cern/OU=computers/CN=squidmon/wlcg-squid-monitor.cern.ch" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sartiran/CN=672713/CN=Andrea Sartirana" cms
+"/DC=org/DC=doegrids/OU=People/CN=Bockjoo Kim 740786" cms
+"/C=BE/O=BEGRID/OU=Ugent/CN=Strobbe Nadja" cms
+"/C=RU/O=RDIG/OU=users/OU=jinr.ru/CN=Pavel Bunin" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jgwood/CN=709590/CN=John Garland Wood" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jgsmith/CN=681626/CN=James Gilbert Smith" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=lelas/CN=634429/CN=Damir Lelas" cms
+"/C=DE/O=GermanGrid/OU=uni-hamburg/CN=Andreas Kell" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=evka/CN=683781/CN=Evaldas Juska" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=swanson/CN=678887/CN=Joshua James Swanson" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=aahmad/CN=563801/CN=Ashfaq Ahmad" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=rvidal/CN=514012/CN=Richard Anthony Vidal" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=darohr/CN=742422/CN=Daniel Rohr" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=tapas/CN=665744/CN=Tapas Sarangi" cms
+"/C=CN/O=HEP/O=PKU/OU=PHYS/CN=Linlin Zhang" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=grchrist/CN=730289/CN=Grant Edward Christopher" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=maeshima/CN=399410/CN=Kaori Maeshima" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=neminize/CN=753040/CN=Nicholas Christian Eminizer" cms
+"/DC=org/DC=doegrids/OU=People/CN=Andrew Malone Melo 788499" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=schoef/CN=616361/CN=Robert Schoefbeck" cms
+"/C=TR/O=TRGrid/OU=ODTU/CN=Metin Yalvac" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=IPNL/CN=Louis Sgandurra" cms
+"/DC=org/DC=ugrid/O=people/O=KIPT/CN=Leonid Levchuk" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=lethuill/CN=474406/CN=Morgan Lethuillier" cms
+"/DC=org/DC=doegrids/OU=People/CN=Yuriy Pakhotin 857273" cms
+"/DC=org/DC=doegrids/OU=People/CN=Burton Andrew Betchart 833373" cms
+"/DC=org/DC=doegrids/OU=People/CN=Kelvin Mei 284949" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=teppo/CN=482621/CN=Teppo Maeenpaeae" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=besancon/CN=374800/CN=Marc Besancon" cms
+"/C=DE/O=GermanGrid/OU=uni-hamburg/CN=Valentina Sola" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=elaird/CN=671811/CN=Edward Laird" cms
+"/DC=org/DC=doegrids/OU=People/CN=Benjamin A Snook 916148" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jafonso/CN=668003/CN=Jose Afonso Lajas Sanches" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mithat/CN=541498/CN=Mithat Kaya" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=LLR/CN=Roberto Salerno" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=gdaskal/CN=385330/CN=Georgios Daskalakis" cms
+"/DC=org/DC=doegrids/OU=People/CN=William T. Ford 720059" cms
+"/C=DE/O=GermanGrid/OU=uni-hamburg/CN=Daniele Marconi" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=hahkala/CN=470412/CN=Joni Hahkala" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ssen/CN=680879/CN=Sercan Sen" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=wulz/CN=441884/CN=Claudia Wulz" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=acolaleo/CN=383094/CN=Anna Colaleo" cms
+"/DC=org/DC=doegrids/OU=Services/CN=uscmspilot46/glidein-1.t2.ucsd.edu" cms
+"/C=GR/O=HellasGrid/OU=inp.demokritos.gr/CN=Christos Filippidis" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=amarini/CN=692925/CN=Andrea Carlo Marini" cms
+"/C=DE/O=GermanGrid/OU=DESY/CN=Agni Bethani" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=solano/CN=432693/CN=Ada Solano" cms
+"/C=CN/O=HEP/O=IHEP/OU=PHYS/CN=Hong Xiao" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=IPNL/CN=Guillaume Baulieu" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=rebassoo/CN=673313/CN=Finn O'Neill Rebassoo" cms
+"/C=BE/O=BEGRID/OU=PHYS/OU=UCL/CN=Jesus Manuel Vizan Garcia" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mmaggi/CN=411516/CN=Marcello Maggi" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mkovac/CN=705152/CN=Marko Kovac" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=shervin/CN=692365/CN=Shervin Nourbakhsh" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=tropiano/CN=676905/CN=Antonio Tropiano" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=amohamed/CN=743081/CN=Ashraf Mohamed" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=weizou/CN=701707/CN=Wei Zou" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=markir/CN=679869/CN=Martin Kirakosyan" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=bachtis/CN=643684/CN=Michail Bachtis" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=devdatta/CN=670738/CN=Devdatta Majumder" cms
+"/DC=org/DC=doegrids/OU=Services/CN=uscmspilot11/glidein-1.t2.ucsd.edu" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=twilkaso/CN=736384/CN=Thomas Frederick Wilkason Jr" cms
+"/DC=org/DC=doegrids/OU=People/CN=MONIKA SHARMA 488019" cms
+"/C=BE/O=BEGRID/OU=CP3/OU=UCL/CN=Nuttens Claude" cms
+"/C=CN/O=HEP/O=IHEP/OU=ASTRO/CN=Yuqiao SHEN" cms
+"/C=BR/O=ANSP/OU=ANSPGrid CA/OU=People/CN=Sergio Morais Lietti" cms
+"/DC=ch /DC=cern /OU=Organic Units /OU=Users /CN=dfehling /CN=672030 /CN=Dave Fehling Jr" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=lchaparr/CN=730195/CN=Luisa Fernanda Chaparro Sierra" cms
+"/DC=org/DC=doegrids/OU=People/CN=Joseph Goodell 380559" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=rjmhrj/CN=694872/CN=Roy Joaquin Montalvo" cms
+"/DC=org/DC=doegrids/OU=People/CN=Thiago Victor Moreno 224198" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Firenze/CN=Marco Meschini" cms
+"/C=NZ/O=BeSTGRID/OU=The University of Auckland/CN=Philip Allfrey" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mousa/CN=495503/CN=Jehad Mousa Aysha" cms
+"/C=PK/O=NCP/OU=ASC/CN=Adeel-ur-Rehman" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=bcox/CN=490659/CN=Brad Cox" cms
+"/DC=org/DC=doegrids/OU=People/CN=Christopher A. George 437718" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=erosales/CN=725205/CN=Edgar Eduardo Rosales Rosero" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=franzoni/CN=555172/CN=Giovanni Franzoni" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=haweber/CN=713242/CN=Hannsjorg Weber" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dhidas/CN=694071/CN=Dean Andrew Hidas" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=pyannis/CN=420398/CN=Ioannis Papadopoulos" cms
+"/DC=org/DC=doegrids/OU=People/CN=Daniel Riley 437482" cms
+"/C=DE/O=GermanGrid/OU=KIT/CN=Ulrich Husemann" cms
+"/C=TW/O=AP/OU=GRID/CN=DIPANWITA DUTTA 173671" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ssirisky/CN=734013/CN=Stephen Benjamin Sirisky" cms
+"/DC=org/DC=doegrids/OU=People/CN=Irving Daniel Sandoval Gonzalez 814928" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=fwyzard/CN=555203/CN=Andrea Bocci" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=vlimant/CN=652956/CN=Jean-Roch Vlimant" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=tknuth/CN=750479/CN=Trevor Jon Knuth" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sregnard/CN=738170/CN=Simon Regnard" cms
+"/C=BE/O=BEGRID/OU=Dept Fysica EDF/OU=UA/CN=Alex Van Spilbeeck" cms
+"/DC=org/DC=doegrids/OU=People/CN=Marc M. Baarmand 981890" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=agarabed/CN=724729/CN=Alex Edward Garabedian" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jared/CN=710134/CN=Jared Turkewitz" cms
+"/C=TW/O=AP/OU=GRID/CN=Ridhi Chawla 370223" cms
+"/C=BE/O=BEGRID/OU=ELEM/OU=VUB/CN=alkaloge" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=yohay/CN=649001/CN=Rachel Yohay" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=iraklic/CN=678613/CN=Irakli Chakaberia" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mwalczak/CN=440124/CN=Marek Bohdan Walczak" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Perugia/CN=Diego Ciangottini" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=pimia/CN=422842/CN=Martti Pimia" cms
+"/DC=org/DC=doegrids/OU=People/CN=Marek Zielinski 8293" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=tdoan/CN=742899/CN=Thi Hien Doan" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=rbadman/CN=731842/CN=Ryan Badman" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Bologna/CN=Federica Primavera" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cmsapf16/CN=606831/CN=Robot: CMS Apf 16" cms
+"/DC=ch/DC=cern/OU=computers/CN=vocms171.cern.ch" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mkrohn/CN=751145/CN=Michael David Krohn" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=alverson/CN=370132/CN=George Alverson" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=vgiakoum/CN=555542/CN=Viktoria Athina Giakoumopoulou" cms
+"/C=TW/O=AP/OU=GRID/CN=RAMANDEEP KUMAR 181170" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=varuns/CN=714931/CN=Varun Sharma" cms
+"/O=GRID-FR/C=FR/O=CEA/OU=IRFU/CN=Zoulikha Georgette" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=zmao/CN=740755/CN=Zaixing Mao" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jmolina/CN=633992/CN=Jorge Amando Molina-Perez" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=LLR/CN=Nadir Daci" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dezso/CN=401057/CN=Dezso Horvath" cms
+"/C=TW/O=AP/OU=GRID/CN=Tania Moulik 196277" cms
+"/C=UK/O=eScience/OU=Bristol/L=IS/CN=mark grimes" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=biliu/CN=741875/CN=Bingxuan Liu" cms
+"/DC=org/DC=doegrids/OU=People/CN=Werner Man-Li Sun 979078" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Bari/CN=Giorgia Miniello" cms
+"/C=RU/O=RDIG/OU=users/OU=itep.ru/CN=Alexander Fedotov" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Milano Bicocca/CN=Daniele Pedrini" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=gruen/CN=397710/CN=Martin Grunewald" cms
+"/DC=org/DC=doegrids/OU=Services/CN=uscmspilot08/glidein-1.t2.ucsd.edu" cms
+"/C=DE/O=GermanGrid/OU=uni-hamburg/CN=Arne-Rasmus Draeger" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cmkuo/CN=616136/CN=Chia-Ming Kuo" cms
+"/DC=org/DC=doegrids/OU=People/CN=Nikolay Terentyev 399389" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=parracho/CN=616917/CN=Pedro Guilherme Ferreira Parracho" cms
+"/DC=IN/DC=GARUDAINDIA/O=C-DAC/OU=CTSF/CN=Suvankar Roy Chowdhury (suvankar.roy.chowdhury@cern.ch)" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mikulec/CN=415258/CN=Ivan Mikulec" cms
+"/DC=ch/DC=cern/OU=computers/CN=wmagent/vocms215.cern.ch" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=wimpenny/CN=441440/CN=Steve Wimpenny" cms
+"/C=DE/O=GermanGrid/OU=KIT/CN=Wajid Ali Khan" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mzakaria/CN=683452/CN=Mohammed Zakaria" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=moglakci/CN=732527/CN=Mehmet Oglakci" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Ian Michael Nugent" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dygyun/CN=710380/CN=Dooyeon Gyun" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=bergauer/CN=555058/CN=Thomas Bergauer" cms
+"/C=TW/O=AS/OU=GRID/CN=Jhen-Wei Huang CMS 177312" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=joelg/CN=396201/CN=Joel Goldstein" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Trieste/CN=Massimo Casarsa" cms
+"/C=TW/O=AP/OU=GRID/CN=Monika Mittal 101029" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dorney/CN=697557/CN=Brian Dorney" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=thennequ/CN=725514/CN=Thibaut Hennequin" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=barneyd/CN=372734/CN=David Barney" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Sebastian Thueer" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mgabusi/CN=717848/CN=Michele Gabusi" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=safronov/CN=621423/CN=Grigory Safronov" cms
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Andrea Sciaba" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Sns/CN=Giovanni Petrucciani" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=poter/CN=652135/CN=Syue-Wei Li" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=bbilin/CN=705521/CN=Bugra Bilin" cms
+"/C=BE/O=BEGRID/OU=Dept Fysica EDF/OU=UA/CN=Merijn van de Klundert" cms
+"/DC=org/DC=doegrids/OU=People/CN=Tongguang Cheng 949421" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=terhi/CN=725626/CN=Terhi Tuuli Jarvinen" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jwwetzel/CN=678143/CN=James William Wetzel" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cuevas/CN=384538/CN=Javier Cuevas Maestro" cms
+"/DC=org/DC=terena/DC=tcs/C=FI/O=University of Helsinki/CN=Salman Toor toor@helsinki.fi" cms
+"/C=TW/O=AP/OU=GRID/CN=Niladribihari Sahoo 177190" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mazumdar/CN=413878/CN=Kajari Mazumdar" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=nberry/CN=702064/CN=Nik Berry" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Fisica Milano Bicocca/CN=Leonardo Di Matteo" cms
+"/C=DE/O=GermanGrid/OU=KIT/CN=Marco Harrendorf" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=LNL/CN=Andrea Gozzelino" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cylin/CN=697160/CN=Chiao-Ying Lin" cms
+"/C=BE/O=BEGRID/OU=ELEM/OU=VUB/CN=Michael Maes" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=webermat/CN=666111/CN=Matthias Artur Weber" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=marlow/CN=514069/CN=Daniel Marlow" cms
+"/DC=org/DC=doegrids/OU=People/CN=Gala Nicolas-Kaufman 495438" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mironov/CN=660971/CN=Camelia Mironov" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sghazine/CN=739244/CN=Sepehr Ghazi Nezami" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cmsapf21/CN=606831/CN=Robot: CMS Apf 21" cms
+"/C=TR/O=TRGrid/OU=TUBITAK-ULAKBIM/CN=Feyza Eryol" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=bcarlson/CN=736735/CN=Benjamin Taylor Carlson" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mortenpi/CN=744195/CN=Morten Piibeleht" cms
+"/DC=org/DC=doegrids/OU=Services/CN=uscmspilot28/glidein-1.t2.ucsd.edu" cms
+"/C=UK/O=eScience/OU=Imperial/L=Physics/CN=alexander richards" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cmsapf/CN=606831/CN=Robot: cms apf" cms
+"/C=DE/O=GermanGrid/OU=DESY/CN=Gero Flucke" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=kschen/CN=695141/CN=Kuan-Hsin Chen" cms
+"/C=DE/O=GermanGrid/OU=KIT/CN=Matthias Mozer" cms
+"/DC=org/DC=doegrids/OU=People/CN=Eliza Melo da Costa 49774" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=eckerlin/CN=380485/CN=Guenter Eckerlin" cms
+"/O=Grid/O=NorduGrid/OU=helsinki.fi/CN=Matti Kortelainen" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=salvati/CN=697161/CN=Emmanuele Salvati" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mossolov/CN=416712/CN=Vladimir Mossolov" cms
+"/DC=org/DC=doegrids/OU=People/CN=Sue Ann Koay 20966" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=emsimili/CN=630451/CN=Emanuele Simili" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=hinzmann/CN=670944/CN=Andreas Hinzmann" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=LLR/CN=Andrea Sartirana" cms
+"/C=DE/O=GermanGrid/OU=DESY/CN=Altan Cakir" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sonne/CN=493898/CN=Lars Sonnenschein" cms
+"/DC=ch/DC=cern/OU=OrganicUnits/OU=Users/CN=cmkuo/CN=616136/CN=Chia-Ming Kuo" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jletts/CN=409293/CN=James Letts" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=caroline/CN=415411/CN=Caroline Milstene" cms
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=Services/CN=wmagent/cmssrv94.fnal.gov" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=asady/CN=735393/CN=Alice Adrienne Sady" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=chedward/CN=740468/CN=Christopher Ryan Edwards-Bruner" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ymtzeng/CN=675352/CN=Yeng-Ming Tzeng" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mommsen/CN=448932/CN=Remi Mommsen" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Johannes Schulz" cms
+"/DC=org/DC=doegrids/OU=Services/CN=uscmspilot44/glidein-1.t2.ucsd.edu" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=vdutta/CN=696509/CN=Valentina Dutta" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cavalari/CN=380936/CN=Francesca Cavallari" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cmsapf18/CN=606831/CN=Robot: CMS Apf 18" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=tomei/CN=673404/CN=Thiago Fernandez Perez Tomei" cms
+"/DC=es/DC=irisgrid/O=ciemat/CN=Eduardo-Navarro" cms
+"/DC=org/DC=doegrids/OU=People/CN=Ia Iashvili 933590" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=esmaeel/CN=749154/CN=Esmaeel Eskandari" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Carsten Heidemann" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=palmo/CN=420219/CN=Francesco Palmonari" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=aaleksan/CN=582675/CN=Aleksandar Aleksandrov" cms
+"/C=AT/O=AustrianGrid/OU=OEAW/OU=oeaw-vienna/CN=Dietrich Liko" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=tdahms/CN=678379/CN=Torsten Dahms" cms
+"/C=BE/O=BEGRID/OU=PHYS/OU=UCL/CN=Pavel Jez" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=brachlin/CN=749385/CN=Bradley Rachlin" cms
+"/DC=es/DC=irisgrid/O=pic/CN=Antonio.Perezcalero" cms
+"/DC=org/DC=doegrids/OU=People/CN=Aysen Tatarinov 907988" cms
+"/DC=IN/DC=GARUDAINDIA/O=C-DAC/OU=CTSF/CN=Ruchi Chudasama (ruchi.physics@gmail.com)" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=kyriakis/CN=406957/CN=Aristoteles Kyriakis" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=molmedon/CN=743559/CN=Manuel Alejandro Olmedo Negrete" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mangano/CN=606898/CN=Boris Mangano" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=roberta/CN=370944/CN=Roberta Arcidiacono" cms
+"/DC=org/DC=doegrids/OU=People/CN=Valentin Kuznetsov 357683" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mtarkhov/CN=722346/CN=Maria Toms" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=zdemirog/CN=720948/CN=Zuhal Seyma Demiroglu" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mpierini/CN=665093/CN=Maurizio Pierini" cms
+"/DC=org/DC=doegrids/OU=People/CN=Burt Holzman 380062" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=pamc/CN=563891/CN=Pamela Renee Klabbers" cms
+"/C=BE/O=BEGRID/OU=ELEM/OU=VUB/CN=Olbrechts" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=atiko/CN=679492/CN=Andres Tiko" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ngod/CN=396089/CN=Nikola Godinovic" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Christian Schomakers" cms
+"/C=RU/O=RDIG/OU=users/OU=sinp.msu.ru/CN=Lev Dudko" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=lenzip/CN=638929/CN=Piergiulio Lenzi" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cmsapf09/CN=606831/CN=Robot: CMS Apf 09" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=gouskos/CN=639236/CN=Loukas Gouskos" cms
+"/DC=org/DC=doegrids/OU=People/CN=Julia Ann Novak 386759" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=llinares/CN=742828/CN=Luis Emiro Linares Garcia" cms
+"/C=DE/O=GermanGrid/OU=DESY/CN=Aliaksei Raspiareza" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jbrooke/CN=517639/CN=Jim Brooke" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=adavid/CN=578938/CN=Andre Tinoco Mendes" cms
+"/DC=org/DC=doegrids/OU=People/CN=Lina Milena Huertas Guativa 132343" cms
+"/C=TW/O=AP/OU=GRID/CN=Rohan Jaitpal 198521" cms
+"/DC=org/DC=doegrids/OU=People/CN=Yuyi Guo 900841" cms
+"/C=BR/O=ANSP/OU=ANSPGrid CA/OU=People/CN=Marcio Antonio Costa" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=delaer/CN=560499/CN=Christophe Delaere" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=bonato/CN=677734/CN=Alessio Bonato" cms
+"/O=GermanGrid/OU=DESY/CN=Christoph Wissing" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cclarke/CN=724934/CN=Christopher Joseph Clarke" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=anlevin/CN=724731/CN=Andrew Michael Levin" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mohsen/CN=404732/CN=Mohsen Khakzad" cms
+"/DC=org/DC=doegrids/OU=Services/CN=t2pilot01/uaf-2.t2.ucsd.edu" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=deroy/CN=731049/CN=Debarati Roy" cms
+"/DC=org/DC=doegrids/OU=People/CN=James Alexander 491501" cms
+"/C=RU/O=RDIG/OU=users/OU=sinp.msu.ru/CN=Natalia Tsirova" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=aradovsk/CN=732425/CN=Anna Radovskaia" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=wittich/CN=654039/CN=Peter Wittich" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cdozen/CN=681085/CN=Candan Dozen" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=shsong79/CN=673450/CN=Sanghyeon Song" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mbartok/CN=735009/CN=Marton Bartok" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=hyin/CN=754139/CN=Hang Yin" cms
+"/C=CN/O=HEP/OU=IHEP/CN=Tao Junquan" cms
+"/DC=org/DC=doegrids/OU=People/CN=Doga Gulhan 255171" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jrobles/CN=676828/CN=Jorge A Robles" cms
+"/DC=org/DC=doegrids/OU=People/CN=Chris Farrell 114638" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=anayak/CN=653640/CN=Aruna Nayak" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=hbakhshi/CN=658732/CN=Hamed Bakhshiansohi" cms
+"/C=CO/O=Uniandes CA/O=UNIANDES/OU=FISICA/CN=Carlos Andres Florez Bustos" cms
+"/C=BE/O=BEGRID/OU=VUB/OU=IIHE/CN=Abdollah" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Firenze/CN=Piergiulio Lenzi" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=pdl/CN=679321/CN=Philip Daniel Lawson" cms
+"/DC=org/DC=doegrids/OU=People/CN=Benjamin Albert Snook 849542" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=tkhurshi/CN=669087/CN=Taimoor Khurshid" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=tasmith/CN=744406/CN=Taylor Smith" cms
+"/C=DE/O=GermanGrid/OU=uni-hamburg/CN=Dominik Nowatschin" cms
+"/DC=org/DC=doegrids/OU=People/CN=Sudhir Malik 503653" cms
+"/C=CN/O=HEP/OU=IHEP/CN=zhang xiaomei" cms
+"/DC=org/DC=doegrids/OU=People/CN=Tambe Ebai Norbert 519537" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Roma 1/CN=Ivano Giuseppe Talamo" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=loccie/CN=395893/CN=Elizabeth Locci" cms
+"/DC=ch/DC=cern/OU=computers/CN=pdmvserv/lxbuild042.cern.ch" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=favaro/CN=698706/CN=Carlotta Favaro" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=arapyan/CN=455306/CN=Aram Apyan" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=trocino/CN=668497/CN=Daniele Trocino" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dmeister/CN=703914/CN=Daniel Meister" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ygunaydi/CN=729103/CN=Yusuf Oguzhan Gunaydin" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=asciaba/CN=430796/CN=Andrea Sciaba" cms
+"/DC=org/DC=doegrids/OU=People/CN=Caroline Elise Aust 506145" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=CC-LYON/CN=David Bouvet" cms
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Brian Bockelman" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=apresyan/CN=661492/CN=Artur Apresyan" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=IPHC/CN=Eric Chabert" cms
+"/C=GR/O=HellasGrid/OU=iasa.gr/CN=Vassilios Karageorgos" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cmsapf10/CN=606831/CN=Robot: CMS Apf 10" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sryu/CN=676041/CN=Seang Chan Ryu" cms
+"/DC=org/DC=doegrids/OU=People/CN=Dinko Ferencek 517954" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=davidk/CN=593068/CN=David Krofcheck" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=torimoto/CN=526517/CN=Toyoko Orimoto" cms
+"/C=DE/O=GermanGrid/OU=KIT/CN=Thorsten Chwalek" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Bari/CN=Alexis Pompili" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dildick/CN=710593/CN=Sven Dildick" cms
+"/C=TR/O=TRGrid/OU=Bogazici/CN=Erhan Gulmez" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=swilbur/CN=734503/CN=Scott Wilbur" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ivanp/CN=716272/CN=Ivan Pozdnyakov" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=scooper/CN=662219/CN=Seth Cooper" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=gpetrucc/CN=632471/CN=Giovanni Petrucciani" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=zmeng/CN=670428/CN=Zhaoxia Meng" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=nhadley/CN=541478/CN=Nicholas Hadley" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Pisa/CN=Tommaso Boccali" cms
+"/C=DE/O=GermanGrid/OU=DESY/CN=Gregor Hellwig" cms
+"/C=UK/O=eScience/OU=CLRC/L=RAL/CN=ian tomalin" cms
+"/C=DE/O=GermanGrid/OU=KIT/CN=Natalia Ratnikova" cms
+"/DC=org/DC=ugrid/O=people/O=KIPT/OU=kipt.kharkov.ua/CN=Alexander Pristavka" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=LLR/CN=Pascal Paganini" cms
+"/DC=org/DC=doegrids/OU=People/CN=Adam Hunt 625964" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jluetic/CN=693569/CN=Jelena Luetic" cms
+"/C=UK/O=eScience/OU=Brunel/L=CC/CN=raul lopes" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=valya/CN=443502/CN=Valentin Y Kuznetsov" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=habdalla/CN=750061/CN=Hussein Mohamad Abdallah" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=rewang/CN=742242/CN=Renjie Wang" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=blumenfe/CN=375888/CN=Barry Jay Blumenfeld" cms
+"/C=RU/O=RDIG/OU=users/OU=lebedev.ru/CN=Vladimir Andreev" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=tuos/CN=702533/CN=Shengquan Tuo" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=icali/CN=607088/CN=Ivan Amos Cali" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=skhi/CN=699063/CN=Nikoloz Skhirtladze" cms
+"/C=DE/O=GermanGrid/OU=KIT/CN=Dominik Haitz" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=wendland/CN=536806/CN=Lauri Andreas Wendland" cms
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Valere Lambert 1305" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Matthias Edelhoff" cms
+"/DC=org/DC=doegrids/OU=People/CN=Tatiana Medvedeva 648336" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jbalcas/CN=751133/CN=Justas Balcas" cms
+"/DC=ch/DC=cern/OU=computers/CN=wmagent/vocms234.cern.ch" cms
+"/C=PL/O=GRID/O=ICM/CN=Krzysztof Nawrocki" cms
+"/C=AT/O=AustrianGrid/OU=OEAW/OU=oeaw-vienna/CN=Vasile Mihai Ghete" cms
+"/C=BR/O=ANSP/OU=ANSPGrid CA/OU=People/CN=Angelo de Souza Santos" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=thaarres/CN=735430/CN=Thea Klaeboe Aarrestad" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ydoh/CN=419191/CN=Young Do Oh" cms
+"/C=AT/O=AustrianGrid/OU=OEAW/OU=oeaw-vienna/CN=Josef Strauss" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mlalegan/CN=748758/CN=Mohamad Lalegani Dezaki" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=bravo/CN=709278/CN=Cameron Bravo" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jiltsov/CN=403080/CN=Victor Zhiltsov" cms
+"/C=GR/O=HellasGrid/OU=uoi.gr/CN=Giannis Flouris" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=thea/CN=582961/CN=Alessandro Thea" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=rconway/CN=710133/CN=Rylan Towne Conway" cms
+"/C=TR/O=TRGrid/OU=Cukurova/CN=Isa Dumanoglu" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dosmith/CN=753711/CN=Dominic Smith" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=banerjee/CN=372383/CN=Sunanda Banerjee" cms
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=Services/CN=wmagent/cmssrv113.fnal.gov" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=glushkov/CN=607266/CN=Ivan Glushkov" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dsperka/CN=698850/CN=David Sperka" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=bedoya/CN=602721/CN=Cristina Fernandez Bedoya" cms
+"/DC=org/DC=doegrids/OU=People/CN=Si Xie 523253" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=escher/CN=753315/CN=Elliot Nathan Scher" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=IPNL/CN=Gaelle Boudoul" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=csmoon/CN=734204/CN=Chang-Seong Moon" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=asavin/CN=429552/CN=Alexander Savin" cms
+"/DC=org/DC=doegrids/OU=People/CN=Kurt Jung 471769" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=wto/CN=671055/CN=Wing To" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sergo/CN=710928/CN=Sergo Jindariani" cms
+"/C=DE/O=GermanGrid/OU=KIT/CN=Andreas Nuernberg" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=lara/CN=674323/CN=Lara Lloret Iglesias" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=wangj/CN=752827/CN=Jing Wang" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mgouzevi/CN=677160/CN=Maxime Gouzevitch" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=bikashji/CN=700874/CN=Pramod Lamichhane" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=spark/CN=490630/CN=Sung.Keun Park" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Bari/CN=Rosamaria Venditti" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=darinb/CN=679733/CN=Darin Carl Baumgartel" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jordan/CN=746428/CN=Jordan Alexander Robertson" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=amrit/CN=750567/CN=Yagya Raj Joshi" cms
+"/DC=org/DC=doegrids/OU=People/CN=Supriya Jain 417485" cms
+"/C=DE/O=GermanGrid/OU=uni-hamburg/CN=Lukasz Kreczko" cms
+"/DC=org/DC=doegrids/OU=People/CN=Wei Xie 61860" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jgreenfi/CN=749560/CN=Jack Alexander Greenfield" cms
+"/C=BE/O=BEGRID/OU=Ugent/CN=Anna Cimmino" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ceballos/CN=488892/CN=Guillelmo Gomez Ceballos Retuerto" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=lucasbc/CN=707771/CN=Lucas De Brito Cavalcanti" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=kaestli/CN=611954/CN=Hans-Christian Kaestli" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ric/CN=477544/CN=Riccardo Paramatti" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=worm/CN=490568/CN=Steven Worm" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=setesami/CN=698002/CN=Seyed Mohsen Etesami" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mjovan/CN=574556/CN=Jovan Milosevic" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sapta/CN=678578/CN=Saptaparna Bhattacharya" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=IPNL/CN=Stephanie Beauceron" cms
+"/DC=org/DC=doegrids/OU=People/CN=Fengping Hu 287243" cms
+"/C=BE/O=BEGRID/OU=PHYS/OU=UCL/CN=Matthias Komm" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=IPHC/CN=Kirill Skovpen" cms
+"/C=BR/O=ANSP/OU=ANSPGrid CA/OU=People/CN=David Romero Abad" cms
+"/C=BE/O=BEGRID/OU=UGent-CMS/OU=Ugent/CN=Shannon Crucy" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=asakharo/CN=511415/CN=Alexandre Sakharov" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=yalcin/CN=683602/CN=Yalcin Guler" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=klarson1/CN=704070/CN=Krista Larson" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=lalunnis/CN=742573/CN=Luisa Alunni Solestizi" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ashish/CN=658687/CN=Ashish Kumar" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=xiezhen/CN=441972/CN=Zhen Xie" cms
+"/C=BE/O=BEGRID/OU=VUB/OU=ELEM/CN=Natalie Heracleous" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=lennys/CN=541608/CN=Lenny Spiegel" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=geralis/CN=395021/CN=Theodoros Geralis" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=tucker/CN=647334/CN=Jordan Tucker" cms
+"/C=DE/O=GermanGrid/OU=KIT/CN=Simon Fink" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Tobias Pook" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jkaisen/CN=743267/CN=Joshua Kenneth Kaisen" cms
+"/DC=org/DC=doegrids/OU=People/CN=Kevin Kai Hong Sung 969725" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=macervan/CN=742898/CN=Mayra Daniela Cervantes Valdovinos" cms
+"/DC=IN/DC=GARUDAINDIA/O=C-DAC/OU=CTSF/CN=Vishwajeet Jha (vjha009@gmail.com)" cms
+"/C=BE/O=BEGRID/OU=PHYS/OU=UCL/CN=Adrien Caudron" cms
+"/DC=org/DC=doegrids/OU=People/CN=Alberto Sanchez-Hernandez 746287" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ldodd/CN=725197/CN=Laura Margaret Dodd" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=holzner/CN=483283/CN=Andre Georg Holzner" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=vmancine/CN=722147/CN=Valentina Mancinelli" cms
+"/DC=org/DC=doegrids/OU=Services/CN=testpilot02/glidein-1.t2.ucsd.edu" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mdunser/CN=706134/CN=Marc Dunser" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cmsapf08/CN=606831/CN=Robot: CMS Apf 08" cms
+"/C=BE/O=BEGRID/OU=Physics/OU=UCL/CN=Suzan Basegmez" cms
+"/C=DE/O=GermanGrid/OU=DESY/CN=Isabell-Alissandra Melzer-Pellmann" cms
+"/C=AT/O=AustrianGrid/OU=OEAW/OU=oeaw-vienna/CN=Robert Schoefbeck" cms
+"/C=DE/O=GermanGrid/OU=DESY/CN=Roberval Walsh" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=battilan/CN=644924/CN=Carlo Battilana" cms
+"/C=PK/O=PAEC-1/OU=DCG/CN=Shahid Aslam" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=vaikunth/CN=701055/CN=Vaikunth Thukral" cms
+"/DC=es/DC=irisgrid/O=ciemat/CN=Jose-Hernandez" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=lperrini/CN=704805/CN=Lucia Perrini" cms
+"/DC=es/DC=irisgrid/O=ciemat/CN=begona-cruz" cms
+"/DC=org/DC=doegrids/OU=People/CN=Pablo Yepes 676876" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=archie/CN=672739/CN=Archie Sharma" cms
+"/C=DE/O=GermanGrid/OU=KIT/CN=Frank Roscher" cms
+"/C=BE/O=BEGRID/OU=ELEM/OU=VUB/CN=Gerrit Van Onsem" cms
+"/C=BE/O=BEGRID/OU=VUB/CN=tjkim" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dalfonso/CN=583551/CN=Mariarosaria D'Alfonso" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=kazana/CN=494996/CN=Malgorzata Kazana" cms
+"/C=UK/O=eScience/OU=Brunel/L=CC/CN=mark turner" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=andreev/CN=370497/CN=Valery Andreev" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=azzolini/CN=682102/CN=Virginia Azzolini" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=rradogna/CN=703233/CN=Raffaella Radogna" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jkim/CN=622961/CN=Ji Hyun Kim" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Lars Sonnenschein" cms
+"/C=TW/O=AP/OU=GRID/CN=Genius Walia 865323" cms
+"/C=DE/O=GermanGrid/OU=DESY/CN=Matthias Kasemann" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=bhlee/CN=708622/CN=Byounghoon Lee" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=abdollah/CN=696126/CN=Abdollah Mohammadi" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=smaruyam/CN=667763/CN=Sho Maruyama" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=etakasug/CN=726370/CN=Eric Hayato Takasugi" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=twang/CN=722165/CN=Ta-Wei Wang" cms
+"/DC=org/DC=doegrids/OU=People/CN=Jeremiah Mans 934690" cms
+"/DC=org/DC=doegrids/OU=People/CN=Terence J Libeiro 469722" cms
+"/DC=es/DC=irisgrid/O=ifca/CN=Francisco-Matorras" cms
+"/C=BE/O=BEGRID/OU=Dept Fysica EDF/OU=UA/CN=Sten Luyckx" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=fengwang/CN=746444/CN=Fengwangdong Zhang" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sckao/CN=641296/CN=Shih-Chuan Kao" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ssalur/CN=670654/CN=Sevil Salur" cms
+"/C=RU/O=RDIG/OU=users/OU=jinr.ru/CN=Sergei Shmatov" cms
+"/DC=com/DC=quovadisglobal/DC=grid/DC=switch/DC=users/C=CH/O=Paul-Scherrer-Institut (PSI)/CN=Fabio Martinelli" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=syi/CN=752007/CN=Seunghyeon Yi" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=vidal/CN=705674/CN=Miguel Vidal Marono" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=andrey/CN=663712/CN=Andrey Pozdnyakov" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sseyedi/CN=718535/CN=Hossein Seyedi" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jkroe/CN=710428/CN=Jeffrey Roe" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=astaiano/CN=412628/CN=Amedeo Staiano" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=klyukhi/CN=405303/CN=Slava Klyukhin" cms
+"/C=GR/O=HellasGrid/OU=iasa.gr/CN=Marios Chatziangelou" cms
+"/DC=org/DC=doegrids/OU=People/CN=Burak Bilki 580513" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jfernan/CN=529280/CN=Javier Fernandez Menendez" cms
+"/C=UK/O=eScience/OU=Imperial/L=Physics/CN=rebecca lane" cms
+"/DC=org/DC=doegrids/OU=People/CN=Titas Roy 901671" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=lgray/CN=632215/CN=Lindsey Gray" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=goys/CN=527835/CN=Silvia Goy Lopez" cms
+"/C=UK/O=eScience/OU=Imperial/L=Physics/CN=robyn lucas" cms
+"/DC=org/DC=doegrids/OU=People/CN=Claudia Seitz 105736" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mmasciov/CN=720044/CN=Mario Masciovecchio" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=makouski/CN=650053/CN=Mikhail Makouski" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ppetkov/CN=555450/CN=Peicho Petkov" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Milano Bicocca/CN=Paolo Dini" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=IPNL/CN=Silvano Tosi" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=bpollack/CN=696641/CN=Brian Pollack" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Oleg Tsigenov" cms
+"/C=DE/O=GermanGrid/OU=uni-hamburg/CN=Thomas Poehlsen" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=rahatlou/CN=475627/CN=Shahram Rahatlou" cms
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=Services/CN=wmagent/cmssrv112.fnal.gov" cms
+"/O=GermanGrid/OU=RWTH/CN=Andreas Nowack" cms
+"/DC=org/DC=doegrids/OU=People/CN=John Rodgers Smith 660411" cms
+"/C=DE/O=GermanGrid/OU=uni-hamburg/CN=Ivan Marchesini" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=batinkov/CN=739757/CN=Atanas Ivanov Batinkov" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=kreis/CN=657578/CN=Ben Kreis" cms
+"/DC=org/DC=doegrids/OU=People/CN=Christopher Neu 33814" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cepeda/CN=669409/CN=Maria Cepeda Hermida" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=peller/CN=678618/CN=Philipp David Eller" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=micheli/CN=704459/CN=Francesco Micheli" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=pbgeff/CN=696043/CN=Paul Geffert" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=stenson/CN=649145/CN=Kevin Stenson" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=gbruno/CN=378660/CN=Giacomo Bruno" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jha/CN=618566/CN=Manoj Jha" cms
+"/DC=ch/DC=cern/OU=computers/CN=dashb-ai-402.cern.ch" cms
+"/C=BE/O=BEGRID/OU=IIHE/OU=ULB/CN=Jian Wang" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ajafari/CN=663485/CN=Abideh Jafari" cms
+"/C=BE/O=BEGRID/OU=Ugent/CN=Leonardo Benucci" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=algeorge/CN=742179/CN=Alexander Georges" cms
+"/DC=org/DC=doegrids/OU=People/CN=Diego Alfonso Ballesteros Villamizar 521526" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jjhollar/CN=666907/CN=Jonathan Jason Hollar" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sbose/CN=652198/CN=Suvadeep Bose" cms
+"/O=GermanGrid/OU=RWTH/CN=Manuel Giffels" cms
+"/DC=org/DC=doegrids/OU=People/CN=Nathaniel Woods 773052" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dstolp/CN=727072/CN=Dustin Stolp" cms
+"/DC=org/DC=doegrids/OU=People/CN=Eduardo E. Luiggi 472725" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ledovsk/CN=656988/CN=Alexander Ledovskoy" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dejardin/CN=386373/CN=Marc Dejardin" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=rolandc/CN=427191/CN=Christof Roland" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sdevissc/CN=645044/CN=Simon De Visscher" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=botta/CN=668500/CN=Cristina Botta" cms
+"/C=HU/O=NIIF CA/OU=GRID/OU=Wigner FK/CN=Hajdu Csaba" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=gbenelli/CN=485942/CN=Gabriele Benelli" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=pmine/CN=415446/CN=Philippe Mine" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=scoopers/CN=732388/CN=Stephane B Cooperstein" cms
+"/C=DE/O=GermanGrid/OU=KIT/CN=Robot - grid client - Dominik Haitz (dCMS Pilots)" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mmalek/CN=645377/CN=Magdalena Malek" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mtytgat/CN=663071/CN=Michael Tytgat" cms
+"/DC=org/DC=doegrids/OU=People/CN=Anna Woodard 859997" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mquittna/CN=703058/CN=Milena Quittnat" cms
+"/DC=ch/DC=cern/OU=computers/CN=wmagent/vocms142.cern.ch" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Firenze/CN=Carlo Civinini" cms
+"/C=GR/O=HellasGrid/OU=uoi.gr/CN=Nikitas Loukas" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dsanders/CN=429108/CN=David Sanders" cms
+"/C=CN/O=HEP/O=IHEP/OU=PHYS/CN=Ye Chen" cms
+"/DC=org/DC=doegrids/OU=People/CN=Dragos Velicanu 383300" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Heiner Tholen" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=macneill/CN=714122/CN=Ian Macneill" cms
+"/DC=org/DC=doegrids/OU=People/CN=Igor Volobouev 48657" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mnaseri/CN=739903/CN=Mohsen Naseri" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ltikvica/CN=705445/CN=Lucija Tikvica" cms
+"/C=TW/O=AP/OU=GRID/CN=Archana Sharma 178210" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=pablom/CN=654019/CN=Pablo Martinez Ruiz Del Arbol" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=tkolberg/CN=659872/CN=Ted Ritchie Kolberg" cms
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Graham Allan 635" cms
+"/DC=org/DC=doegrids/OU=People/CN=Hammid Yusupov 918074" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=silviax/CN=383915/CN=Silvia Costantini" cms
+"/C=DE/O=GermanGrid/OU=uni-hamburg/CN=Eric Beyer" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cmsapf11/CN=606831/CN=Robot: CMS Apf 11" cms
+"/DC=org/DC=doegrids/OU=People/CN=Michael Gardner 866232" cms
+"zou wei" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=rossin/CN=660260/CN=Roberto Rossin" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=singovsk/CN=432084/CN=Alexander Singovski" cms
+"/C=UK/O=eScience/OU=CLRC/L=RAL/CN=chris brew" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=amagnani/CN=740588/CN=Alice Magnani" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=taroni/CN=645054/CN=Silvia Taroni" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=anastass/CN=670707/CN=Anton Anastassov" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=fblekman/CN=524499/CN=Freya Blekman" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=clange/CN=668859/CN=Clemens Lange" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=amapane/CN=452691/CN=Nicola Amapane" cms
+"/DC=ch/DC=cern/OU=computers/CN=cmspilotjob/vocms157.cern.ch" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=delre/CN=651284/CN=Daniele Del Re" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=gugarcia/CN=708867/CN=Guillaume Garcia" cms
+"/DC=org/DC=terena/DC=tcs/C=FI/O=University of Helsinki/CN=Santeri Laurila santlaur@helsinki.fi" cms
+"/C=TW/O=AP/OU=GRID/CN=BRIJ KISHOR JASHAL 122117" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=hbrun/CN=644816/CN=Hugues Louis Brun" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Firenze/CN=Raffaello D'Alessandro" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=yangyong/CN=664719/CN=Yong Yang" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=IPNL/CN=Yoan Giraud" cms
+"/DC=org/DC=doegrids/OU=People/CN=Shengquan Tuo 780785" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=qhassan/CN=739003/CN=Qamar Ul Hassan" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=lshchuts/CN=652558/CN=Lesya Shchutska" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Bologna/CN=Francesca Romana Cavallo" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cerati/CN=661874/CN=Giuseppe Cerati" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=charaf/CN=661114/CN=Otman Charaf" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=tumer/CN=727908/CN=Tomo Umer" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mingyang/CN=678645/CN=Mingming Yang" cms
+"/O=GermanGrid/OU=DESY/CN=Birgit Lewendel" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=grace/CN=570841/CN=Ji Eun Kim" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dknowlto/CN=719740/CN=Daniel Knowlton" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=meridian/CN=555986/CN=Paolo Meridiani" cms
+"/C=DE/O=GermanGrid/OU=DESY/CN=Martin Goerner" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cmsapf07/CN=606831/CN=Robot: CMS Apf 07" cms
+"/C=RU/O=RDIG/OU=users/OU=jinr.ru/CN=Nikolay Voytishin" cms
+"/DC=org/DC=doegrids/OU=People/CN=Terrence Martin 525658" cms
+"/C=GR/O=HellasGrid/OU=uoi.gr/CN=Eirini Tziaferi" cms
+"/C=DE/O=GermanGrid/OU=uni-hamburg/CN=Roman Kogler" cms
+"/DC=org/DC=doegrids/OU=People/CN=Carl Lundstedt 229191" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=klb/CN=670967/CN=Kevin Buterbaugh" cms
+"/DC=es/DC=irisgrid/O=ifca/CN=Iban-Cabrillo-Bartolome" cms
+"/C=UK/O=eScience/OU=CLRC/L=RAL/CN=andrew lahiff" cms
+"/C=RU/O=RDIG/OU=users/OU=sinp.msu.ru/CN=Igor Myagkov" cms
+"/C=TW/O=AP/OU=GRID/CN=PANDURANG DESHPANDE 122617" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Roma 1/CN=Giovanni Organtini" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=speer/CN=433136/CN=Thomas Speer" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=walten/CN=605768/CN=Wolfgang Waltenberger" cms
+"/C=BE/O=BEGRID/OU=IIHE/OU=ULB/CN=Florian Zenoni" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cmsapf06/CN=606831/CN=Robot: CMS Apf 06" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dsilvers/CN=679497/CN=David Isaac Silvers" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=wteo/CN=678140/CN=Wee Don Teo" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=IPNL/CN=Viola Sordini" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=lantonel/CN=672364/CN=Louis James Antonelli" cms
+"/C=UK/O=eScience/OU=Bristol/L=IS/CN=sergey senkin" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dmytro/CN=658085/CN=Dmytro Kovalskyi" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Florian Scheuch" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=rahmat/CN=679030/CN=Rahmat Rahmat" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jgeorge/CN=727145/CN=Jimin George" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=lyu/CN=739914/CN=Leo Yu" cms
+"/C=BE/O=BEGRID/OU=IIHE/OU=ULB/CN=Cecile Caillol" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ehkwon/CN=703464/CN=Eunhyang Kwon" cms
+"/C=BE/O=BEGRID/OU=IIHE/OU=ULB/CN=Pascal Vanlaer" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=peveraer/CN=627874/CN=Pieter Everaerts" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=heli/CN=645013/CN=Hengne Li" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Thomas Esch" cms
+"/C=BE/O=BEGRID/OU=Ugent/CN=Ward Van Driessche" cms
+"/C=BE/O=BEGRID/OU=UMH/CN=Beliy Nikita" cms
+"/DC=org/DC=doegrids/OU=People/CN=Joel Nathan Butler 715438" cms
+"/DC=org/DC=doegrids/OU=People/CN=Jian Sun 900760" cms
+"/DC=ch/DC=cern/OU=Organic Units/CN=Werner Man-Li Sun" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=hheath/CN=399609/CN=Helen Heath" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=tskirvin/CN=745874/CN=Timothy Michael Skirvin" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=xguo/CN=742483/CN=Xiaoyue Guo" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cmsapf17/CN=606831/CN=Robot: CMS Apf 17" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=shuai/CN=706340/CN=Shuai Liu" cms
+"/DC=org/DC=doegrids/OU=Services/CN=uscmspilot18/glidein-1.t2.ucsd.edu" cms
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Carl Lundstedt 105" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cmsapf03/CN=606831/CN=Robot: CMS Apf 03" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=akhukhun/CN=671586/CN=Aleko Khukhunaishvili" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=paktinat/CN=609741/CN=Saeid Paktinat Mehdiabadi" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=avartak/CN=669274/CN=Adish Vartak" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jgomezca/CN=720695/CN=Juan Pablo Gomez Cardona" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=custodio/CN=712553/CN=Analu Custodio" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cayou/CN=704487/CN=Can You" cms
+"/DC=org/DC=doegrids/OU=People/CN=James Dolen 381581" cms
+"/DC=org/DC=doegrids/OU=People/CN=Lindsey Andrew Gray 864234" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=CNAF/CN=Daniele Andreotti" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jcorso/CN=730121/CN=Jared Anthony Corso" cms
+"/DC=org/DC=doegrids/OU=People/CN=Sadia Khalil 913631" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=migarcia/CN=723424/CN=Miguel Garcia" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=aytul/CN=677022/CN=Aytul Adiguzel" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=duanders/CN=751456/CN=Dustin James Anderson" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=LLR/CN=Ivo Naranjo" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=bourilko/CN=377377/CN=Dimitri Bourilkov" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=yumiceva/CN=664546/CN=Francisco Xavier Yumiceva Del Pozo" cms
+"/DC=org/DC=doegrids/OU=People/CN=Patrick Gartung 665086" cms
+"/C=UK/O=eScience/OU=Manchester/L=HEP/CN=benjamin radburn-smith" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=zielinsk/CN=647510/CN=Marek Zielinski" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=encamach/CN=670744/CN=Enrique Camacho Perez" cms
+"/DC=org/DC=doegrids/OU=People/CN=Andrew Malone Melo 118367" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ehazen/CN=399571/CN=Eric Shearer Hazen" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=rwolf/CN=667992/CN=Roger Wolf" cms
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Bockjoo Kim  (UFlorida T2 Service) 118" cms
+"/C=TW/O=AP/OU=GRID/CN=Rajdeep Chatterjee 138532" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=morelos/CN=416398/CN=Antonio Morelos Pineda" cms
+"/DC=ch/DC=cern/OU=computers/CN=wmagent/vocms235.cern.ch" cms
+"/DC=es/DC=irisgrid/O=pic/CN=josep.flix" cms
+"/C=DE/O=GermanGrid/OU=DESY/CN=Mehmet Ozgur Sahin" cms
+"/DC=org/DC=doegrids/OU=People/CN=Analu Vercosa Custodio 261808" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=brigliad/CN=470907/CN=Luca Brigliadori" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=vlad/CN=697606/CN=Vlad Lapadatescu" cms
+"/DC=org/DC=doegrids/OU=People/CN=Ian Fisk 839452" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dkralph/CN=637159/CN=Duncan Ralph" cms
+"/O=GermanGrid/OU=KIT/CN=Klaus Rabbertz" cms
+"/DC=com/DC=DigiCert-Grid/OU=People/CN=Helio Nogima" cms
+"/DC=org/DC=doegrids/OU=People/CN=Rachel Yohay 883005" cms
+"/C=RU/O=RDIG/OU=users/OU=sinp.msu.ru/CN=Andrey Popov" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=fperi/CN=748611/CN=Francesco Peri" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=IPHC/CN=Daniel Bloch" cms
+"/C=RU/O=RDIG/OU=users/OU=jinr.ru/CN=Arslan Orgaev" cms
+"/C=BE/O=BEGRID/OU=Ugent/CN=Filip Thyssen" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=kijin/CN=748356/CN=Kijin Choi" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=avetisya/CN=668542/CN=Aram Avetisyan" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cbarth/CN=701167/CN=Christian Barth" cms
+"/DC=org/DC=doegrids/OU=People/CN=Diego Figueiredo 142461" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=zemleris/CN=696498/CN=Vidmantas Zemleris" cms
+"/DC=ch/DC=cern/OU=computers/CN=dashb-ai-401.cern.ch" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=amott/CN=669597/CN=Alex Mott" cms
+"/DC=es/DC=irisgrid/O=pic/CN=gonzalo.merino.cms" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=pellicci/CN=628062/CN=Mario Pelliccioni" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mlossliz/CN=750298/CN=Matheus Loss Lize" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=konec/CN=405781/CN=Marcin Konecki" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=obertino/CN=612636/CN=Maria Margherita Obertino" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=echapon/CN=683936/CN=Emilien Chapon" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ssaluja/CN=727386/CN=Sumit Saluja" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jkrizsan/CN=737154/CN=Jozsef Krizsan" cms
+"/DC=org/DC=doegrids/OU=People/CN=Jan Veverka 472920" cms
+"/DC=org/DC=doegrids/OU=People/CN=Stephen Mrenna 665863" cms
+"/DC=es/DC=irisgrid/O=pic/CN=gonzalo.merino" cms
+"/DC=org/DC=doegrids/OU=People/CN=Jared Joseph Claypoole 580301" cms
+"/C=MX/O=UNAMgrid/OU=DGSCA UNAM CU/CN=maria isabel pedraza morales" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=davidlw/CN=659993/CN=Wei Li" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=kasemann/CN=404302/CN=Matthias Kasemann" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=bcalvert/CN=713253/CN=Brian Calvert" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=castaned/CN=628194/CN=Alfredo Martin Castaneda Hernandez" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=gobbo/CN=396031/CN=Benigno Gobbo" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=fedor/CN=474054/CN=Fedor Ratnikov" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sgrunend/CN=397707/CN=Stefan Gruenendahl" cms
+"/DC=org/DC=doegrids/OU=Services/CN=uscmspilot13/glidein-1.t2.ucsd.edu" cms
+"/C=RU/O=RDIG/OU=users/OU=lebedev.ru/CN=Vladimir Nechitailo" cms
+"/DC=ch/DC=cern/OU=computers/CN=wmagent/vocms237.cern.ch" cms
+"/DC=org/DC=doegrids/OU=Services/CN=uscmspilot20/glidein-1.t2.ucsd.edu" cms
+"/DC=ch/DC=cern/OU=computers/CN=wmagent/vocms201.cern.ch" cms
+"/DC=org/DC=doegrids/OU=People/CN=Francesca Ricci-Tam 573523" cms
+"/DC=org/DC=doegrids/OU=People/CN=Zhen Hu 779563" cms
+"/C=DE/O=GermanGrid/OU=DESY/CN=Ekaterina Kuznetsova" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cerba/CN=742567/CN=Christiana Erba" cms
+"/DC=org/DC=doegrids/OU=People/CN=Stoyan Emilov Stoynev 249108" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=nkellams/CN=722994/CN=Nathan Marshall Kellams" cms
+"/C=DE/O=GermanGrid/OU=DESY/CN=Hannes Jung" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=godshalk/CN=696678/CN=Andrew Godshalk" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sarkar/CN=389393/CN=Subir Sarkar" cms
+"/DC=org/DC=doegrids/OU=People/CN=Benjamin John Kilminster 969052" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=hmorenoc/CN=730288/CN=Hector Andres Moreno Cano" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mzeinali/CN=678768/CN=Maryam Zeinali" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=malyari/CN=746489/CN=Maral Fereydoun Alyari" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=wittmer/CN=441586/CN=Bruno Wittmer" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=LNL/CN=Massimo Biasotto/Email=massimo.biasotto@lnl.infn.it" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=covarell/CN=582282/CN=Roberto Covarelli" cms
+"/C=TW/O=AP/OU=GRID/CN=Nairit Sur 113410" cms
+"/DC=ch/DC=cern/OU=computers/CN=dashboard41.cern.ch" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=David Anthony Petyt" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=skachkov/CN=432221/CN=Nikolai Skachkov" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=abaty/CN=752898/CN=Austin Alan Baty" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=aholz/CN=483283/CN=Andre Georg Holzner" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jmsilva/CN=709706/CN=Jadir Marra Da Silva" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=yeshaq/CN=696027/CN=Yossof Eshaq" cms
+"/DC=org/DC=balticgrid/OU=tfai.vu.lt/CN=Andrius Juodagalvis" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=rvansoel/CN=753046/CN=Ryan M Vansoelen" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=pdmvserv/CN=652956/CN=Robot: PdmV Service" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=apana/CN=659382/CN=Leonard Apanasevich" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=msjaugi/CN=745880/CN=Muhammad Farhan Sjaugi" cms
+"/DC=org/DC=doegrids/OU=Services/CN=uscmspilot10/glidein-1.t2.ucsd.edu" cms
+"/C=CN/O=HEP/O=PKU/OU=PHYS/CN=Wei GUO" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=apsallid/CN=739443/CN=Andreas Psallidas" cms
+"/DC=org/DC=doegrids/OU=People/CN=Vinod Gupta 664766" cms
+"/O=Grid/O=NorduGrid/OU=csc.fi/CN=Erik Edelmann" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cmsbuild/CN=607460/CN=Robot: CMS Build" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=lfinco/CN=740285/CN=Linda Finco" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Roma 1/CN=Luciano Maria Barone" cms
+"/DC=org/DC=doegrids/OU=People/CN=Yi Chen 27675" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=IPNL/CN=Patrice Verdier" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=psarin/CN=708991/CN=Pradeep Sarin" cms
+"/C=BE/O=BEGRID/OU=ELEM/OU=VUB/CN=Lieselotte Moreels" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sturdy/CN=644884/CN=Jared Sturdy" cms
+"/C=DE/O=GermanGrid/OU=DESY/CN=Karim Damun Trippkewitz" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=selgamma/CN=664444/CN=Sherif Elgammal" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=rakness/CN=643126/CN=Greg Rakness" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cwelke/CN=738057/CN=Charles Vincent Welke" cms
+"/C=TW/O=AP/OU=GRID/CN=Ankita Mehta 102121" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=albajar/CN=369572/CN=Carmen Albajar" cms
+"/C=UK/O=eScience/OU=Imperial/L=Physics/CN=david colling" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=varela/CN=390399/CN=Joao Varela" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mccauley/CN=557551/CN=Thomas Mc Cauley" cms
+"/C=BE/O=BEGRID/OU=Physique Nucleaire et Subnucleaire - Physique des particules/OU=UMH/CN=Thierry Caebergs" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jhutches/CN=710584/CN=James Michael Hutcheson" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=nmirman/CN=699937/CN=Nathan Mirman" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=caust/CN=742408/CN=Caroline Aust" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cmsapf23/CN=606831/CN=Robot: CMS Apf 23" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=wulsin/CN=729510/CN=Howard Wells Wulsin" cms
+"/DC=org/DC=doegrids/OU=People/CN=Suvadeep Bose 750070" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=izorbaki/CN=744327/CN=Ibrahim Soner Zorbakir" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=johnsonk/CN=403259/CN=K..f. Johnson" cms
+"/DC=org/DC=doegrids/OU=People/CN=Sandro Fonseca de Souza 62764" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=janot/CN=402624/CN=Patrick Janot" cms
+"/C=GR/O=HellasGrid/OU=demokritos.gr/CN=Stilianos Kesisoglou" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=IPHC/CN=Eric Conte" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=harteaga/CN=749339/CN=Heber Orlando Arteaga Chavez" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Padova/CN=Alberto Crescente" cms
+"/DC=org/DC=doegrids/OU=People/CN=Norbert Neumeister 545125" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=aabdelal/CN=631927/CN=Ahmed Ali Abdelalim" cms
+"/DC=org/DC=doegrids/OU=Services/CN=uscmspilot22/glidein-1.t2.ucsd.edu" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=miheejo/CN=669775/CN=Mihee Jo" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Trieste/CN=Stefano Belforte" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=lolass/CN=677722/CN=Maria Dolores Saiz Santos" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=gurpinar/CN=677008/CN=Emine Gurpinar" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=IPNL/CN=Sebastien Brochet" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dmf/CN=675789/CN=Diego Matos Figueiredo" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ntomari/CN=663488/CN=Eleni Ntomari" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dcaiulo/CN=732055/CN=Davide Caiulo" cms
+"/DC=org/DC=doegrids/OU=People/CN=Donald Austin Belknap 724213" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=naodell/CN=697145/CN=Nathaniel Jay Odell" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=benhoob/CN=694790/CN=Benjamin Henry Hooberman" cms
+"/DC=org/DC=doegrids/OU=People/CN=Catalin L. Dumitrescu 42349" cms
+"/C=TW/O=AP/OU=GRID/CN=Saranya Ghosh 130626" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=marafino/CN=454673/CN=John Marraffino" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=rpatel/CN=697166/CN=Rishi Gautam Patel" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=okara/CN=720677/CN=Ozgun Kara" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=emanuele/CN=669555/CN=Emanuele Di Marco" cms
+"/DC=org/DC=doegrids/OU=People/CN=Jennifer Adelman-McCarthy 99833" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=amagitte/CN=742648/CN=Alessio Magitteri" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=oiorio/CN=676855/CN=Alberto Orso Maria Iorio" cms
+"/C=DE/O=GermanGrid/OU=DESY/CN=Ringaile Placakyte" cms
+"/C=BE/O=BEGRID/OU=IIHE/OU=ULB/CN=Tomas Hreus" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mnguyen/CN=694436/CN=Matthew Andre Nguyen" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sbologne/CN=616571/CN=Sara Bolognesi" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=seungen/CN=677401/CN=Sungeun Lee" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=aburin/CN=608275/CN=Burin Asavapibhop" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=pozzo/CN=680448/CN=Nicola Pozzobon" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=bainbrid/CN=525764/CN=Robert John Bainbridge" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jiafulow/CN=673625/CN=Jia Fu Low" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=obondu/CN=672094/CN=Olivier Bondu" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mmittal/CN=719494/CN=Monika Mittal" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sbein/CN=739893/CN=Samuel Louis Bein" cms
+"/DC=org/DC=doegrids/OU=Services/CN=testpilot03/test-frontend-1.t2.ucsd.edu" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=wmtan/CN=604745/CN=William Tanenbaum" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=gcodispo/CN=617016/CN=Giuseppe Codispoti" cms
+"/C=DE/O=GermanGrid/OU=KIT/CN=Marian Zvada" cms
+"/C=DE/O=GermanGrid/OU=DESY/CN=Panagiotis Katsas" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=LLR/CN=David Chamont" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=guiducci/CN=555887/CN=Luigi Guiducci" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=kandroso/CN=710755/CN=Konstantin Androsov" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Soeren Erdweg" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Bologna/CN=Giovanni Abbiendi" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=musich/CN=670642/CN=Marco Musich" cms
+"/C=RU/O=RDIG/OU=users/OU=jinr.ru/CN=Alexander Lanyov" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=braibant/CN=377730/CN=Sylvie Braibant-Giacomelli" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=scasasso/CN=720565/CN=Stefano Casasso" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=nechit/CN=700267/CN=Vladimir Nechitaylo" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=algomez/CN=684423/CN=Alejandro Gomez" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=EG-EUN/CN=Amr Radi" cms
+"/C=DE/O=GermanGrid/OU=DESY/CN=Carmen Diez-Pardos" cms
+"/C=UK/O=eScience/OU=CLRC/L=RAL/CN=chris cms brew" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=yilmaz/CN=670788/CN=Yetkin Yilmaz" cms
+"/C=DE/O=GermanGrid/OU=uni-hamburg/CN=Joern Schwandt" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=steggema/CN=670942/CN=Jan Steggemann" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=weinberg/CN=663779/CN=Marc Gabriel Weinberg" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jfaulkne/CN=742265/CN=James Anthony Faulkner" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Firenze/CN=Elisabetta Gallo" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=denglert/CN=748547/CN=David Englert" cms
+"/C=DE/O=GermanGrid/OU=uni-hamburg/CN=Lukas Vanelderen" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=piperov/CN=422973/CN=Stefcho Piperov" cms
+"/C=UK/O=eScience/OU=Imperial/L=Physics/CN=simon fayer" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=gomber/CN=706551/CN=Bhawna Gomber" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jonesm/CN=403393/CN=Matthew Timothy Jones" cms
+"/C=DE/O=GermanGrid/OU=KIT/CN=Igor Katkov" cms
+"/C=TW/O=AP/OU=GRID/CN=RAM KRISHNA DEWANJEE 106901" cms
+"/C=DE/O=GermanGrid/OU=KIT/CN=Felix Frensch" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=gfedi/CN=683940/CN=Giacomo Fedi" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ztu/CN=732466/CN=Zhoudunming Tu" cms
+"/DC=org/DC=doegrids/OU=People/CN=Phillip R. Dudero 559679" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=gilvan/CN=593802/CN=Gilvan Augusto Alves" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=starodum/CN=433446/CN=Andrei Starodumov" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ahart/CN=728508/CN=Andrew Evan Hart" cms
+"/C=RU/O=RDIG/OU=users/OU=sinp.msu.ru/CN=Anastasia Markina" cms
+"/DC=org/DC=doegrids/OU=People/CN=Jadranka Sekaric 478104" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ashok/CN=622576/CN=Kumar Kumar" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=CNAF/CN=Daniele Bonacorsi" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=roko/CN=669048/CN=Roko Plestina" cms
+"/DC=org/DC=doegrids/OU=People/CN=Robert Stringer 131299" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=silvestr/CN=391913/CN=Lucia Silvestris" cms
+"/C=PK/O=NCP/OU=EHEP/CN=Aleena Rafique" cms
+"/C=DE/O=GermanGrid/OU=KIT/CN=Guenter Quast" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=azzi/CN=371777/CN=Patrizia Azzi" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Heiko Geenen" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=rodenm/CN=695708/CN=Marissa Lynn Rodenburg" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=georgia/CN=617255/CN=Georgia Karapostoli" cms
+"/C=DE/O=GermanGrid/OU=KIT/CN=Georg Sieber" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=fnalroc/CN=633117/CN=Aron Soha" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Nils Hempelmann" cms
+"/C=RU/O=RDIG/OU=users/OU=jinr.ru/CN=Vladimir Palichik" cms
+"/C=DE/O=GermanGrid/OU=uni-hamburg/CN=Hartmut Stadie" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jkolb/CN=678711/CN=Jeff Kolb" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dbradley/CN=614788/CN=Daniel Charles Bradley" cms
+"/DC=org/DC=doegrids/OU=Services/CN=uscmspilot17/glidein-1.t2.ucsd.edu" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=vimartin/CN=630496/CN=Verena Ingrid Martinez Outschoorn" cms
+"/DC=org/DC=doegrids/OU=People/CN=Soraya Flores 669045" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ellithi/CN=705502/CN=Ali Ellithi Kamel" cms
+"/C=BE/O=BEGRID/OU=IIHE/OU=ULB/CN=Shkelzen Rugovac" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Bari/CN=Giacinto Donvito" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=perrozzi/CN=658521/CN=Luca Perrozzi" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=LLR/CN=Igor Semeniouk" cms
+"/C=DE/O=GermanGrid/OU=uni-hamburg/CN=Matthias Schroeder" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mzanetti/CN=583567/CN=Marco Zanetti" cms
+"/C=CN/O=HEP/O=PKU/OU=PHYS/CN=Jing Li" cms
+"/O=GRID-FR/C=FR/O=CEA/OU=IRFU/CN=Bernard Fabbro" cms
+"/DC=org/DC=doegrids/OU=People/CN=Caleb Fangmeier 851489" cms
+"/DC=es/DC=irisgrid/O=ciemat/CN=cristina.fernandez" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=paus/CN=420998/CN=Christoph Paus" cms
+"/DC=org/DC=ugrid/O=people/O=KIPT/OU=IHEPNP/CN=Dmytro Soroka" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=chflores/CN=744949/CN=Chad Steven Flores" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jgran/CN=724752/CN=Jason Louis Gran" cms
+"/C=DE/O=GermanGrid/OU=DESY/CN=Sebastian Naumann-Emme" cms
+"/DC=es/DC=irisgrid/O=ciemat/CN=Pablo-Garcia" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=merkelp/CN=631815/CN=Petra Merkel" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=venturas/CN=438684/CN=Sandro Ventura" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=stevew/CN=440046/CN=Stephen Wagner" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=gecit/CN=715346/CN=Fehime Hayal Gecit" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ggolovan/CN=730481/CN=Georgy Golovanov" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cmora/CN=659917/CN=Clemencia Mora Herrera" cms
+"/C=RU/O=RDIG/OU=users/OU=jinr.ru/CN=Tengizi Toriashvili" cms
+"/C=UK/O=eScience/OU=Imperial/L=Physics/CN=darren burton" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ozok/CN=621714/CN=Ferhat Ozok" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=basegmez/CN=671970/CN=Suzan Basegmez" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=moortgat/CN=524503/CN=Filip Moortgat" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=shilpi/CN=677773/CN=Shilpi Jain" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mmarionn/CN=678136/CN=Matthieu Pierre Marionneau" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Padova/CN=Stefano Lacaprara" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mwonders/CN=750070/CN=Marc Wonders" cms
+"/C=TW/O=AP/OU=GRID/CN=Muhammad Farhan Sjaugi 154711" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ichiu/CN=737029/CN=I-Huan Chiu" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jdamgov/CN=537562/CN=Jordan Damgov" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cmsapf04/CN=606831/CN=Robot: CMS Apf 04" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Padova/CN=Stefano Lacaprara/Email=Stefano.Lacaprara@pd.infn.it" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=pkreuzer/CN=406463/CN=Peter Kreuzer" cms
+"/DC=org/DC=doegrids/OU=People/CN=Robert M Harris 453172" cms
+"/C=DE/O=GermanGrid/OU=KIT/CN=Thomas Mueller" cms
+"/C=CN/O=HEP/OU=CC/O=IHEP/CN=Xiaomei Zhang" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jmejiagu/CN=738553/CN=Jhovanny Andres Mejia Guisao" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jdolen/CN=674229/CN=James William Dolen" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=apollina/CN=370840/CN=Giorgio Apollinari" cms
+"/C=DE/O=GermanGrid/OU=DESY/CN=Andrea-del-Rocio Vargas-Trevino" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=valuev/CN=437684/CN=Slava Valouev" cms
+"/DC=org/DC=doegrids/OU=People/CN=Lorenzo Uplegger 806005" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=terrence/CN=637414/CN=Terrence Martin" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=hl369/CN=696495/CN=Hongwan Liu" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=srandall/CN=749153/CN=Stephen Lewis Randall" cms
+"/DC=org/DC=doegrids/OU=People/CN=Matthew Kress 530552" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=raly/CN=723439/CN=Reham Aly" cms
+"/DC=org/DC=doegrids/OU=People/CN=John Weigand 458491" cms
+"/C=DE/O=GermanGrid/OU=DESY/CN=Marco Guzzi" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Perugia/CN=Anirban Saha" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ekondrat/CN=732202/CN=Evgeny Kondratyuk" cms
+"/DC=org/DC=doegrids/OU=People/CN=Eric Appelt 525513" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=shivali/CN=709630/CN=Shivali Malhotra" cms
+"/C=BE/O=BEGRID/OU=IIHE/OU=ULB/CN=lathomas" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=chamath/CN=706150/CN=Chamath Lalitha Kottachchi Kankanamge Don" cms
+"/C=PT/O=LIPCA/O=LIP/OU=Lisboa/CN=Miguel Filipe Abreu Fernandes" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=marfin/CN=644658/CN=Ihar Marfin" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=hhernand/CN=746081/CN=Hector Javier Hernandez Rojas" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=tknight/CN=740452/CN=Teresa Lynn Knight" cms
+"/DC=org/DC=doegrids/OU=People/CN=Emmanuel Contreras-Campana 498606" cms
+"/C=UK/O=eScience/OU=Imperial/L=Physics/CN=matthew kenzie" cms
+"/C=RU/O=RDIG/OU=users/OU=jinr.ru/CN=Alexey Kamenev" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=rocio/CN=638684/CN=Rocio Vilar Cortabitarte" cms
+"/C=DE/O=GermanGrid/OU=DESY/CN=Nazar Bartosik" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dklein/CN=747387/CN=Daniel Klein" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=alanaro/CN=407448/CN=Armando Lanaro" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=gulo/CN=419443/CN=Gul Gokbulut" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=hbehnami/CN=739786/CN=Hadi Behnamian" cms
+"/C=DE/O=GermanGrid/OU=DESY/CN=Johannes Hauk" cms
+"/C=CN/O=HEP/O=PKU/OU=PHYS/CN=Daneng Yang" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=nchaiwor/CN=727458/CN=Nattawit Chaiworawitsakul" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Padova/CN=Marco Verlato" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ignatenk/CN=401744/CN=Mikhail Ignatenko" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=LLR/CN=Alice Florent" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jhirsch/CN=695709/CN=James Francis Hirschauer" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=bellan/CN=629272/CN=Riccardo Bellan" cms
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=Services/CN=cmspilotjob/cmssrv119.fnal.gov" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=belforte/CN=373708/CN=Stefano Belforte" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cumalat/CN=649141/CN=John Perry Cumalat" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=bfrancis/CN=696593/CN=Brian Francis" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=eberry/CN=672601/CN=Edmund A Berry" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=soffi/CN=703603/CN=Livia Soffi" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sdutt/CN=740453/CN=Suneel Dutt" cms
+"/C=BE/O=BEGRID/OU=Departement Fysica/OU=UA/CN=Hans Van Haevermaet" cms
+"/O=GermanGrid/OU=DESY/CN=Yves Kemp" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jblee/CN=737550/CN=Jangbae Lee" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=tomei/CN=673404/CN=Thiago Tomei Fernandez" cms
+"/DC=org/DC=doegrids/OU=People/CN=Richard John Cavanaugh 77921" cms
+"/C=DE/O=GermanGrid/OU=DESY/CN=Rainer Mankel" cms
+"/C=DE/O=GermanGrid/OU=DESY/CN=Matthias Schroeder" cms
+"/DC=org/DC=doegrids/OU=Services/CN=uscmspilot40/glidein-1.t2.ucsd.edu" cms
+"/DC=org/DC=doegrids/OU=People/CN=Saptaparna Bhattacharya 380634" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=rjanjam/CN=746084/CN=Ravi Kishore Janjam" cms
+"/C=PL/O=GRID/O=INS/CN=Robert Boniecki" cms
+"/DC=org/DC=doegrids/OU=People/CN=Marissa Rodenburg 303751" cms
+"/DC=org/DC=doegrids/OU=People/CN=Evan Friis 838263" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Maximilian Knut Kiesel" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=astark/CN=753230/CN=Alexia Naomi Stark" cms
+"/DC=es/DC=irisgrid/O=ciemat/CN=daniel.dominguez" cms
+"/DC=org/DC=doegrids/OU=People/CN=Alfredo Martin Castaneda Hernandez 90127" cms
+"/C=HU/O=NIIF CA/OU=GRID/OU=Wigner FK/CN=Hazi Andras" cms
+"/C=DE/O=GermanGrid/OU=Uni Karlsruhe/CN=Thorsten Chwalek" cms
+"/DC=ch/DC=cern/OU=computers/CN=wmagent/cmsoguatworld.cern.ch" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=fmaulida/CN=750793/CN=Fahmi Maulida" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cmsapf13/CN=606831/CN=Robot: CMS Apf 13" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=IPHC/CN=Caroline Collard" cms
+"/C=DE/O=GermanGrid/OU=uni-hamburg/CN=Henning Kirschenmann" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dzou/CN=741267/CN=David Zou" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=rybinska/CN=700200/CN=Katarzyna Romanowska-Rybinska" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=theofil/CN=650647/CN=Konstantinos Theofilatos" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=hufnagel/CN=635452/CN=Dirk Hufnagel" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cmsapf05/CN=606831/CN=Robot: CMS Apf 05" cms
+"/DC=org/DC=doegrids/OU=People/CN=Andrew Godshalk 508463" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=vieri/CN=701840/CN=Vieri Candelise" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mstein/CN=659058/CN=Matthias Stein" cms
+"/DC=org/DC=doegrids/OU=Services/CN=uscmspilot12/glidein-1.t2.ucsd.edu" cms
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Peter Thomassen 1202" cms
+"/DC=org/DC=doegrids/OU=People/CN=Vadim Khotilovich 797743" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Bologna/CN=Stefano Marcellini" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=kburt/CN=738061/CN=Kira Fawn Burt" cms
+"/C=TW/O=AP/OU=GRID/CN=Anterpreet Kaur 757433" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sjain/CN=701557/CN=Supriya Jain" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mene/CN=693905/CN=Marco Meneghelli" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=fmeng/CN=745092/CN=Fanbo Meng" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=syu/CN=694649/CN=Shin-Shan Yu" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=siliu/CN=737026/CN=Si Liu" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mwang/CN=722317/CN=Mengmeng Wang" cms
+"/DC=org/DC=doegrids/OU=People/CN=Christoph Paus 966610" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jcastine/CN=745222/CN=Juan Ramon Castineiras De Saa" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Napoli/CN=Pierluigi Paolucci" cms
+"/C=BE/O=BEGRID/OU=physics department/OU=UA/CN=benoit roland" cms
+"/DC=es/DC=irisgrid/O=ifca/CN=alvaro-lopez" cms
+"/C=IR/O=IRAN-GRID/O=IPM/OU=HEP/CN=Hossein Seyedi" cms
+"/DC=org/DC=doegrids/OU=People/CN=Anthony Barker 678020" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=brendan/CN=678770/CN=Brendan Francis Diamond" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=zhenhu/CN=673885/CN=Zhen Hu" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=julee/CN=729213/CN=Junsu Lee" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=holzman/CN=654016/CN=Burt Holzman" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=wfedus/CN=749201/CN=William Bradley Fedus" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=bolla/CN=514037/CN=Gino Bolla" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=demattia/CN=639735/CN=Marco De Mattia" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=nmucia/CN=710553/CN=Nicholas Mucia" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=meneguz/CN=394388/CN=Anna Meneguzzo" cms
+"/DC=es/DC=irisgrid/O=ciemat/CN=mara.senghi" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=roso/CN=427529/CN=Andre Rosowsky" cms
+"/DC=org/DC=doegrids/OU=Services/CN=uscmspilot23/glidein-1.t2.ucsd.edu" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=gorbuno/CN=396510/CN=Ilya Gorbunov" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Padova/CN=Michele Michelotto" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dlomidze/CN=651684/CN=David Lomidze" cms
+"/C=BE/O=BEGRID/OU=CMS Top Quark Physics/OU=Ugent/CN=Joseph McCartin" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ahassan/CN=727546/CN=Asmaa Fawzi Ali Hassan" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=smorovic/CN=656878/CN=Srecko Morovic" cms
+"/C=TW/O=AP/OU=GRID/CN=Tanmay Sarkar 924996" cms
+"/C=DE/O=GermanGrid/OU=uni-hamburg/CN=Eike Schlieckau" cms
+"/DC=ch/DC=cern/OU=computers/CN=cmswmagent/vocms121.cern.ch" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dellaric/CN=386675/CN=Giuseppe Della Ricca" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=tvami/CN=743268/CN=Tamas Almos Vami" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=frmeier/CN=676994/CN=Frank Meier" cms
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Emmanuel Contreras-Campana 1567" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=clalicat/CN=716916/CN=Chiara La Licata" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mgardner/CN=715755/CN=Michael Gardner" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=LLR/CN=Claude Charlot" cms
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Burt Holzman" cms
+"/DC=org/DC=doegrids/OU=Services/CN=uscmspilot21/glidein-1.t2.ucsd.edu" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Achim Burdziak" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ozcan/CN=715428/CN=Merve Ozcan" cms
+"/C=UK/O=eScience/OU=Bristol/L=IS/CN=emyr clement" cms
+"/DC=org/DC=doegrids/OU=People/CN=James Wetzel 258848" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cardaci/CN=656453/CN=Marco Cardaci" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=kaur/CN=404391/CN=Manjit Lal" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=boccali/CN=447815/CN=Tommaso Boccali" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=IPHC/CN=Jerome Pansanel" cms
+"/C=TW/O=AP/OU=GRID/CN=Soureek Mitra 153945" cms
+"/DC=ch/DC=cern/OU=computers/CN=dashboard39.cern.ch" cms
+"/DC=ch/DC=cern/OU=computers/CN=pdmvserv/cerny.cern.ch" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Bari/CN=Claudio Caputo" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=nmohr/CN=664408/CN=Niklas Mohr" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mramirez/CN=749340/CN=Mateo Ramirez Garcia" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=nsonmez/CN=648260/CN=Nasuf Sonmez" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=fcouderc/CN=586397/CN=Fabrice Couderc" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=minsuk/CN=569495/CN=Min Suk Kim" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=eaa/CN=666896/CN=Elif Asli Yetkin" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mhodel/CN=750072/CN=Matthew Justin Hodel" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=wollny/CN=658945/CN=Heiner Wollny" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=swmukher/CN=736533/CN=Swagata Mukherjee" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Sns/CN=FEDERICO CALZOLARI" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=afiqaize/CN=740628/CN=Afiq Aizuddin Bin Anuar" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mrodozov/CN=692532/CN=Mircho Nikolaev Rodozov" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=polme/CN=423469/CN=Maria Elena Pol" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ukiminsu/CN=743908/CN=Ugur Kiminsu" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Michael Schimp" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=btali/CN=670854/CN=Bayram Tali" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cmsapf20/CN=606831/CN=Robot: CMS Apf 20" cms
+"/DC=org/DC=doegrids/OU=People/CN=Zeynep Demiragli 680892" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=fpschill/CN=429969/CN=Frank-Peter Schilling" cms
+"/DC=org/DC=doegrids/OU=Services/CN=uscmspilot30/glidein-1.t2.ucsd.edu" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=muriel/CN=438225/CN=Muriel Vander Donckt" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dhkim/CN=610950/CN=Dong Hyun Kim" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Philipp Millet" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mgataull/CN=471061/CN=Marat Gataullin" cms
+"/DC=org/DC=doegrids/OU=People/CN=Melih Solmaz 184968" cms
+"/C=DE/O=GermanGrid/OU=KIT/CN=Raphael Friese" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mbaber/CN=729068/CN=Mark David John Baber" cms
+"/DC=org/DC=terena/DC=tcs/C=FI/O=University of Helsinki/CN=Carl Kraemer cokraeme@helsinki.fi" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sanjay/CN=710767/CN=Sanjay Kumar Swain" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=zanetti/CN=442515/CN=Annamaria Zanetti" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cmsapf25/CN=606831/CN=Robot: CMS Apf 25" cms
+"/DC=org/DC=doegrids/OU=People/CN=Steven Kaplan 594894" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=schizzi/CN=693067/CN=Andrea Schizzi" cms
+"/C=DE/O=GermanGrid/OU=KIT/CN=Corinna Guenth" cms
+"/C=UK/O=eScience/OU=Imperial/L=Physics/CN=mark baber" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=nbertran/CN=740860/CN=Nicholas Adam Bertrand" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=prokof/CN=424243/CN=Oleg Prokofyev" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=makirk/CN=751853/CN=Matthew John Kirk" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=IPNL/CN=Tibor Kurca" cms
+"/C=DE/O=GermanGrid/OU=uni-hamburg/CN=Nils Roth" cms
+"/C=BE/O=BEGRID/OU=CP3/OU=UCL/CN=Lucia Perrini" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=aosorio/CN=662396/CN=Andres Felipe Osorio Oliveros" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ajkumar/CN=718734/CN=Ajay Kumar" cms
+"/O=GermanGrid/OU=RWTH/CN=Thomas Kress" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sstewart/CN=750880/CN=Sean Severino Stewart" cms
+"/C=UK/O=eScience/OU=Imperial/L=Physics/CN=sarah ives" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=klute/CN=529652/CN=Markus Klute" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ssekmen/CN=641888/CN=Sezen Sekmen" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=aalbatai/CN=734850/CN=Ayman Ahmad Al-Bataineh" cms
+"/DC=org/DC=doegrids/OU=People/CN=Jiyeon Han 832819" cms
+"/DC=org/DC=doegrids/OU=People/CN=Amithabh Shrinivas 707913" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=maselli/CN=413252/CN=Silvia Maselli" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jtsai/CN=731460/CN=Jui-Fa Tsai" cms
+"/O=GRID-FR/C=FR/O=CEA/OU=IRFU/CN=Philippe Gras" cms
+"/DC=org/DC=doegrids/OU=People/CN=In-Saeng Suh 345385" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sudha/CN=677771/CN=Sudha Ahuja" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=amodak/CN=731050/CN=Atanu Modak" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=tsamson/CN=749883/CN=Trevor Samson" cms
+"/DC=org/DC=doegrids/OU=People/CN=Hector A. Moreno Cano 966895" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=slehti/CN=408791/CN=Sami Lehti" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=vutova/CN=703397/CN=Mariana Filipova Shopova" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Padova/CN=Massimo Sgaravatto" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Roma 1/CN=Cristina Bulfon" cms
+"/DC=org/DC=doegrids/OU=People/CN=Jordan Matthew Tucker 561185" cms
+"/C=BE/O=BEGRID/OU=ELEM/OU=VUB/CN=Stijn Blyweert" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=neumeist/CN=417965/CN=Norbert Neumeister" cms
+"/C=DE/O=GermanGrid/OU=uni-hamburg/CN=Niklas Pietsch" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mooney/CN=671715/CN=Michael Ryan Mooney" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Matthias Geisler" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=kalanand/CN=676801/CN=Kalanand Mishra" cms
+"/DC=org/DC=doegrids/OU=Services/CN=uscmspilot14/glidein-1.t2.ucsd.edu" cms
+"/DC=org/DC=doegrids/OU=People/CN=Indara Suarez 781016" cms
+"/DC=org/DC=doegrids/OU=People/CN=Ewerton Belchior Batista das Chagas 745920" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Bastian Kargoll" cms
+"/DC=org/DC=ugrid/O=people/O=KIPT/OU=kipt.kharkov.ua/CN=Alexander Isayev" cms
+"/C=DE/O=GermanGrid/OU=KIT/CN=Christian Buntin" cms
+"/O=GermanGrid/OU=RWTH/CN=Markus Merschmeyer" cms
+"/C=CN/O=HEP/O=PKU/OU=PHYS/CN=Fengwangdong Zhang" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=yelton/CN=514096/CN=John Martin Yelton" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Bari/CN=Luigi Fiore" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=aris/CN=696857/CN=Aristotle Calamba" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ykchoi/CN=569515/CN=Young Kyu Choi" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mhaytmyr/CN=732770/CN=Maksat Haytmyradov" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=aferapon/CN=620508/CN=Alexey Ferapontov" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dpagano/CN=667436/CN=Davide Pagano" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sfiligoi/CN=621775/CN=Igor Sfiligoi" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=badgett/CN=490768/CN=William Badgett Jr" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=kbutanov/CN=727362/CN=Khakimjan Butanov" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Bologna/CN=Gianluca Ferri" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jpazzini/CN=692533/CN=Jacopo Pazzini" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cmalcare/CN=724923/CN=Carlos Alberto Malca Reyes" cms
+"/DC=org/DC=doegrids/OU=People/CN=Igor Sfiligoi 673872" cms
+"/C=DE/O=GermanGrid/OU=DESY/CN=Anastasia Grebenyuk" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=tully/CN=437020/CN=Chris Tully" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mojtaba/CN=629751/CN=Mojtaba Mohammadi Najafabadi" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=liko/CN=409709/CN=Dietrich Liko" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=petyt/CN=422358/CN=David Anthony Petyt" cms
+"/C=UK/O=eScience/OU=Edinburgh/L=NeSC/CN=roberval walsh" cms
+"/DC=org/DC=doegrids/OU=People/CN=Miguel Medina Jaime 914839" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=zeljko/CN=445232/CN=Zeljko Antunovic" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=chierici/CN=382219/CN=Roberto Chierici" cms
+"/DC=org/DC=doegrids/OU=People/CN=Neeti Parashar 906833" cms
+"/C=UK/O=eScience/OU=Imperial/L=Physics/CN=anne-marie magnan" cms
+"/C=BE/O=BEGRID/OU=Ugent/CN=Beernaert Kelly" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=kturck/CN=745516/CN=Kyle Anthony Turck" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mverzett/CN=676244/CN=Mauro Verzetti" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=kropiv/CN=669820/CN=Anna Kropivnitskaya" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dbelknap/CN=709362/CN=Donald Austin Belknap" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=itopsisg/CN=726718/CN=Iasonas Topsis Giotis" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=naegelic/CN=704367/CN=Christoph Nageli" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=tmperry/CN=739156/CN=Thomas Mastrianni Perry" cms
+"/C=BE/O=BEGRID/OU=UMH/CN=Grégory Hammad" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Catania/CN=Alessia Tricomi" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=alebihan/CN=645361/CN=Anne-Catherine Le Bihan" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Andreas Kuensken" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jclark/CN=748541/CN=Jonathan Clark" cms
+"/DC=org/DC=doegrids/OU=People/CN=Kittikul Kovitanggoon 684960" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ahlinist/CN=739241/CN=Anton Hlinisty" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Alexander Nehrkorn" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=gdimperi/CN=728001/CN=Giulia D'Imperio" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jungmin/CN=741765/CN=Jungmin Kim" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=skaplan/CN=740230/CN=Steven Mitchell Kaplan" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mtaze/CN=752482/CN=Meric Taze" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=drankin/CN=724419/CN=Dylan Sheldon Rankin" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=nsaoulid/CN=624949/CN=Niki Saoulidou" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=vkhriste/CN=743269/CN=Viktor Khristenko" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=zhchen/CN=746752/CN=Zhenyu Chen" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=iandreev/CN=613754/CN=Iouri Andreev" cms
+"/DC=org/DC=doegrids/OU=People/CN=Lisa Giacchetti 922888" cms
+"/C=CN/O=HEP/O=PKU/OU=PHYS/CN=Zijun Xu" cms
+"/DC=org/DC=doegrids/OU=Services/CN=uscmspilot15/glidein-1.t2.ucsd.edu" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Milano Bicocca/CN=Sara Fiorendi" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jacques/CN=541489/CN=Pieter Jacques" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=attikis/CN=656605/CN=Alexandros Attikis" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mscinta/CN=718786/CN=Manuel Gianvito Scinta" cms
+"/DC=org/DC=doegrids/OU=People/CN=Charles F. Maguire 867380" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=andersj/CN=693003/CN=Jake Anderson" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=iheredia/CN=706474/CN=Ivan Heredia De La Cruz" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dwu/CN=748507/CN=Danqing Wu" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ddevetak/CN=742962/CN=Damir Devetak" cms
+"/DC=ch/DC=cern/OU=computers/CN=wmagent/vocms216.cern.ch" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ssanties/CN=747011/CN=Sandra Nathaly Santiesteban" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dinardo/CN=662627/CN=Mauro Dinardo" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=pchen/CN=722163/CN=Po-Hsun Chen" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=asvyatko/CN=670219/CN=Alexey Svyatkovskiy" cms
+"/DC=org/DC=doegrids/OU=People/CN=Barry Blumenfeld 452245" cms
+"/DC=org/DC=ugrid/O=people/O=KIPT/OU=kipt.kharkov.ua/CN=Sergiy Lukyanenko" cms
+"/C=DE/O=GermanGrid/OU=DESY/CN=Ihar Marfin" cms
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Diego da Silva Gomes" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ycyang/CN=722679/CN=Yu Chul Yang" cms
+"/DC=org/DC=doegrids/OU=People/CN=Christopher Tully 867708" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Tobias Verlage" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mcorream/CN=718024/CN=Marcos Correa Martins Junior" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dtlisov/CN=649616/CN=Danila Tlisov" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ksiehl/CN=724728/CN=Kevin Frederick Siehl" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jramirez/CN=662428/CN=Juan Eduardo Ramirez Vargas" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=kelley/CN=669873/CN=Ryan Ward Kelley" cms
+"/C=BE/O=BEGRID/OU=ELEM/OU=VUB/CN=James Keaveney" cms
+"/C=DE/O=GermanGrid/OU=DESY/CN=Ivan Asin" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=heistera/CN=552506/CN=Arno Heister" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Pisa/CN=Giuseppe Bagliesi" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ibucinsk/CN=720597/CN=Inga Bucinskaite" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=imranmet/CN=668604/CN=Imran Awan" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=veszpv/CN=551283/CN=Viktor Veszpremi" cms
+"/DC=org/DC=doegrids/OU=People/CN=Joshua Swanson 600089" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=antonaki/CN=617336/CN=Ariadni Antonaki" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=zhokin/CN=626383/CN=Alexandr Zhokin" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mazarkin/CN=693548/CN=Maxim Azarkin" cms
+"/DC=org/DC=doegrids/OU=People/CN=Frank Ma 963787" cms
+"/C=DE/O=GermanGrid/OU=uni-hamburg/CN=Simon Bohlen" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=puigh/CN=671613/CN=Darren Michael Puigh" cms
+"/CN=Mojtaba MOHAMMADI NAJAFABADI/OU=HEP/O=IPM/O=IRAN-GRID/C=IR" cms
+"/C=DE/O=GermanGrid/OU=DESY/CN=Matthias Stein" cms
+"/DC=org/DC=doegrids/OU=People/CN=Robert Stuart Kroeger 757740" cms
+"/DC=org/DC=doegrids/OU=People/CN=Lucie Gauthier 842013" cms
+"/O=GermanGrid/OU=RWTH/CN=Niklas Mohr" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Stefan Antonius Schmitz" cms
+"/C=DE/O=GermanGrid/OU=uni-hamburg/CN=Tobias Lapsien" cms
+"/C=DE/O=GermanGrid/OU=uni-hamburg/CN=Hannes Schettler" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dkotlins/CN=406075/CN=Danek Kotlinski" cms
+"/C=DE/O=GermanGrid/OU=DESY/CN=Maria Aldaya" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=pjandir/CN=727748/CN=Pawandeep S Jandir" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dcurry/CN=738447/CN=David Alexander Curry" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dasu/CN=385338/CN=Sridhara Dasu" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=vnascett/CN=744882/CN=Valentina Nascetti" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=loukas/CN=410678/CN=Dimitrios Loukas" cms
+"/DC=org/DC=doegrids/OU=People/CN=Tapas Sarangi 863374" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=shtan/CN=751782/CN=Shao Min Tan" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Klaas Padeken" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sviret/CN=555893/CN=Sebastien Viret" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=konush/CN=707155/CN=Maxim Konyushikhin" cms
+"/C=BE/O=BEGRID/OU=Dept Fysica EDF/OU=UA/CN=Sara Alderweireldt" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=hmermerk/CN=645086/CN=Hamit Mermerkaya" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=rgoldouz/CN=739335/CN=Reza Goldouzian" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ratnik/CN=577888/CN=Natalia Ratnikova" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ilknur/CN=677013/CN=Ilknur Hos" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=gboz/CN=735554/CN=Giovanna Boz" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ymaravin/CN=651146/CN=Yurii Maravin" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=peruzzi/CN=692653/CN=Marco Peruzzi" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ltikvica/CN=705445/CN=Lucija Sudic" cms
+"/C=AT/O=AustrianGrid/OU=OEAW/OU=oeaw-vienna/CN=Ursula Laa" cms
+"/DC=org/DC=doegrids/OU=People/CN=Qiang Zhang 492662" cms
+"/C=BE/O=BEGRID/OU=ELEM/OU=VUB/CN=Lana Beck" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=efajardo/CN=722781/CN=Edgar Mauricio Fajardo Hernandez" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Padova/CN=Mia Tosi" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=nawoods/CN=738182/CN=Nathaniel Woods" cms
+"/DC=org/DC=doegrids/OU=People/CN=Charles Merrill Jenkins 676599" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=clundst/CN=514102/CN=Carl Lundstedt" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=hogul/CN=732736/CN=Hasan Ogul" cms
+"/DC=org/DC=doegrids/OU=People/CN=Matthew Bellis 30031" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=vanlaer/CN=438308/CN=Pascal Vanlaer" cms
+"/DC=org/DC=doegrids/OU=Services/CN=uscmspilot37/glidein-1.t2.ucsd.edu" cms
+"/C=BE/O=BEGRID/OU=ELEM/OU=Ugent/CN=Volker Adler" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=herndon/CN=454268/CN=Matthew Herndon" cms
+"/DC=org/DC=doegrids/OU=People/CN=Dmytro Kovalskyi 145052" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Firenze/CN=Giacomo Sguazzoni" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ylai/CN=666171/CN=Yue Shi Lai" cms
+"/DC=org/DC=doegrids/OU=People/CN=Alan Malta Rodrigues 4861" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=franco/CN=747238/CN=Ana Beatriz De Queiroz Franco" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=skinnari/CN=658916/CN=Louise Skinnari" cms
+"/DC=org/DC=doegrids/OU=People/CN=Yong Yang 208413" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=missirol/CN=743193/CN=Marino Missiroli" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mgalanti/CN=636962/CN=Mario Galanti" cms
+"/C=CN/O=HEP/O=PKU/OU=PHYS/CN=zou wei" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=farrell3/CN=679129/CN=Christopher Farrell" cms
+"/DC=org/DC=doegrids/OU=People/CN=Fanbo Meng 606309" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sudan/CN=706554/CN=Sudarshan Paramesvaran" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=kmandal/CN=742965/CN=Koushik Mandal" cms
+"/DC=org/DC=doegrids/OU=Services/CN=uscmspilot47/glidein-1.t2.ucsd.edu" cms
+"/DC=org/DC=doegrids/OU=People/CN=Marguerite Belt Tonjes 197098" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=lcontrer/CN=752434/CN=Luis Carlos Contreras Pasuy" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ggeorge/CN=708759/CN=George Georgiev" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ntran/CN=661950/CN=Nhan Viet Tran" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=marineli/CN=412592/CN=Nancy Marinelli" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=hardenbr/CN=705168/CN=Joshua Robert Hardenbrook" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=benhabib/CN=644841/CN=Lamia Benhabib" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=lwming/CN=698628/CN=Wuming Luo" cms
+"/DC=org/DC=doegrids/OU=People/CN=John Stupak 538866" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Napoli/CN=Mario Merola" cms
+"/DC=org/DC=doegrids/OU=People/CN=Matthew Feickert 285994" cms
+"/DC=org/DC=terena/DC=tcs/C=IT/O=Istituto Nazionale di Fisica Nucleare/CN=Luca Martini martini@infn.it" cms
+"/C=CN/O=HEP/O=IHEP/OU=CC/CN=xiaomei zhang" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=tiroy/CN=742256/CN=Titas Roy" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dfehling/CN=672030/CN=Dave Fehling Jr" cms
+"/C=BE/O=BEGRID/OU=PHYS/OU=UCL/CN=Michele Selvaggi" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ferencek/CN=650164/CN=Dinko Ferencek" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=yxin/CN=728251/CN=Yongjie Xin" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=chensel/CN=548079/CN=Carsten Hensel" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=lforthom/CN=710495/CN=Laurent Forthomme" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=shchang/CN=676194/CN=Sunghyun Chang" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=melshamy/CN=741808/CN=Mohamed Elshamy" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=LLR/CN=Pascale Hennion" cms
+"/DC=org/DC=doegrids/OU=People/CN=umisshep 313139" cms
+"/DC=org/DC=doegrids/OU=People/CN=Jennifer Sibille 737497" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=grab/CN=396816/CN=Christophorus Grab" cms
+"/C=UK/O=eScience/OU=Brunel/L=CC/CN=duncan leggat" cms
+"/DC=org/DC=doegrids/OU=People/CN=Troy Daniel Mulholland 542411" cms
+"/C=RU/O=RDIG/OU=users/OU=inr.ru/CN=Liudmila Stepanova" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cferro/CN=681633/CN=Cristina Ferro" cms
+"/DC=org/DC=doegrids/OU=People/CN=Juliette Alimena 110339" cms
+"/DC=es/DC=irisgrid/O=ciemat/CN=antonio-delgado-peris" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dpinna/CN=703912/CN=Deborah Pinna" cms
+"/DC=org/DC=doegrids/OU=People/CN=John Mora 633450" cms
+"/DC=org/DC=doegrids/OU=People/CN=Alexey Ferapontov 283770" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=whitbeck/CN=694986/CN=Andrew James Whitbeck" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cerminar/CN=606786/CN=Gianluca Cerminara" cms
+"/DC=org/DC=doegrids/OU=People/CN=Maxwell Chertok 551246" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sertac/CN=668720/CN=Sertac Ozturk" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Michael Brodski" cms
+"/C=TW/O=AP/OU=GRID/CN=gobinda majumder 135736" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mtondeur/CN=748911/CN=Manuel Rodrigo Tondeur" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=echaniot/CN=741077/CN=Emmanouil Ioannis Chaniotakis" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=tpearson/CN=696403/CN=Tessa Pearson" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cdavis/CN=727610/CN=Christopher Davis" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=velan/CN=753229/CN=Vetri Velan" cms
+"/C=UK/O=eScience/OU=Imperial/L=Physics/CN=adam elwood" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Bari/CN=Cesare Calabria" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=crovelli/CN=607541/CN=Chiara Ilaria Rovelli" cms
+"/O=GermanGrid/OU=DESY/CN=Hartmut Stadie" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dson/CN=432805/CN=Dongchul Son" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dkonst/CN=626896/CN=Dmitri Konstantinov" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Torino/CN=Simone Pagliari" cms
+"/C=DE/O=GermanGrid/OU=RWTH/CN=Michael Bontenackels" cms
+"/DC=org/DC=doegrids/OU=People/CN=Alexander Mott 155393" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=troconiz/CN=505445/CN=Jorge Fernandez De Troconiz" cms
+"/C=PK/O=NCP/OU=EHEP/CN=Muhammad Irfan Asghar" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=akin/CN=678626/CN=Ilina Vasileva Akin" cms
+"/DC=org/DC=doegrids/OU=People/CN=Marcio Antonio Costa 268491" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=yiiyama/CN=697199/CN=Yutaro Iiyama" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jbadillo/CN=753111/CN=Julian Badillo Rojas" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dagnolo/CN=675205/CN=Raffaele Tito Dagnolo" cms
+"/DC=org/DC=doegrids/OU=People/CN=Xin Shi 851720" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=willhf/CN=699565/CN=Will Flanagan" cms
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Lucie Gauthier 1073" cms
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=Services/CN=cvmfs.ihepa.ufl.edu" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cmsapf14/CN=606831/CN=Robot: CMS Apf 14" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sandro/CN=700016/CN=Sandro Gonzi" cms
+"/DC=org/DC=doegrids/OU=People/CN=Ray Culbertson 890238" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jwseo/CN=741097/CN=Jiwoong Seo" cms
+"/DC=org/DC=doegrids/OU=People/CN=Eduardo Gregores 407221" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cferraio/CN=738176/CN=Charles Ferraioli" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ballen/CN=732423/CN=Brandon Leigh Allen" cms
+"/DC=org/DC=doegrids/OU=Services/CN=cmssrv101.fnal.gov" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=leggat/CN=712685/CN=Duncan Alexander Leggat" cms
+"/DC=org/DC=doegrids/OU=People/CN=Douglas Wright 716361" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mcarver/CN=739974/CN=Matthew Robert Carver" cms
+"/C=DE/O=GermanGrid/OU=DESY/CN=Daniel Pitzl" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=rslu/CN=673386/CN=Rong-Shyang Lu" cms
+"/DC=org/DC=doegrids/OU=People/CN=Nil Valls Velasco 461540" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=yermak/CN=677355/CN=Dzmitry Yermak" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=bhatti/CN=375009/CN=Anwar Bhatti" cms
+"/DC=es/DC=irisgrid/O=ifca/CN=pablo-orviz" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Bologna/CN=Daniele Fasanella" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=slava77/CN=658778/CN=Slava Krutelyov" cms
+"/C=GR/O=HellasGrid/OU=uoi.gr/CN=Nikolaos Manthos" cms
+"/DC=ch/DC=cern/OU=computers/CN=cmswmagent/vocms120.cern.ch" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jbrinson/CN=723350/CN=Jessica Danielle Brinson" cms
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Christian Javier Contreras-Campana 1625" cms
+"/C=PK/O=NCP/OU=EHEP/CN=Qamar-ul-Hassan" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dilson/CN=661195/CN=Dilson De Jesus Damiao" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=kfiekas/CN=683124/CN=Katharina Bierwagen" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=zmao/CN=412261/CN=Zaixing Mao" cms
+"/DC=ch/DC=cern/OU=computers/CN=wmagent/vocms115.cern.ch" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dfeich/CN=613756/CN=Derek Feichtinger" cms
+"/DC=org/DC=doegrids/OU=People/CN=Tia Marie Miceli 827122" cms
+"/DC=org/DC=doegrids/OU=People/CN=Christopher Silkworth 348852" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=lowette/CN=583680/CN=Steven Lowette" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jeitler/CN=402870/CN=Manfred Jeitler" cms
+"/DC=org/DC=doegrids/OU=People/CN=Diego da Silva Gomes 849253" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Pisa/CN=Caterina Vernieri" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jhugon/CN=708465/CN=Justin Hugon" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=pintaric/CN=644245/CN=Senka Duric" cms
+"/DC=org/DC=doegrids/OU=People/CN=Vaikunth Thukral 903099" cms
+"/DC=org/DC=doegrids/OU=People/CN=Eric Brownson 945990" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=pavlov/CN=555088/CN=Borislav Pavlov" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mmdhalid/CN=753050/CN=Mohd Fadeli Bin Md Halid" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=fmargaro/CN=617283/CN=Fabrizio Margaroli" cms
+"/C=BE/O=BEGRID/OU=Dept Fysica EDF/OU=UA/CN=Xavier Janssen" cms
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=Services/CN=wmagent/cmssrv101.fnal.gov" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=disserto/CN=387822/CN=Guenther Dissertori" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=nzaganid/CN=442342/CN=Nicolas Zaganidis" cms
+"/DC=org/DC=doegrids/OU=People/CN=Alexey Finkel 650337" cms
+"/DC=org/DC=DOEGrids/OU=Certificate Authorities/CN=DOEGrids CA 1" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mohapatr/CN=659205/CN=Ajit Kumar Mohapatra" cms
+"/DC=org/DC=doegrids/OU=People/CN=Matthias Wolf 806474" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=chmcginn/CN=752825/CN=Christopher Mcginn" cms
+"/C=BE/O=BEGRID/OU=ELEM/OU=VUB/CN=Jorgen DHondt" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jstupak/CN=696538/CN=John Stupak" cms
+"/C=TW/O=AP/OU=GRID/CN=Nishu . 136148" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=saly/CN=741740/CN=Shereen Aly" cms
+"/C=UK/O=eScience/OU=Brunel/L=ECE/CN=ivan reid" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=kilee/CN=741569/CN=Kisoo Lee" cms
+"/C=TW/O=AP/OU=GRID/CN=Nitish Dhingra 142746" cms
+"/C=PT/O=LIPCA/O=LIP/OU=Lisboa/CN=Pedrame Bargassa" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=grundler/CN=679619/CN=Ulysses Grundler" cms
+"/DC=org/DC=doegrids/OU=People/CN=David Sperka 290160" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ddidar/CN=607226/CN=Didar Dobur" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=atricomi/CN=436687/CN=Alessia Tricomi" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=azsigmon/CN=704069/CN=Anna Zsigmond" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=tonypoll/CN=672310/CN=Tony Poll" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=bean/CN=574589/CN=Alice Bean" cms
+"/DC=org/DC=doegrids/OU=People/CN=Adish Pradeep Vartak 58588" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=pjordi/CN=746526/CN=Pascal Simon Jordi" cms
+"/C=UK/O=eScience/OU=Imperial/L=Physics/CN=simon fayer sha2" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Bologna/CN=Giuseppe Codispoti" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=magini/CN=577890/CN=Nicolo Magini" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=amohapat/CN=718616/CN=Ankit Durgasis Mohapatra" cms
+"/C=AT/O=AustrianGrid/OU=OEAW/OU=oeaw-vienna/CN=Valentin Knuenz" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=neggert/CN=671510/CN=Nicholas Scott Eggert" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ghm/CN=398875/CN=Gautier Hamel De Monchenault" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sfonseca/CN=659705/CN=Sandro Fonseca De Souza" cms
+"/C=BR/O=ANSP/OU=ANSPGrid CA/OU=People/CN=Jadir Marra da Silva" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ojalvo/CN=708760/CN=Isabel Ojalvo" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dntaylor/CN=750062/CN=Devin Nathaniel Taylor" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=CC-IN2P3/CN=Aresh Vedaee" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mbouravi/CN=741221/CN=Maria Boura - Vistalina" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=grimes/CN=681339/CN=Mark Andrew Grimes" cms
+"/C=CN/O=HEP/O=PKU/OU=PHYS/CN=Chayanit Asawatangtrakuldee" cms
+"/DC=org/DC=doegrids/OU=People/CN=Viatcheslav VALUEV 808743" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dkcira/CN=655958/CN=Dorian Kcira" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=giacomel/CN=395340/CN=Paolo Giacomelli" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jpata/CN=727914/CN=Joosep Pata" cms
+"/DC=org/DC=doegrids/OU=People/CN=Krista Larson 197253" cms
+"/DC=org/DC=doegrids/OU=People/CN=Johanna-Laina Fischer 131160" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sunny/CN=753041/CN=Seon Hee Seo" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=samantha/CN=725683/CN=Samantha Kaushalya Hewamanage" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=rkunnawa/CN=748357/CN=Raghav Kunnawalkam Elayavalli" cms
+"/C=DE/O=GermanGrid/OU=DESY/CN=Luigi Calligaris" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=azagozdz/CN=732057/CN=Agnieszka Anna Zagozdzinska" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=litov/CN=408342/CN=Leandar Litov" cms
+"/DC=org/DC=doegrids/OU=Services/CN=uscmspilot48/glidein-1.t2.ucsd.edu" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cwiok/CN=384717/CN=Mikolaj Cwiok" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=nnazirid/CN=733973/CN=Nikolaos Naziridis" cms
+"/C=BE/O=BEGRID/OU=PHYS/OU=UCL/CN=Ceard Ludivine" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=emsmith/CN=747676/CN=Emily Ann Smith" cms
+"/C=BE/O=BEGRID/OU=IIHE/OU=ULB/CN=Tomislav Seva" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=woodson/CN=696672/CN=Javier Mauricio Duarte" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=amauri/CN=720059/CN=Andrea Mauri" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=velicanu/CN=708329/CN=Dragos Velicanu" cms
+"/DC=org/DC=doegrids/OU=People/CN=Daryl Curtis Hare 564575" cms
+"/C=CN/O=HEP/O=PKU/OU=PHYS/CN=Geng Chen" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=syeager/CN=709485/CN=Sean Yeager" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Torino/CN=Luca PACHER" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=tsewell/CN=750068/CN=Troy Jacob Sewell" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=pedrok/CN=697073/CN=Kevin Pedro" cms
+"/DC=org/DC=doegrids/OU=People/CN=Charles Mueller 949174" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ftarsita/CN=750027/CN=Federica Tarsitano" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=aholguin/CN=674990/CN=Andres Holguin Coral" cms
+"/C=DE/O=GermanGrid/OU=uni-hamburg/CN=Denis Rathjens" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=diguida/CN=617260/CN=Salvatore Di Guida" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=parracho/CN=616917/CN=Pedro Ferreira Parracho" cms
+"/DC=gov/DC=fnal/O=Fermilab/OU=People/CN=Joel N. Butler/CN=UID:butler" cms
+"/DC=org/DC=doegrids/OU=People/CN=Seangchan Ryu 561914" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=aocampor/CN=673064/CN=Alberto Andres Ocampo Rios" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Fisica Milano Bicocca/CN=Fabio Farina" cms
+"/C=UK/O=eScience/OU=CLRC/L=RAL/CN=jelena ilic" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=alben/CN=374097/CN=Alberto Benvenuti" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jalmond/CN=683103/CN=John Leslie Almond" cms
+"/C=CN/O=HEP/O=PKU/OU=PHYS/CN=Yiwen Wen" cms
+"/C=GR/O=HellasGrid/OU=uoi.gr/CN=Ioannis Papadopoulos" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=organtin/CN=419552/CN=Giovanni Organtini" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=folguera/CN=675430/CN=Santiago Folgueras" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mdjordje/CN=658565/CN=Milos Dordevic" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ywchang/CN=694349/CN=Yu-Wei Chang" cms
+"/C=DE/O=GermanGrid/OU=DESY/CN=Jakob Salfeld-nebgen" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=srimanob/CN=628708/CN=Phat Srimanobhas" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=hckim/CN=675606/CN=Hyunchul Kim" cms
+"/C=DE/O=GermanGrid/OU=uni-hamburg/CN=Marc Stoever" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ptc/CN=384165/CN=Tim Cox" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cmsapf22/CN=606831/CN=Robot: CMS Apf 22" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=rasharma/CN=749075/CN=Ram Krishna Sharma" cms
+"/DC=org/DC=doegrids/OU=People/CN=James A Faulkner 456194" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Bologna/CN=Luigi Guiducci" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Trieste/CN=Giuseppe Della Ricca" cms
+"/DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Diego da Silva Gomes 567" cms
+"/DC=es/DC=irisgrid/O=ciemat/CN=alberto.escalante" cms
+"/DC=ch/DC=cern/OU=computers/CN=devaso1.cern.ch" cms
+"/C=DE/O=GermanGrid/OU=DESY/CN=Jasone Garay" cms
+"/DC=org/DC=doegrids/OU=People/CN=Stoyan Stoynev 203936" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=pkurt/CN=639829/CN=Pelin Kurt Garberson" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=muell149/CN=692158/CN=Charles Nicholas Mueller" cms
+"/C=TW/O=AP/OU=GRID/CN=Bajrang Sutar 529990" cms
+"/C=CN/O=HEP/O=IHEP/OU=CC/CN=SarmadMasood Shaheen" cms
+"/C=DE/O=GermanGrid/OU=DESY/CN=Claus Kleinwort" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=samir/CN=695732/CN=Samir Cury Siqueira" cms
+"/DC=org/DC=doegrids/OU=People/CN=Jay R Dittmann 318094" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=fruboes/CN=657069/CN=Tomasz Maciej Frueboes" cms
+"/C=TW/O=AP/OU=GRID/CN=Bhawandeep Bhawandeep 196178" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=pablo79/CN=695800/CN=Pablo Goldenzweig" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Fisica Milano Bicocca/CN=Tommaso Tabarelli de Fatis" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Bologna/CN=Andrea Perrotta" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ilkratsc/CN=704095/CN=Ilse Kratschmer" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jpb/CN=696562/CN=Joe Bochenek" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=zzolkapl/CN=705358/CN=Zukhaimira Binti Zolkapli" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sigamani/CN=709665/CN=Michael Sigamani" cms
+"/DC=es/DC=irisgrid/O=ifca/CN=Jesus.Marco.deLucas" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Padova/CN=Ugo Gasparini" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mirena/CN=669527/CN=Mirena Ivova Rikova" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=giordano/CN=608348/CN=Domenico Giordano" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mplaner/CN=696407/CN=Michael Planer" cms
+"/C=UK/O=eScience/OU=Brunel/L=CC/CN=philip symonds" cms
+"/C=DE/O=GermanGrid/OU=DESY/CN=Paolo Gunnellini" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jaeho/CN=682168/CN=Zero Kim" cms
+"/C=RU/O=RDIG/OU=users/OU=sinp.msu.ru/CN=Ksenia Shchelina" cms
+"/DC=ch/DC=cern/OU=Users/CN=gregores" cms
+"/C=IT/O=INFN/OU=Personal Certificate/L=Bari/CN=Piet Verwilligen" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=stepobr/CN=419057/CN=Stepan Obraztsov" cms
+"/DC=com/DC=DigiCert-Grid/OU=People/CN=Hongwan Liu" cms
+"/DC=org/DC=doegrids/OU=People/CN=Brendan Smith 892787" cms
+"/DC=org/DC=doegrids/OU=People/CN=Cesar Bernardes 105193" cms
+"/C=PK/O=NCP/OU=EHEP/CN=Muhammad Atif Masoud" cms
+"/C=DE/O=GermanGrid/OU=uni-hamburg/CN=Simon Kurz" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sbhowmik/CN=720826/CN=Sandeep Bhowmik" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=gbyu/CN=699360/CN=Geum Bong Yu" cms
+"/O=GRID-FR/C=FR/O=CNRS/OU=IPNL/CN=Morgan Lethuillier" cms
+"/C=DE/O=GermanGrid/OU=KIT/CN=Colin Baus" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=bortigno/CN=692582/CN=Pierluigi Bortignon" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=bantmen/CN=720824/CN=Basak Antmen" cms
+"/DC=org/DC=doegrids/OU=People/CN=Paul Lujan 310459" cms
+"/C=TW/O=AP/OU=GRID/CN=Sanmay Ganguly 144037" cms
+"/DC=org/DC=doegrids/OU=People/CN=Jeffrey D Haas 867762" cms
+"/C=AT/O=AustrianGrid/OU=OEAW/OU=oeaw-vienna/CN=Natascha Hoermann" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=iraklis/CN=678188/CN=Irakli Svintradze" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=chrjones/CN=644148/CN=Christopher Jones" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mosherso/CN=726371/CN=Marc Antoine Osherson" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=albertog/CN=657165/CN=Alberto Graziano" cms
+"/C=DE/O=GermanGrid/OU=KIT/CN=Benedikt Maier" cms
+"/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=geonmo/CN=697493/CN=Geonmo Ryu" cms
